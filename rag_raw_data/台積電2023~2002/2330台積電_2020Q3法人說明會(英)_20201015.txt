@@ -1,0 +1,844 @@
+頁面標題: 	台積電 ADR (TSM) 2020Q3電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Deputy Director of IR
+：(foreign language) Good afternoon, everyone.
+：This is Jeff Su, TSMC's Director of Investor Relations and your host for today.
+：To prevent the spread of COVID-19, TSMC is hosting our earnings conference call via live audio webcast through the company's website at www.tsmc.com, where you can also download the earnings release materials.
+：The format for today's event will be as follows: first, TSMC's Vice President and CFO, Mr. Wendell Huang, will summarize our operations in the third quarter 2020, followed by our guidance for the fourth quarter 2020.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties which could cause actual results to differ materially from those contained in the forward-looking statements.
+：And now I would like to turn the call over to TSMC's CFO, Mr. Wendell Huang, for the summary of operations and the current quarter guidance.
+：Jen-Chau Huang - VP & CFO
+：Thank you, Jeff.
+：Third quarter revenue increased 14.7% sequentially in NT dollars or 16.9% in U.S. dollars, as we saw strong demand for our advanced technologies and special technology solutions driven by 5G smartphones, HPC and IoT-related applications.
+：The operating expenses increased by TWD 7.4 billion, mainly attributable to a higher level of development activities for N4 and N3 technologies and onetime expenses to facilitate our expansion in Hsinchu.
+：Overall, our third quarter EPS was TWD 5.3, and ROE was 31.3%.
+：Now let's move on to the revenue by technology.
+：In terms of revenue contribution by platform, smartphone increased 12% quarter-over-quarter, to account for 46% of our third quarter revenue.
+：Moving on to the balance sheet.
+：On financial ratios.
+：Regarding cash flow and CapEx.
+：In U.S. dollar terms, our third quarter capital expenditures totaled $3.4 billion.
+：I have finished my financial summary.
+：Now I will hand over to -- the call to C.C. for his key messages.
+：C. C. Wei - Vice Chairman & CEO
+：Thank you, Wendell.
+：Now let me start with our near-term demand and inventory.
+：On the inventory front, we forecast our fabless customers' overall inventory to exit the year above the seasonal level as the supply chain continues to make efforts to ensure supply chain security and actively prepare for the new 5G smartphone launches.
+：For the full year of 2020, although COVID-19 continue to bring some level of impact to the global economies, we also observe that COVID-19 is accelerating digital transformation, while 5G and HPC-related applications continue to drive semiconductor content enrichment.
+：Next, let me talk about our N5 ramp-up and N4 progress.
+：TSMC's N5 is foundry industry's most advanced solution with the best PPA.
+：N4.
+：Now I will talk about our N3 status.
+：Finally, I will talk about TSMC 3DFabric.
+：As industry continue to seek innovations to enhance system-level performance, 3DFabric will complement our advanced technology to unleash our customers' innovation.
+：Now let me turn the microphone over to Wendell.
+：Jen-Chau Huang - VP & CFO
+：Thank you, C.C.
+：Let me start by making some comments on our profitability.
+：Our third quarter gross margin exceeded the high end of our guidance, to reach 53.4%, mainly as we saw a much higher-than-expected overall capacity utilization rate in the third quarter.
+：Looking to 2021, we expect the strong ramp of N5 to contribute a higher percentage of revenue, as compared to 2020.
+：As a reminder, the following 6 factors determine TSMC's profitability: leadership technology development and ramp-up, pricing, cost reduction, capacity utilization, technology mix as well as foreign exchange rate.
+：Now let me talk about our capital budget for this year.
+：Now I will make some comments on our corporate bond issuances and capital structure.
+：Jeff Su - Deputy Director of IR
+：Thank you, Wendell.
+：This concludes our prepared statements.
+：Should you wish to raise your question in Chinese, I will translate it to English before our management answers your question.
+：So now let's begin the Q&A session.
+：Operator
+：The first caller on the line is Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Congratulations on great quarter.
+：My second question is on N5.
+：Jeff Su - Deputy Director of IR
+：Okay, Gokul, thank you very much.
+：Jen-Chau Huang - VP & CFO
+：Okay, yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me say that we don't comment on how many tapeouts, so far, but we continue to see strong tapeout activities at N5 from both HPC and smartphone applications.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：Next one, we have Randy Abrams, Credit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay, yes.
+：Jeff Su - Deputy Director of IR
+：Okay, Randy, I'll summarize your question.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay, Randy, let me just summarize your second question.
+：C. C. Wei - Vice Chairman & CEO
+：Well, Randy, let me answer the question.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：Jeff Su - Deputy Director of IR
+：So Randy is asking, if we were to see a surge in demand at the mature nodes, how ready -- or do we have capacity to take on or handle this type of surge demand?
+：C. C. Wei - Vice Chairman & CEO
+：Well, we continue to work with our customer dynamically and we try our best to meet their demand.
+：Jeff Su - Deputy Director of IR
+：Yes.
+：Operator
+：The next one is Sebastian Hou from CLSA.
+：Sebastian Hou - Research Analyst
+：My first question is I think, besides the higher-than-usual inventory, which may be a new norm because of this supply chain year of disruption, how -- I wonder.
+：Jeff Su - Deputy Director of IR
+：Okay, Sebastian, let me repeat or try to summarize your question.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me share with you our view on these inventory-related issues.
+：Jeff Su - Deputy Director of IR
+：Okay, Sebastian, do you have a second...
+：Sebastian Hou - Research Analyst
+：Yes, all right.
+：Jeff Su - Deputy Director of IR
+：Sorry.
+：Sebastian Hou - Research Analyst
+：Yes, okay, all right.
+：Jeff Su - Deputy Director of IR
+：Okay, Sebastian, let me just summarize your question, which is regards to our HPC platform business.
+：C. C. Wei - Vice Chairman & CEO
+：Okay, let me answer the question.
+：Jeff Su - Deputy Director of IR
+：Yes, okay.
+：Operator
+：Next one, we have Bruce Lu from Goldman Sachs.
+：Zheng Lu - Research Analyst
+：So I want to ask about the 5G penetration rate.
+：Jeff Su - Deputy Director of IR
+：Okay, Bruce, your question is regards to 5G and smartphones.
+：Zheng Lu - Research Analyst
+：Yes, yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：All right, let me answer the question.
+：Zheng Lu - Research Analyst
+：And any impact from the telcos business as well?
+：C. C. Wei - Vice Chairman & CEO
+：I think all countries and all regions are preparing to build up the infrastructure right now.
+：Zheng Lu - Research Analyst
+：Okay, I understand.
+：Jeff Su - Deputy Director of IR
+：Okay, Bruce, your question is regards to our revenue by geography, and you want to know, for the fourth quarter, which region will contribute the most growth, in the fourth quarter.
+：Jen-Chau Huang - VP & CFO
+：Okay, Bruce, we're not prepared to comment on geographic allocation among revenues in the fourth quarter.
+：Operator
+：We have Sunny Lin from UBS.
+：Sunny Lin - Director & Associate Analyst
+：So my first question is on 5-nanometer demand.
+：Jeff Su - Deputy Director of IR
+：Sorry.
+：Sunny Lin - Director & Associate Analyst
+：Sure, sure, no problem.
+：Jeff Su - Deputy Director of IR
+：Okay, all right.
+：Sunny Lin - Director & Associate Analyst
+：That's right.
+：Jen-Chau Huang - VP & CFO
+：We don't break it down or disclose the platform mix of certain nodes, but we can share with you, as C.C. just mentioned, in the next several years, we expect HPC to be the largest contributor of our growth.
+：Sunny Lin - Director & Associate Analyst
+：Sure.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：This is pretty hard for me to answer because I did -- I cannot release all the information I got from my customer, but let me say that on the average the 5G phone have about 30% to 40% more silicon content, as compared with 4G.
+：Sunny Lin - Director & Associate Analyst
+：Sure.
+：Jeff Su - Deputy Director of IR
+：So Sunny is asking whether we can give some comment on the market share, our market share, in 5G phones the next 2 to 3 years.
+：C. C. Wei - Vice Chairman & CEO
+：No.
+：Jeff Su - Deputy Director of IR
+：Okay?
+：Sunny Lin - Director & Associate Analyst
+：Sure, got it.
+：Operator
+：Next, we have Roland Shu from Citigroup.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：My first question is can you update on the status of your license applications for shipments to Huawei.
+：Jeff Su - Deputy Director of IR
+：Okay, Roland.
+：C. C. Wei - Vice Chairman & CEO
+：Roland, we are complying fully with regulations.
+：Jeff Su - Deputy Director of IR
+：15...
+：C. C. Wei - Vice Chairman & CEO
+：September 15, okay, same.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay, okay.
+：Jeff Su - Deputy Director of IR
+：Okay, Roland, let -- thank you.
+：C. C. Wei - Vice Chairman & CEO
+：Let me answer the question.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Yes.
+：Operator
+：Next, we're having Brett Simpson from Arete Research.
+：Brett William Simpson - Senior Analyst
+：I just had a question on your long-term capacity planning.
+：Jeff Su - Deputy Director of IR
+：Okay, Brett, let me try to summarize your question.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me say that we do not comment on the specific customers, nor on the specific product, but let me say our CapEx and capacity planning is based on the long-term demand profile, that underpinned by the industry, the megatrend to meet our customers' demand.
+：Jeff Su - Deputy Director of IR
+：Do...
+：Brett William Simpson - Senior Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, again, let me say that we plan our capacity to meet the customers' demand.
+：Jeff Su - Deputy Director of IR
+：Okay, thank you, Brett.
+：Operator
+：Next one to ask question, Charlie Chan from Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：My first question is about your 2-nanometer progression because I think, a couple of weeks ago, there was a news talking about you may see the 2-nanometer in mass production in 2024.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Charlie, let me say, frankly, we are not ready to make any comment on the 2-nanometer yet, all right?
+：Charlie Chan - Technology Analyst
+：Okay, yes, but there seems to be some comments from your technology forum, so any reason why you can't disclose that to investors, the timing for the year?
+：Jeff Su - Deputy Director of IR
+：No.
+：Charlie Chan - Technology Analyst
+：Okay, okay, okay, no problem at all.
+：Jeff Su - Deputy Director of IR
+：All right.
+：Jen-Chau Huang - VP & CFO
+：Okay, Charlie.
+：Jeff Su - Deputy Director of IR
+：Great, all right.
+：Operator
+：Right now we're having Laura Chen from KGI.
+：Laura Chen - Research Analyst
+：Congratulations for the good result.
+：Jeff Su - Deputy Director of IR
+：Okay, so Laura, your first question is regards to our 3-nanometer.
+：C. C. Wei - Vice Chairman & CEO
+：All right, let me answer the question first on the engaging with customer.
+：Laura Chen - Research Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay, Laura.
+：Laura Chen - Research Analyst
+：Yes, yes, correct.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay, does that answer your question, Laura?
+：Operator
+：Next one, we'd have Krish Sankar, Cowen and Company.
+：Krish Sankar - MD & Senior Research Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay, thank you, Krish.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me answer the -- specifically on the 28-nanometer.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Krish Sankar - MD & Senior Research Analyst
+：Yes, it does.
+：Operator
+：Next one, we're having Rick Hsu from Daiwa Securities.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes.
+：Jeff Su - Deputy Director of IR
+：So your first question, to clarify, our 2020 CapEx.
+：Jen-Chau Huang - VP & CFO
+：Yes, it's about USD 17 billion.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes, okay, yes...
+：Jen-Chau Huang - VP & CFO
+：Yes.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes, yes.
+：Jen-Chau Huang - VP & CFO
+：Yes.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：All right.
+：Jeff Su - Deputy Director of IR
+：You -- sure.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay, Rick.
+：C. C. Wei - Vice Chairman & CEO
+：Okay, let me share with you again our view on inventory.
+：Jeff Su - Deputy Director of IR
+：Okay?
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Great.
+：Operator
+：Next one is Mehdi Hosseini from SIG.
+：Mehdi Hosseini - Senior Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：We are going to share with you in the first investor conference, all right?
+：Jeff Su - Deputy Director of IR
+：Okay, your second question, Mehdi?
+：Mehdi Hosseini - Senior Analyst
+：Okay, sure.
+：Jeff Su - Deputy Director of IR
+：So your question is the tapeout activity at N4 and N5 as compared to N7.
+：C. C. Wei - Vice Chairman & CEO
+：Well...
+：Mehdi Hosseini - Senior Analyst
+：Yes, if there is any update?
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay, all right.
+：Operator
+：Right now we have Gokul Hariharan from JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：There has been a lot of discussion on market share on leading edge.
+：Jeff Su - Deputy Director of IR
+：All right, Gokul's first follow-up question is in terms of market share.
+：C. C. Wei - Vice Chairman & CEO
+：Gokul, it seems I'll continue to say we have technology leadership.
+：Jeff Su - Deputy Director of IR
+：Okay?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：They are very similar because of we are always the technology leader.
+：Jeff Su - Deputy Director of IR
+：Okay, thank you, yes.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Okay, understood.
+：Jeff Su - Deputy Director of IR
+：I think -- Gokul, sorry.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Okay, all right.
+：Jeff Su - Deputy Director of IR
+：All right.
+：Operator
+：Next one, we have Randy Abrams from Credit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay, yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Randy, let me share with you that in the third quarter the R&D expenses are higher because of our development activities in N4 and N3.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay, great.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：All right.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes, yes.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Yes, that's right.
+：Jeff Su - Deputy Director of IR
+：Yes, okay.
+：Operator
+：Next one is Sebastian Hou, CLSA.
+：Jeff Su - Deputy Director of IR
+：Sebastian, you may need to unmute.
+：Sebastian Hou - Research Analyst
+：So let me -- first question.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, Sebastian, actually, in TSMC's view, all my customers are our partners.
+：Sebastian Hou - Research Analyst
+：Great.
+：Jeff Su - Deputy Director of IR
+：Okay, Sebastian, thank you.
+：C. C. Wei - Vice Chairman & CEO
+：Okay, Sebastian.
+：Sebastian Hou - Research Analyst
+：Yes, yes.
+：Operator
+：Next one, we have Bruce Lu from Goldman Sachs.
+：Zheng Lu - Research Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay?
+：Zheng Lu - Research Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Zheng Lu - Research Analyst
+：28.
+：Jeff Su - Deputy Director of IR
+：I'm sorry...
+：C. C. Wei - Vice Chairman & CEO
+：28.
+：Jeff Su - Deputy Director of IR
+：28.
+：Zheng Lu - Research Analyst
+：I'm sorry.
+：Jeff Su - Deputy Director of IR
+：Yes, 28-nanometer.
+：C. C. Wei - Vice Chairman & CEO
+：Bruce, let me say that the progress is a little bit slower than we expected, but still, in 1 to 2 years, the utilization rate of the 28-nanometer particularly, we'll advance it to 22-nanometer while it reaching the corporate average.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The last one to ask questions is Roland Shu from Citigroup.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay, Roland.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Correct, great.
+：C. C. Wei - Vice Chairman & CEO
+：Roland, it's actually very hard to answer your question whether the N6 is the same kind of group of N4.
+：Jen-Chau Huang - VP & CFO
+：Yes.
+：C. C. Wei - Vice Chairman & CEO
+：Did that...
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay, that is -- yes, I've been -- yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay?
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay.
+：Jeff Su - Deputy Director of IR
+：All right, this concludes our Q&A session.
+：Before we conclude today's conference, please be advised that the replay of the conference will be accessible within 4 hours from now.
+：Thank you, everyone, for joining us today.
+：
+：Jeff Su - Deputy Director of IR
+：（外語）大家下午好。
+：我是台積電投資者關係總監 Jeff Su，也是今天的主持人。
+：為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 以現場音頻網絡直播的方式主持我們的收益電話會議，您還可以在該網站下載收益發布材料。
+：今天活動的形式如下：首先，台積電副總裁兼首席財務官黃文德先生將總結我們在 2020 年第三季度的運營，然後是我們對 2020 年第四季度的指導。
+：像往常一樣，我想提醒大家，今天的討論可能包含前瞻性陳述，這些陳述存在重大風險和不確定性，可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。
+：現在我想把電話轉給台積電的首席財務官 Wendell Huang 先生，了解運營總結和當前季度的指導。
+：Jen-Chau Huang - VP & CFO
+：謝謝你，傑夫。
+：第三季度收入按新台幣計算環比增長 14.7%，按美元計算增長 16.9%，這是因為我們看到 5G 智能手機、HPC 和物聯網相關應用對我們先進技術和特殊技術解決方案的強勁需求。
+：營業費用增加新台幣 74 億元，主要是由於 N4 和 N3 技術的開發活動水平更高，以及為促進我們在新竹的擴張而進行的一次性費用。
+：總體而言，我們第三季度的每股收益為新台幣 5.3 元，淨資產收益率為 31.3%。
+：現在讓我們繼續討論技術收入。
+：就平台收入貢獻而言，智能手機環比增長 12%，占我們第三季度收入的 46%。
+：轉到資產負債表。
+：關於財務比率。
+：關於現金流和資本支出。
+：以美元計算，我們第三季度的資本支出總額為 34 億美元。
+：我已經完成了我的財務摘要。
+：現在我將移交給 - 給 C.C. 的電話。為他的關鍵信息。
+：C. C. Wei - Vice Chairman & CEO
+：謝謝你，溫德爾。
+：現在讓我從我們的近期需求和庫存開始。
+：在庫存方面，由於供應鏈繼續努力確保供應鏈安全並積極準備新的 5G 智能手機發布，我們預計無晶圓廠客戶的整體庫存將超過季節性水平。
+：2020年全年，雖然COVID-19繼續給全球經濟帶來一定程度的影響，但我們也觀察到COVID-19正在加速數字化轉型，而5G和HPC相關應用繼續推動半導體內容豐富。
+：接下來說一下我們N5的ramp-up和N4的進展。
+：TSMC 的 N5 是晶圓代工行業最先進的解決方案，具有最佳的 PPA。
+：N4。
+：現在我將談談我們的N3身份。
+：最後說一下TSMC 3DFabric。
+：隨著行業不斷尋求創新以提高系統級性能，3DFabric 將補充我們的先進技術以釋放我們客戶的創新能力。
+：現在讓我把話筒交給溫德爾。
+：Jen-Chau Huang - VP & CFO
+：謝謝你，C.C.
+：首先讓我對我們的盈利能力發表一些評論。
+：我們第三季度的毛利率超過我們指引的上限，達到 53.4%，主要是因為我們看到第三季度的整體產能利用率遠高於預期。
+：展望 2021 年，我們預計與 2020 年相比，N5 的強勁增長將貢獻更高的收入百分比。
+：提醒一下，以下6個因素決定了台積電的盈利能力：領先的技術開發和提升、定價、成本降低、產能利用率、技術組合以及匯率。
+：現在讓我談談我們今年的資本預算。
+：下面我就公司債券發行和資本結構做一些評論。
+：Jeff Su - Deputy Director of IR
+：謝謝你，溫德爾。
+：我們準備好的聲明到此結束。
+：如果您想用中文提出問題，我會在我們的管理層回答您的問題之前將其翻譯成英文。
+：那麼現在讓我們開始問答環節。
+：Operator
+：第一個來電者是摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：祝賀偉大的季度。
+：我的第二個問題是關於 N5。
+：Jeff Su - Deputy Director of IR
+：好的，Gokul，非常感謝你。
+：Jen-Chau Huang - VP & CFO
+：好的，是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我要說的是，到目前為止，我們不評論有多少流片，但我們繼續看到來自 HPC 和智能手機應用程序的 N5 上的流片活動。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位是瑞士信貸的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的，是的。
+：Jeff Su - Deputy Director of IR
+：好的，蘭迪，我會總結你的問題。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的，蘭迪，讓我總結一下你的第二個問題。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，蘭迪，讓我回答這個問題。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：Jeff Su - Deputy Director of IR
+：所以蘭迪問，如果我們看到成熟節點的需求激增，準備得如何——或者我們是否有能力承擔或處理這種激增的需求？
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我們繼續與我們的客戶動態合作，我們盡力滿足他們的需求。
+：Jeff Su - Deputy Director of IR
+：是的。
+：Operator
+：下一位是來自 CLSA 的 Sebastian Hou。
+：Sebastian Hou - Research Analyst
+：我的第一個問題是，我認為，除了高於平常的庫存，這可能是一個新的常態，因為今年供應鏈中斷，我想知道。
+：Jeff Su - Deputy Director of IR
+：好的，塞巴斯蒂安，讓我重複或嘗試總結您的問題。
+：C. C. Wei - Vice Chairman & CEO
+：那麼，讓我與您分享我們對這些庫存相關問題的看法。
+：Jeff Su - Deputy Director of IR
+：好吧，塞巴斯蒂安，你有時間……
+：Sebastian Hou - Research Analyst
+：嗯，好。
+：Jeff Su - Deputy Director of IR
+：對不起。
+：Sebastian Hou - Research Analyst
+：是的，好的，好的。
+：Jeff Su - Deputy Director of IR
+：好的，塞巴斯蒂安，讓我總結一下你的問題，這是關於我們的 HPC 平台業務的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，讓我回答問題。
+：Jeff Su - Deputy Director of IR
+：是的，好的。
+：Operator
+：下一個，我們有來自高盛的 Bruce Lu。
+：Zheng Lu - Research Analyst
+：所以想問一下5G普及率。
+：Jeff Su - Deputy Director of IR
+：好的，Bruce，你的問題是關於 5G 和智能手機的。
+：Zheng Lu - Research Analyst
+：是的是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，讓我來回答問題。
+：Zheng Lu - Research Analyst
+：電信業務也有什麼影響嗎？
+：C. C. Wei - Vice Chairman & CEO
+：我認為現在所有國家和地區都在準備建設基礎設施。
+：Zheng Lu - Research Analyst
+：好，我懂了。
+：Jeff Su - Deputy Director of IR
+：好的，布魯斯，你的問題是關於我們按地域劃分的收入，你想知道第四季度哪個地區的增長貢獻最大。
+：Jen-Chau Huang - VP & CFO
+：好的，布魯斯，我們不准備評論第四季度收入的地域分配。
+：Operator
+：我們有來自瑞銀的 Sunny Lin。
+：Sunny Lin - Director & Associate Analyst
+：所以我的第一個問題是關於 5 納米的需求。
+：Jeff Su - Deputy Director of IR
+：對不起。
+：Sunny Lin - Director & Associate Analyst
+：當然可以，沒問題。
+：Jeff Su - Deputy Director of IR
+：好的，好的。
+：Sunny Lin - Director & Associate Analyst
+：那就對了。
+：Jen-Chau Huang - VP & CFO
+：我們不會對其進行分解或透露某些節點的平台組合，但我們可以與您分享，作為 C.C.剛才提到，在接下來的幾年裡，我們預計 HPC 將成為我們增長的最大貢獻者。
+：Sunny Lin - Director & Associate Analyst
+：當然。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：這對我來說很難回答，因為我做到了——我無法公佈我從客戶那裡得到的所有信息，但我可以說，與 5G 手機相比，5G 手機的矽含量平均高出 30% 到 40%。 4G。
+：Sunny Lin - Director & Associate Analyst
+：當然。
+：Jeff Su - Deputy Director of IR
+：所以 Sunny 問我們是否可以對未來 2 到 3 年 5G 手機的市場份額，我們的市場份額發表一些評論。
+：C. C. Wei - Vice Chairman & CEO
+：不。
+：Jeff Su - Deputy Director of IR
+：好的？
+：Sunny Lin - Director & Associate Analyst
+：當然，明白了。
+：Operator
+：接下來，我們有來自花旗集團的 Roland Shu。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：我的第一個問題是你能更新一下你向華為發貨的許可證申請的狀態嗎？
+：Jeff Su - Deputy Director of IR
+：好的，羅蘭。
+：C. C. Wei - Vice Chairman & CEO
+：羅蘭，我們完全遵守規定。
+：Jeff Su - Deputy Director of IR
+：15...
+：C. C. Wei - Vice Chairman & CEO
+：9月15日，好吧，一樣。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好吧好吧。
+：Jeff Su - Deputy Director of IR
+：好的，羅蘭，讓——謝謝。
+：C. C. Wei - Vice Chairman & CEO
+：讓我回答這個問題。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：是的。
+：Operator
+：接下來，我們請來了 Arete Research 的 Brett Simpson。
+：Brett William Simpson - Senior Analyst
+：我剛剛有一個關於您的長期容量規劃的問題。
+：Jeff Su - Deputy Director of IR
+：好的，布雷特，讓我試著總結一下你的問題。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我要說的是，我們不對特定客戶或特定產品發表評論，但我要說的是，我們的資本支出和產能規劃是基於長期需求概況，以行業為基礎，滿足大趨勢我們客戶的需求。
+：Jeff Su - Deputy Director of IR
+：做...
+：Brett William Simpson - Senior Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我再說一遍，我們計劃我們的產能以滿足客戶的需求。
+：Jeff Su - Deputy Director of IR
+：好的，謝謝你，布雷特。
+：Operator
+：下一位要提問的是摩根士丹利的陳查理。
+：Charlie Chan - Technology Analyst
+：我的第一個問題是關於你們的 2 納米進展，因為我認為，幾週前，有一條新聞說你們可能會在 2024 年看到 2 納米量產。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：查理，讓我說，坦率地說，我們還沒有準備好對 2 納米發表任何評論，好嗎？
+：Charlie Chan - Technology Analyst
+：好的，是的，但是你的技術論壇上似乎有一些評論，所以你為什麼不能向投資者透露這一年的時間？
+：Jeff Su - Deputy Director of IR
+：不。
+：Charlie Chan - Technology Analyst
+：好的，好的，好的，一點問題都沒有。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：好的，查理。
+：Jeff Su - Deputy Director of IR
+：太好了，好吧。
+：Operator
+：現在我們有來自 KGI 的 Laura Chen。
+：Laura Chen - Research Analyst
+：恭喜取得好成績。
+：Jeff Su - Deputy Director of IR
+：好的，勞拉，你的第一個問題是關於我們的 3 納米。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，讓我先回答關於與客戶互動的問題。
+：Laura Chen - Research Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的，勞拉。
+：Laura Chen - Research Analyst
+：是的，是的，沒錯。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的，勞拉，這是否回答了你的問題？
+：Operator
+：下一個，我們有 Krish Sankar、Cowen 和 Company。
+：Krish Sankar - MD & Senior Research Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的，謝謝你，克里什。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，讓我回答——特別是關於 28 納米。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Krish Sankar - MD & Senior Research Analyst
+：是的，它確實。
+：Operator
+：下一個，我們有來自大和證券的 Rick Hsu。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的。
+：Jeff Su - Deputy Director of IR
+：所以你的第一個問題，澄清一下，我們的 2020 年資本支出。
+：Jen-Chau Huang - VP & CFO
+：是的，大約是 170 億美元。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的，好的，是的...
+：Jen-Chau Huang - VP & CFO
+：是的。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的是的。
+：Jen-Chau Huang - VP & CFO
+：是的。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：好的。
+：Jeff Su - Deputy Director of IR
+：你確定。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的，瑞克。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我再跟大家分享一下我們對庫存的看法。
+：Jeff Su - Deputy Director of IR
+：好的？
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：偉大的。
+：Operator
+：下一位是來自 SIG 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：我們將在第一屆投資者會議上與您分享，好嗎？
+：Jeff Su - Deputy Director of IR
+：好的，你的第二個問題，Mehdi？
+：Mehdi Hosseini - Senior Analyst
+：好的，當然。
+：Jeff Su - Deputy Director of IR
+：所以你的問題是與 N7 相比，N4 和 N5 的流片活動。
+：C. C. Wei - Vice Chairman & CEO
+：出色地...
+：Mehdi Hosseini - Senior Analyst
+：是的，如果有任何更新？
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的，好的。
+：Operator
+：現在我們有來自摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：關於前沿市場份額的討論很多。
+：Jeff Su - Deputy Director of IR
+：好的，Gokul 的第一個後續問題是市場份額方面的問題。
+：C. C. Wei - Vice Chairman & CEO
+：Gokul，看來我會繼續說我們擁有技術領先地位。
+：Jeff Su - Deputy Director of IR
+：好的？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：它們非常相似，因為我們始終是技術領先者。
+：Jeff Su - Deputy Director of IR
+：好的，謝謝，是的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：好的，明白了。
+：Jeff Su - Deputy Director of IR
+：我想—— Gokul，抱歉。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：好的，好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個，我們有來自瑞士信貸的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的，是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：蘭迪，讓我和你分享一下，由於我們在 N4 和 N3 的開發活動，第三季度的研發費用更高。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好，太棒了。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的是的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jen-Chau Huang - VP & CFO
+：恩，那就對了。
+：Jeff Su - Deputy Director of IR
+：是的，好的。
+：Operator
+：下一位是里昂證券的塞巴斯蒂安侯。
+：Jeff Su - Deputy Director of IR
+：塞巴斯蒂安，你可能需要取消靜音。
+：Sebastian Hou - Research Analyst
+：那麼讓我——第一個問題。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：嗯，塞巴斯蒂安，實際上，在台積電看來，我所有的客戶都是我們的合作夥伴。
+：Sebastian Hou - Research Analyst
+：偉大的。
+：Jeff Su - Deputy Director of IR
+：好的，塞巴斯蒂安，謝謝你。
+：C. C. Wei - Vice Chairman & CEO
+：好的，塞巴斯蒂安。
+：Sebastian Hou - Research Analyst
+：是的是的。
+：Operator
+：下一個，我們有來自高盛的 Bruce Lu。
+：Zheng Lu - Research Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的？
+：Zheng Lu - Research Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Zheng Lu - Research Analyst
+：28.
+：Jeff Su - Deputy Director of IR
+：對不起...
+：C. C. Wei - Vice Chairman & CEO
+：28.
+：Jeff Su - Deputy Director of IR
+：28.
+：Zheng Lu - Research Analyst
+：對不起。
+：Jeff Su - Deputy Director of IR
+：是的，28 納米。
+：C. C. Wei - Vice Chairman & CEO
+：Bruce，讓我說進度比我們預期的要慢一點，但是仍然在1到2年內，特別是28納米的利用率，我們會在它到達企業的同時將其推進到22納米平均的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：最後一位提問的是來自花旗集團的Roland Shu。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的，羅蘭。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：正確，很棒。
+：C. C. Wei - Vice Chairman & CEO
+：羅蘭，其實很難回答你的問題，N6是不是和N4是同一組的。
+：Jen-Chau Huang - VP & CFO
+：是的。
+：C. C. Wei - Vice Chairman & CEO
+：做過某事...
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的，那是——是的，我一直是——是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的？
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。
+：Jeff Su - Deputy Director of IR
+：好了，我們的問答環節到此結束。
+：在我們結束今天的會議之前，請注意會議的重播將在 4 小時後提供。
+：謝謝大家今天加入我們。
+：

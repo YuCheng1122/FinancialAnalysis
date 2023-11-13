@@ -1,0 +1,820 @@
+頁面標題: 	台積電 ADR (TSM) 2020Q2電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Deputy Director of IR
+：(foreign language) Ladies and gentlemen, welcome to TSMC's Second Quarter 2020 Earnings Conference Call.
+：This is Jeff Su, TSMC's Director of Investor Relations and your host for today.
+：To prevent the spread of COVID-19, TSMC is hosting our earnings conference call via live audio webcast through the company's website at www.tsmc.com, where you can also download the earnings release materials.
+：The format for today's event will be as follows.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties which could cause actual results to differ materially from those contained in the forward-looking statements.
+：And now I would like to turn the call over to TSMC's CFO, Mr.  Wendell Huang, for the summary of operations and current quarter guidance.
+：Jen-Chau Huang - VP & CFO
+：Thank you, Jeff.
+：Second quarter revenue was flat sequentially, as the continued 5G infrastructure deployment and HPC-related product launches offset weaknesses in other platforms.
+：Overall, our second quarter EPS was TWD 4.66, and ROE was 28.5%.
+：Now let's move on to the revenue by technology.
+：Moving on to revenue contribution by platform.
+：Moving on to the balance sheet.
+：Now let me make a few comments on cash flow and CapEx.
+：I've finished my financial summary.
+：Based on the current business outlook, we expect our third quarter revenue to be between USD 11.2 billion and USD 11.5 billion, which represents a 9.3% sequential increase at the midpoint.
+：Now I will hand over the call to C.C. for his key messages.
+：C. C. Wei - Vice Chairman & CEO
+：Thank you, Wendell.
+：Let me start with our near-term demand outlook.
+：We concluded our second quarter with revenue of TWD 310.7 billion or USD 10.4 billion, in line with our guidance given 3 months ago.
+：Looking at the second half of this year.
+：For TSMC, although COVID-19-related uncertainties remain, our technology leadership position enable us to outperform the foundry revenue growth.
+：Now let me talk about the impact of new U.S. regulations.
+：In the mid- to long term, we believe the underlying megatrend of 5G-related and HPC applications remain intact, and supply chain can adjust and rebalance themselves.
+：Next, let me talk about our N5 ramp-up and N4 introduction.
+：N5 is the foundry industry's most advanced solution with the best PPA.
+：Now I will talk about our N3 status.
+：Finally, let me talk about our U.S. fab plan.
+：Now let me turn the microphone over to our CFO.
+：Jen-Chau Huang - VP & CFO
+：Thank you, C.C.
+：Let me start by making some comments on our second half profitability outlook.
+：Now let me talk about our capital budget for this year.
+：That concludes my key messages.
+：Jeff Su - Deputy Director of IR
+：Thank you, Wendell.
+：This concludes our prepared statements.
+：Operator
+：The first to ask questions, Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Great results in a tough time.
+：My second question is when we think about leading edge, once the U.S. regulation starts to come in, how do we think about managing capacity?
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：It should be no problem because of -- as we just stated, that the 5Gs megatrend and also HPC-related application continue to be very strong.
+：Mark Liu - Chairman of the Board
+：Let me add...
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Do we, do you feel that even for N5 that is applicable?
+：C. C. Wei - Vice Chairman & CEO
+：Yes.
+：Mark Liu - Chairman of the Board
+：Let me add to that.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：Next to ask questions, Sebastian Hou, CLSA.
+：Sebastian Hou - Research Analyst
+：So my first one is I wanted to get some -- pick your brain about how do you evaluate the feasibility and possibility of building up an advanced node fab without American contents, be it technology equivalent IP material, et cetera, in the next 5 years or 10 years or even longer.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me answer that question.
+：Jeff Su - Deputy Director of IR
+：Yes.
+：Mark Liu - Chairman of the Board
+：Let me pick up this one here.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Sebastian Hou - Research Analyst
+：Yes, yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next caller is Bill Lu from UBS.
+：William Lu - MD and Asia Semiconductors Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next caller is Brett Simpson from Arete Research.
+：Brett William Simpson - Senior Analyst
+：I wanted to ask about your relationship with Huawei and how you see the impacts of the U.S. regulation on your business with Huawei in the second half of the year.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Mark Liu - Chairman of the Board
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Brett William Simpson - Senior Analyst
+：Yes, just a follow-up.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next one on the line is Mehdi Hosseini from SIG.
+：Mehdi Hosseini - Senior Analyst
+：I want to go back to your N4 and N3.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Mehdi Hosseini - Senior Analyst
+：Correct.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：All right.
+：Jeff Su - Deputy Director of IR
+：Okay, thank you.
+：Mehdi Hosseini - Senior Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：So Mehdi, your second question is looking at our HPC sequential growth in the second quarter.
+：Jen-Chau Huang - VP & CFO
+：Well, Mehdi, I don't think we want to break down the details on the different platforms.
+：Mehdi Hosseini - Senior Analyst
+：The concern is that maybe perhaps Huawei may have pulled in before you stop taking orders.
+：Jen-Chau Huang - VP & CFO
+：Sorry, Mehdi.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next one, we're having Randy Abrams from Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：My first question.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：CapEx and sales, the sales just factored in your comments about inventory if your competitor is taking a bit of business and also your view that we could have a -- or don't rule out an inventory adjustment.
+：Mark Liu - Chairman of the Board
+：The -- let me discuss.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay, Randy's second question.
+：Jen-Chau Huang - VP & CFO
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next one is Roland Shu from Citigroup.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：First question is can you remind me again how does the inventory variation adjustment work every quarter.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：Correct.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Let me -- he's asking about how we work with customers dynamically to mitigate the impact of what we've done.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next questions,  Charlie Chan, Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：So my first question is really about your upward revision of the full year revenue guidance.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, Charlie, we do observe the 5Gs smartphone, the momentum is getting stronger, is -- so we understand the situation.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Charlie Chan - Technology Analyst
+：Yes, I do.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Charlie Chan - Technology Analyst
+：Yes, on that figure, yes.
+：Mark Liu - Chairman of the Board
+：Well, as you know, the -- with expanding our technology ecosystem and reach to global talent, closer to our customer to get a better service are all benefits of the fab in U.S., but in the past, indeed the cost, the gap, prohibited us to make those decisions.
+：Jeff Su - Deputy Director of IR
+：And then okay.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next one to ask questions, Bruce Lu, Goldman Sachs.
+：Zheng Lu - Research Analyst
+：I think, given your positive progress in 3 nanometers and 5 nanometers and especially regional CapEx, can we assume that -- similar to previous node like 7-nanometer or 12 millimeters, that the first year of 3 nanometers can achieve 10% of the wafer revenue and second year of the 5-nanometer can achieve 30% of the wafer revenues?
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Do you have a second question, Bruce?
+：Zheng Lu - Research Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, the 5G penetration, as I said, momentum continued to increase.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next on the line is Aaron Jeng from Nomura Securities.
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：Can I have a follow-up to Bruce's question just right now?
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：The answer is yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：Okay, okay, let me -- so okay, let's ask my -- this question, that what -- and I was trying to compare the outlook offered by TSMC for the industry and the outlook given in the year beginning 6 months ago.
+：Okay, so my question is, over the last 6 months, TSMC, along with actually everyone in the world, particularly in tech, has experienced 2 difficult challenges, including, one, COVID-19; and two, Huawei issues.
+：Jeff Su - Deputy Director of IR
+：Aaron, okay, I think -- let me summarize your question because it's quite long.
+：C. C. Wei - Vice Chairman & CEO
+：Well, I can answer that question by simply one word: technology leadership.
+：Jeff Su - Deputy Director of IR
+：Okay -- it's all right, yes.
+：Operator
+：Next, we're having Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：First of all, I just wanted to understand.
+：Second, I just wanted to understand what is management's view on how much of this year's outgrowth, compared with semiconductor industry, have been on some of those inventory builds that your customers have undertaken in terms -- over the last several years.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：We certainly -- at this time, I don't think we can separate them.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, we continue to emphasize that we will be at the high end of 5% to 10% CAGR.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：Next one, we are having Sebastian Hou from CLSA.
+：Jeff Su - Deputy Director of IR
+：Sebastian, are you on the line?
+：Sebastian Hou - Research Analyst
+：Sorry.
+：Jeff Su - Deputy Director of IR
+：Yes, we can hear you.
+：Sebastian Hou - Research Analyst
+：Okay, okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：And then the 2020 growth outlook by the 4 platforms.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay?
+：Sebastian Hou - Research Analyst
+：Okay, okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, we base on the one we work with our customer.
+：Sebastian Hou - Research Analyst
+：So all of that...
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：Next one, we're having Mehdi Hosseini, SIG.
+：Mehdi Hosseini - Senior Analyst
+：I'm a little bit confused and I was wondering if you can help me.
+：Jeff Su - Deputy Director of IR
+：It's -- okay, Mehdi, your question is how -- your observation is that 5G smartphone sell-through is mainly coming through at the low-end 5G smartphones priced at USD 300 or less.
+：Mehdi Hosseini - Senior Analyst
+：And also your outlook for the year.
+：Jeff Su - Deputy Director of IR
+：So Mehdi is also asking because, in April, we said our outlook was premised on stabilization of COVID by June, but now it looks like COVID-19 continues.
+：C. C. Wei - Vice Chairman & CEO
+：We don't -- actually, we don't confirm there is a second wave of COVID-19 per se, but we did that one alone.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Mehdi Hosseini - Senior Analyst
+：May I have one follow-up on CapEx?
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Mehdi Hosseini - Senior Analyst
+：Just the $1 billion of the increase to 2020 CapEx, is that equally distributed between front-end equipment and back end?
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next one, we are having Laura Chen from KGI.
+：Laura Chen - Research Analyst
+：Congratulations for the good results.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Laura Chen - Research Analyst
+：Yes, yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：All right, let me answer that, our mature node or what we call specialty, our mature nodes are loading actually is quite good, except 28-nanometer, okay?
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：Next one to ask questions, Randy Abrams, Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay, yes.
+：Mark Liu - Chairman of the Board
+：Actually, the current regulation spells do not prohibit it, standard product or general product, to be able to ship to Huawei.
+：Jeff Su - Deputy Director of IR
+：I think I -- Randy, part of your question is that, from TSMC's perspective, are there alternative ways to ship to this customer such as shipping to OSATs?
+：Mark Liu - Chairman of the Board
+：No, no.
+：Jeff Su - Deputy Director of IR
+：Okay?
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay, that's -- okay, if I can get the second question, if you could...
+：Jeff Su - Deputy Director of IR
+：Randy, did you -- are you still there?
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：(inaudible) nanometer, if that's going to be the steep ramp-up, will be available in 2020.
+：Jeff Su - Deputy Director of IR
+：Sorry.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me answer the second one first.
+：Jeff Su - Deputy Director of IR
+：And then N6, do we still see strong...
+：C. C. Wei - Vice Chairman & CEO
+：Yes, we -- I already said that N6 is following the N7.
+：Jeff Su - Deputy Director of IR
+：Sorry.
+：Operator
+：Next one, we're having Charlie Chan, Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：So 2 parts.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Jen-Chau Huang - VP & CFO
+：Charlie, part of the CapEx this year is for N3, but that's not the reason for our increase in CapEx.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Charlie Chan - Technology Analyst
+：Yes, I do.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Charlie Chan - Technology Analyst
+：Yes.
+：C. C. Wei - Vice Chairman & CEO
+：Well, Charlie, I also answer every time that we compete in technology and the manufacturing and the customer relationship.
+：Jeff Su - Deputy Director of IR
+：Okay, thank you.
+：Operator
+：Next one, we are having Bruce Lu, Goldman Sachs.
+：Zheng Lu - Research Analyst
+：The first question is for the norm for the capital intensity.
+：Jen-Chau Huang - VP & CFO
+：Okay.
+：Zheng Lu - Research Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, we do work with our customer closely.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The last one to ask questions, Sebastian Hou, CLSA.
+：Sebastian Hou - Research Analyst
+：So a follow-up on the CapEx increase, the $1 billion CapEx increase.
+：Jeff Su - Deputy Director of IR
+：Sebastian wants to know, with the increase in the CapEx to $16 billion to $17 billion from $15 billion to $16 billion previously, what node is the CapEx spending going to?
+：C. C. Wei - Vice Chairman & CEO
+：Leading edge...
+：Jen-Chau Huang - VP & CFO
+：It's leading edge, leading edge...
+：Sebastian Hou - Research Analyst
+：Okay, got it.
+：Mark Liu - Chairman of the Board
+：Well, I...
+：Jeff Su - Deputy Director of IR
+：Sebastian, just to make sure we understand your question.
+：Mark Liu - Chairman of the Board
+：Yes, it's well aligned with our request.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Before we conclude today's conference, please be advised that the replay of the conference will be accessible within 4 hours from now.
+：Thank you for joining us today.
+：
+：Jeff Su - Deputy Director of IR
+：（外語）女士們，先生們，歡迎來到台積電2020年第二季度財報電話會議。
+：我是台積電投資者關係總監 Jeff Su，也是今天的主持人。
+：為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 以現場音頻網絡直播的方式主持我們的收益電話會議，您還可以在該網站下載收益發布材料。
+：今天活動的形式如下。
+：像往常一樣，我想提醒大家，今天的討論可能包含前瞻性陳述，這些陳述存在重大風險和不確定性，可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。
+：現在我想把電話轉給台積電的首席財務官 Wendell Huang 先生，以獲得運營總結和當前季度指導。
+：Jen-Chau Huang - VP & CFO
+：謝謝你，傑夫。
+：第二季度收入環比持平，因為持續的 5G 基礎設施部署和 HPC 相關產品的發布抵消了其他平台的弱點。
+：總體而言，我們第二季度的每股收益為新台幣 4.66 元，淨資產收益率為 28.5%。
+：現在讓我們繼續討論技術收入。
+：繼續討論平台的收入貢獻。
+：轉到資產負債表。
+：現在讓我對現金流和資本支出發表一些評論。
+：我已經完成了我的財務摘要。
+：根據當前的業務前景，我們預計第三季度收入將在 112 億美元至 115 億美元之間，中值環比增長 9.3%。
+：現在我將把電話交給C.C.為他的關鍵信息。
+：C. C. Wei - Vice Chairman & CEO
+：謝謝你，溫德爾。
+：讓我從我們的近期需求前景開始。
+：我們以 3107 億新台幣或 104 億美元的收入結束了第二季度，與我們 3 個月前給出的指引一致。
+：放眼今年下半年。
+：對於台積電而言，儘管與 COVID-19 相關的不確定性仍然存在，但我們的技術領先地位使我們能夠超越代工收入增長。
+：現在讓我談談美國新法規的影響。
+：從中長期來看，我們認為 5G 相關和 HPC 應用的潛在大趨勢保持不變，供應鏈可以自我調整和再平衡。
+：接下來說說我們的N5 ramp-up和N4介紹。
+：N5 是代工行業最先進的解決方案，具有最好的 PPA。
+：現在我將談談我們的N3身份。
+：最後說說我們的美國晶圓廠計劃。
+：現在讓我把麥克風交給我們的首席財務官。
+：Jen-Chau Huang - VP & CFO
+：謝謝你，C.C.
+：首先讓我對下半年的盈利前景發表一些評論。
+：現在讓我談談我們今年的資本預算。
+：我的關鍵信息到此結束。
+：Jeff Su - Deputy Director of IR
+：謝謝你，溫德爾。
+：我們準備好的聲明到此結束。
+：Operator
+：第一個提問的是摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：艱難時期的偉大成果。
+：我的第二個問題是，當我們考慮領先優勢時，一旦美國監管開始生效，我們如何考慮管理能力？
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：這應該沒問題，因為——正如我們剛才所說，5G 大趨勢以及與 HPC 相關的應用程序仍然非常強勁。
+：Mark Liu - Chairman of the Board
+：讓我補充...
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：我們，您是否覺得即使對於 N5 也適用？
+：C. C. Wei - Vice Chairman & CEO
+：是的。
+：Mark Liu - Chairman of the Board
+：讓我補充一點。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：接下來要提問的是里昂證券的Sebastian Hou。
+：Sebastian Hou - Research Analyst
+：所以我的第一個想法是，我想了解一些 - 想想你如何評估在未來 5 年內建立一個沒有美國內容的先進節點工廠的可行性和可能性，無論是技術等效的 IP 材料等等或10年甚至更長時間。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，讓我回答這個問題。
+：Jeff Su - Deputy Director of IR
+：是的。
+：Mark Liu - Chairman of the Board
+：讓我在這裡拿起這個。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Sebastian Hou - Research Analyst
+：是的是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位來電者是來自瑞銀的 Bill Lu。
+：William Lu - MD and Asia Semiconductors Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位來電者是來自 Arete Research 的 Brett Simpson。
+：Brett William Simpson - Senior Analyst
+：我想問一下您與華為的關係，您如何看待下半年美國監管對您與華為業務的影響。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Mark Liu - Chairman of the Board
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Brett William Simpson - Senior Analyst
+：是的，只是一個跟進。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位是來自 SIG 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：我想回到你的 N4 和 N3。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Mehdi Hosseini - Senior Analyst
+：正確的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的謝謝。
+：Mehdi Hosseini - Senior Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：所以 Mehdi，你的第二個問題是看我們第二季度的 HPC 連續增長。
+：Jen-Chau Huang - VP & CFO
+：好吧，Mehdi，我認為我們不想在不同平台上分解細節。
+：Mehdi Hosseini - Senior Analyst
+：擔心的是，也許華為可能在你停止接受訂單之前就已經拉進來了。
+：Jen-Chau Huang - VP & CFO
+：對不起，邁赫迪。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個，我們有來自瑞士信貸銀行的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：我的第一個問題。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：資本支出和銷售額，銷售額只是考慮了您對庫存的評論，如果您的競爭對手正在開展一些業務，並且您認為我們可以進行 - 或者不排除庫存調整。
+：Mark Liu - Chairman of the Board
+：- 讓我討論一下。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的，蘭迪的第二個問題。
+：Jen-Chau Huang - VP & CFO
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位是來自花旗集團的Roland Shu。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：第一個問題是你能再次提醒我每個季度的庫存變化調整是如何工作的嗎？
+：Jeff Su - Deputy Director of IR
+：好的。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：正確的。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：讓我 - 他問我們如何與客戶動態合作以減輕我們所做工作的影響。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：接下來的問題，查理陳，摩根士丹利。
+：Charlie Chan - Technology Analyst
+：所以我的第一個問題是關於你對全年收入指導的上調。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，查理，我們確實觀察到 5G 智能手機，勢頭越來越強，是——所以我們了解情況。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Charlie Chan - Technology Analyst
+：是的，我願意。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Charlie Chan - Technology Analyst
+：是的，在那個數字上，是的。
+：Mark Liu - Chairman of the Board
+：好吧，正如你所知，隨著我們的技術生態系統的擴展和對全球人才的影響，更接近我們的客戶以獲得更好的服務，這些都是美國晶圓廠的優勢，但在過去，成本、差距、禁止我們做出這些決定。
+：Jeff Su - Deputy Director of IR
+：然後好吧。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位要提問的是 Bruce Lu，Goldman Sachs。
+：Zheng Lu - Research Analyst
+：我認為，鑑於你們在 3 納米和 5 納米，尤其是區域性資本支出方面取得的積極進展，我們是否可以假設——類似於之前的節點，如 7 納米或 12 毫米，3 納米的第一年可以達到晶圓的 10% 5納米營收和第二年能否實現晶圓營收的30%？
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：你還有第二個問題嗎，布魯斯？
+：Zheng Lu - Research Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，正如我所說，5G 普及勢頭繼續增加。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位是來自野村證券的 Aaron Jeng。
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：我現在可以跟進 Bruce 的問題嗎？
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：答案是肯定的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：好的，好的，讓我 - 好吧，讓我們問我 - 這個問題，那是什麼 - 我試圖比較台積電為該行業提供的前景和 6 個月前開始的一年中給出的前景。
+：好吧，我的問題是，在過去的 6 個月裡，台積電以及世界上實際上每個人，尤其是科技界的每個人，都經歷了 2 個艱難的挑戰，其中一個是 COVID-19；另一個是 COVID-19。第二，華為問題。
+：Jeff Su - Deputy Director of IR
+：Aaron，好吧，我想——讓我總結一下你的問題，因為它很長。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我可以用一個詞來回答這個問題：技術領先。
+：Jeff Su - Deputy Director of IR
+：好的——沒關係，是的。
+：Operator
+：接下來，我們有來自摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：首先，我只是想了解一下。
+：其次，我只是想了解管理層對今年與半導體行業相比有多少增長是基於您的客戶在過去幾年中進行的一些庫存建設的看法。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：我們當然 - 目前，我認為我們無法將它們分開。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我們繼續強調我們將處於 5% 到 10% 複合年增長率的高端。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個，我們有來自 CLSA 的 Sebastian Hou。
+：Jeff Su - Deputy Director of IR
+：塞巴斯蒂安，你在線嗎？
+：Sebastian Hou - Research Analyst
+：對不起。
+：Jeff Su - Deputy Director of IR
+：是的，我們能聽到你的聲音。
+：Sebastian Hou - Research Analyst
+：好吧好吧。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：然後是 4 個平台的 2020 年增長前景。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的？
+：Sebastian Hou - Research Analyst
+：好吧好吧。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我們基於與客戶合作的那個。
+：Sebastian Hou - Research Analyst
+：所以這一切...
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：接下來，我們請到了 SIG 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：我有點困惑，我想知道你是否可以幫助我。
+：Jeff Su - Deputy Director of IR
+：這是 - 好的，邁赫迪，你的問題是 - 你的觀察是 5G 智能手機的銷售主要來自價格為 300 美元或更低的低端 5G 智能手機。
+：Mehdi Hosseini - Senior Analyst
+：還有你今年的展望。
+：Jeff Su - Deputy Director of IR
+：所以 Mehdi 也在問，因為在 4 月份，我們說我們的前景是在 6 月份 COVID 穩定的前提下，但現在看來 COVID-19 仍在繼續。
+：C. C. Wei - Vice Chairman & CEO
+：我們不——實際上，我們不確認是否存在第二波 COVID-19 本身，但我們單獨做到了這一點。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Mehdi Hosseini - Senior Analyst
+：我可以跟進一次資本支出嗎？
+：Jeff Su - Deputy Director of IR
+：好的。
+：Mehdi Hosseini - Senior Analyst
+：僅增加到 2020 年資本支出的 10 億美元，是否在前端設備和後端之間平均分配？
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個，我們有來自 KGI 的 Laura Chen。
+：Laura Chen - Research Analyst
+：恭喜取得好成績。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Laura Chen - Research Analyst
+：是的是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我來回答一下，我們的成熟節點或者我們所謂的專業，我們成熟的節點加載實際上是相當好的，除了28納米，好嗎？
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一位要提問的是瑞士信貸銀行的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的，是的。
+：Mark Liu - Chairman of the Board
+：實際上，目前的監管法術並沒有禁止它，標準產品或普通產品能夠出貨給華為。
+：Jeff Su - Deputy Director of IR
+：我想我——蘭迪，你的部分問題是，從台積電的角度來看，是否有其他方式可以運送給這個客戶，比如運送給 OSAT？
+：Mark Liu - Chairman of the Board
+：不，不。
+：Jeff Su - Deputy Director of IR
+：好的？
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好吧，那是——好吧，如果我能回答第二個問題，如果你能……
+：Jeff Su - Deputy Director of IR
+：蘭迪，你——你還在嗎？
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：（聽不清）納米，如果這將是一個陡峭的斜坡，將在 2020 年上市。
+：Jeff Su - Deputy Director of IR
+：對不起。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：嗯，我先回答第二個。
+：Jeff Su - Deputy Director of IR
+：然後是N6，我們還能看到強...
+：C. C. Wei - Vice Chairman & CEO
+：是的，我們——我已經說過 N6 是在 N7 之後。
+：Jeff Su - Deputy Director of IR
+：對不起。
+：Operator
+：下一個，我們有摩根士丹利的陳查理。
+：Charlie Chan - Technology Analyst
+：所以2個部分。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Jen-Chau Huang - VP & CFO
+：查理，今年的部分資本支出用於 N3，但這不是我們增加資本支出的原因。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Charlie Chan - Technology Analyst
+：是的，我願意。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Charlie Chan - Technology Analyst
+：是的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，查理，每次我們在技術、製造和客戶關係方面競爭時，我也會回答。
+：Jeff Su - Deputy Director of IR
+：好的謝謝。
+：Operator
+：下一個，我們有高盛的 Bruce Lu。
+：Zheng Lu - Research Analyst
+：第一個問題是資本密集度的範數。
+：Jen-Chau Huang - VP & CFO
+：好的。
+：Zheng Lu - Research Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我們確實與客戶密切合作。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：最後一位提問的是里昂證券的Sebastian Hou。
+：Sebastian Hou - Research Analyst
+：因此，資本支出增加的後續行動是 10 億美元的資本支出增加。
+：Jeff Su - Deputy Director of IR
+：Sebastian 想知道，隨著 CapEx 從之前的 150 億到 160 億美元增加到 160 億到 170 億美元，CapEx 支出將到什麼節點？
+：C. C. Wei - Vice Chairman & CEO
+：前沿...
+：Jen-Chau Huang - VP & CFO
+：這是前沿，前沿...
+：Sebastian Hou - Research Analyst
+：好，知道了。
+：Mark Liu - Chairman of the Board
+：嗯，我...
+：Jeff Su - Deputy Director of IR
+：塞巴斯蒂安，只是為了確保我們理解你的問題。
+：Mark Liu - Chairman of the Board
+：是的，它非常符合我們的要求。
+：Jeff Su - Deputy Director of IR
+：好的。
+：在我們結束今天的會議之前，請注意會議的重播將在 4 小時後提供。
+：感謝您今天加入我們。
+：

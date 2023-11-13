@@ -1,0 +1,600 @@
+頁面標題: 	台積電 ADR (TSM) 2022Q1電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Director of IR
+：(foreign language)
+：Good afternoon, everyone, and welcome to TSMC's First Quarter 2022 Earnings Conference Call. This is Jeff Su, TSMC's Director of Investor Relations and your host for today. To prevent the spread of COVID-19, TSMC is hosting our earnings conference call via live audio webcast through the company's website at www.tsmc.com, where you can also download the earnings release materials. (Operator Instructions)
+：The format for today's event will be as follows: first, TSMC's Vice President and CFO, Mr. Wendell Huang, will summarize our operations in the first quarter 2022, followed by our guidance for the second quarter 2022. Afterwards, Mr. Huang and TSMC's CEO, Dr. C.C. Wei, will jointly provide the company's key messages. Then we will open the line for Q&A.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties, which could cause actual results to differ materially from those contained in the forward-looking statements. Please refer to the Safe Harbor notice that appears on our press release.
+：And now I would like to turn the call over to TSMC's CFO, Mr. Wendell Huang, for the summary of operations and the current quarter guidance.
+：Wendell Huang - VP & CFO
+：Thank you, Jeff. Good afternoon, everyone. Thank you for joining us today. My presentation will start with financial highlights for the first quarter 2022. After that, I will provide the guidance for the second quarter.
+：First quarter revenue increased 12.1% sequentially at NT terms or 11.6% in U.S. dollar terms as our first quarter business was supported by strong HPC and automotive-related demand. First quarter gross margin increased 2.9 percentage points sequentially to 55.6%, mainly as we continue to sell our value and improve cost. Operating margin increased 3.9 percentage points sequentially to 45.6%, primarily due to lower vaccine donation expense as compared to the fourth quarter. Overall, our first quarter EPS was TWD 7.82, and ROE was 36.2%.
+：Now let's move on to revenue by technology. 5-nanometer process technology contributed 20% of wafer revenue in the first quarter, while 7-nanometer accounted for 30%. Advanced technologies, which are defined as 7-nanometer and below, accounted for 50% of wafer revenue.
+：Now moving on to revenue contribution by platform. All 6 platforms increased in the first quarter. Smartphone increased 1% quarter-over-quarter to account for 40% of our first quarter revenue. HPC increased 26% to account for 41%. IoT increased 5% to account for 8%. Automotive increased 26% to account for 5%. And DCE increased 8% to account for 3%.
+：Moving on to balance sheet. We ended the first quarter with cash and marketable securities of TWD 1.3 trillion. On the liability side, current liabilities increased by TWD 83 billion, mainly due to the increase of TWD 63 billion in accrued liabilities and others and the increase of TWD 30 billion in short-term loans, partially offset by the decrease of TWD 21 billion in accounts payable. Long-term interest-bearing debt increased by TWD 19 billion as we raised TWD 20 billion of corporate bonds during the quarter. On financial ratios, accounts receivable turnover days decreased 2 days to 38 days, while days of inventory remained at 88 days.
+：Now let me make a few comments on cash flow and CapEx. During the first quarter, we generated about TWD 372 billion in cash from operations, spent TWD 262 billion in CapEx and distributed TWD 71 billion for second quarter '21 cash dividend. Bonds payable increased by TWD 20 billion due to the bond issuances. Overall, our cash balance increased TWD 87 billion to TWD 1.2 trillion at the end of the quarter. In U.S. dollar terms, our first quarter capital expenditures totaled $9.38 billion.
+：I have finished my financial summary. Now let's turn now to our current quarter guidance. Based on the current business outlook, we expect our second quarter revenue to be between USD 17.6 billion and USD 18.2 billion, which represents a 1.9% sequential increase at the midpoint. Based on the exchange rate assumption of USD 1 to TWD 28.8, gross margin is expected to be between 56% and 58%, operating margin between 45% and 47%. In addition, we maintain our 2022 capital budget to be between USD 40 billion and USD 44 billion. This concludes my financial presentation.
+：Now let me turn to our key messages. I will start by making some comments on our first quarter and second quarter profitability. As a reminder, 6 factors determine TSMC's profitability: leadership technology development and ramp-up, pricing, cost reduction, capacity utilization, technology mix and foreign exchange rate. As we discussed earlier, our first quarter gross margin increased by 290 basis points sequentially to 55.6%, mainly due to cost improvement and value-selling efforts and a more favorable foreign exchange rate.
+：Our gross margin guidance provided 3 months ago was based on exchange rate assumption of USD 1 to TWD 27.6, whereas the actual first quarter exchange rate was USD 1 to TWD 27.95. This created about 50 basis point difference in our actual first quarter gross margin versus our original guidance. We have just guided our second quarter gross margin to further increase by 140 basis points sequentially to 57% at the midpoint primarily due to a more favorable exchange rate assumption of USD 1 to TWD 28.8, which brings more than 100 basis points gross margin tailwind, and continued cost improvement and value-selling efforts.
+：Looking ahead on our profitability, we continue to face challenges from rising inflationary costs, increasing process complexity of leading nodes, new investments in mature nodes and overseas fab expansions. Despite the manufacturing cost challenges and excluding the impact of foreign exchange rate, of which we have no control over, taking the other 5 factors into consideration, we continue to believe a long-term gross margin of 53% and higher is achievable.
+：Now let me turn the microphone over to C.C.
+：C. C. Wei - CEO
+：Thank you, Wendell. We hope everybody is staying safe and healthy during this time. First, let me start with our near-term demand and inventory. We concluded our first quarter with revenue of TWD 491.1 billion or USD 17.6 billion, which is above the high end of our guidance, mainly due to better demand from smartphone and automotive-related applications than our forecast 3 months ago and customer's continuing need to ensure supply security with the emergency of COVID-related uncertainties.
+：Moving into second quarter 2022, we expect our business to be supported by HPC and automotive-related demand, partially offset by smartphone seasonality. On the inventory front, we expect the supply chain to continue to maintain a higher level of inventory as compared to the historical seasonal level for a longer period of time, prolonged by recent COVID-related supply chain disruptions and uncertainties brought about by geopolitical tension.
+：On the demand side, despite the recent macro-related uncertainties, we continue to observe the structural increase in long-term semiconductor demand, underpinned by the industry's megatrend of 5G and HPC-related applications. This multiyear megatrend will support modest device unit volume growth, and much more importantly, drive substantial semiconductor content enrichment in many end devices across HPC, smartphone, automotive and IoT applications. With our technology leadership, TSMC is well positioned to capture the strong structural demand with our advanced and specialty technologies. And we expect our capacity to remain tight throughout 2022.
+：2022 will be another strong growth year for TSMC. And we expect our full year growth to likely be at or exceed the high end of our guidance range of mid- to high-20s percent in U.S. dollar terms.
+：Next, given the recent constraint in the tool supply chain, let me talk about the tool delivery update. As a major player in the global semiconductor supply chain, TSMC worked closely with all our tool suppliers to plan our CapEx and capacity in advance. However, like many other industries, our suppliers are facing great challenges in their supply chain from the continued impact of COVID-19, which are creating labor, component, and chip constraint in their supply chains and extending tool delivery lead time for both advanced and mature nodes. TSMC is working closely with our suppliers and taking several actions to do our part to help address the supply chain challenges. We have increased regular high-level communications to trace the progress.
+：We have sent several teams on-site to support our suppliers and are working closely with them to identify critical chips that are gating the tool delivery. We are working with our customers to prioritize our wafer capacity to support those critical chips to help mitigate the chip constraint issue. By taking such actions, we do not expect any impact to our 2022 capacity plan, and we continue to work closely with our suppliers on 2023 and beyond so that we can ramp-up our capacity to meet customers' demand.
+：Now I will talk about the materials supply update. TSMC operates a well-established enterprise risk management system to identify and access all relevant risk and proactively implement risk mitigation strategies. In terms of material supply, TSMC's strategy is to continuously develop multi-source supply solutions to build a well-diversified global supplier base and to improve the local supply chain. For specialty chemicals and gases, including Neon and Xenon we source from multiple suppliers in different regions, and we have prepared a certain level of inventory stock on hand. We are also working closely with our suppliers to further strengthen the resilience and the sustainability of our supply chain. Thus, we do not expect any impact on our operations from materials supply.
+：Finally, let me talk about the N3 and N3E status. Our N3 technology will use FinFET transistor structure to deliver the best technology maturity, performance and cost for our customers. Our N3 schedule is unchanged, and well on track for volume production in second half of 2022 with good yield. We expect the ramp of N3 to be driven by both HPC and smartphone applications. We continue to see a high level of customer engagement at N3 and expect more new tape-outs for N3 for the first year as compared with N5 and N7. N3E will further extend our N3 family with enhanced performance, power and yield. We also observed a high level of customer engagement at N3E, and volume production is scheduled for 1 year after N3.
+：Our 3-nanometer technology will be the most advanced foundry technology in both PPA and transistor technology when it is introduced. In terms of profitability, the initial outlook for new node is always challenging. And the increasing process complexity of leading nodes such as the N3 bring even greater challenges to achieving the corporate average gross margin in 7 to 8 quarters, particularly as our corporate profitability has improved with long-term gross margin target of 53% and higher. As we have done at prior nodes, we will continue to work diligently with our cost improvement and value-selling effort to ensure that we earn the right profitability and return on N3. With our technology leadership and strong customer demand, we are confident that our N3 family will be another large and long-lasting node for TSMC.
+：This concludes our key message, and thank you for your attention.
+：Jeff Su - Director of IR
+：Thank you, C.C. This concludes our prepared remarks. (Operator Instructions) Should you wish to raise your question in Chinese, I will translate into English before our management answers your question. (Operator Instructions) Now let's begin the Q&A session. Operator, can we please proceed with the first caller on the line?
+：Operator
+：Yes. The first one to ask question is Bruce Lu from Goldman Sachs.
+：Bruce Lu - Research Analyst
+：Congratulations for the great result. I think the first one is still focused on the macro and inflation concern. How does TSMC evaluate the impact from the inflation and the geopolitical tension? We understand that TSMC worked with customers closely, but most of your customers probably don't have the full picture of end demand fluctuation. At the same time, TSMC has to bear the risk to build capacity a couple of years ahead to make the decision earlier, so how can TSMC provide more color to strengthen the investor confidence? Do we have any changes on our multiyear capacity expansion plan?
+：Jeff Su - Director of IR
+：Okay. Bruce, please allow me to summarize your first question. I think Bruce's question is related to the macro environment and inflationary concerns. He wants to know how do we evaluate the impact from inflation and macro environment. And also in terms of our capacity, our customers may not have the full clear picture of end demand but TSMC has to bear the risk of building the capacity multiple years ahead of time. And will the CapEx amplify our volatility, so he wants to know, if there's any color on what keeps basically management confident for the CapEx plan and color to strengthen investors' confidence in our CapEx.
+：C. C. Wei - CEO
+：Bruce, this is C.C. Wei. Let me answer your question. As you said, TSMC works closely with our customers to plan capacity. And our CapEx and capacity expansion plan are actually based on customers' long-term demand profile, underpinned by the industry megatrend. We do not build capacity based on speculation. In advanced technology node, we have a leading position. In our mature node, our capacity is built to support customer demand for our differentiated specialty technologies. And we focus on building effective capacity, which is capacity that products and produce the specialized technology with high yield rather than just plain capacity. Thus, we are confident our capacity is built to support our customers' growth, and our utilization and profitability will be sustained.
+：Jeff Su - Director of IR
+：And then also, how do we -- I think the impact of inflation.
+：C. C. Wei - CEO
+：Well, the inflation definitely impact the consumers' buying pattern. But let me stress then on overall demand, under the inflation environment, while the momentum in certain end market segment may slow down or adjust in terms of device units, other end market segment remains strong. In fact, we expect our HPC platform to be TSMC's strongest growing platform in 2022 and the largest contributor to our growth, fueled by the structural megatrend driving increasing need for greater computation power and energy-efficient computing. But then more importantly, the increasing silicon content in end devices such as 5G smartphones, PCs, servers, networking and automotive applications are a much more important factor in supporting our strong semiconductor demand. And with our industry-leading technology, we are well positioned to capture all the opportunities.
+：Jeff Su - Director of IR
+：Okay. Bruce, does that answer your first question?
+：Bruce Lu - Research Analyst
+：Yes. Okay. I want to go for the second question. I think in the prepared remarks, I noticed that there was no mentioning about the N2 schedule. Both of your competitors accelerated their schedule for the next-generation transistor. Can you comment on TSMC's status for the gate-all-around, especially in performance and the ramp-up schedule?
+：Jeff Su - Director of IR
+：Okay. So I think Bruce's second question -- Bruce, please allow me to make sure we got it is on the N2 schedule. He said that our competitors have commented on their N2 schedule, and Bruce wants to know what is our N2 plan?
+：C. C. Wei - CEO
+：Our N2 development is on track, including new transistor structure and progressing to our expectation. We expect our N2 delivery to be the best technology, maturity, performance and cost for our customers. And we are confident that N2 will continue our technology leadership to support our customer growth. And we still plan the production in 2025.
+：Bruce Lu - Research Analyst
+：So the 2-year cadence remain unchanged for the N2?
+：C. C. Wei - CEO
+：It won't.
+：Jeff Su - Director of IR
+：Okay. Thank you, Bruce. Operator, can we move on to the next participant, please?
+：Operator
+：The next one to ask question is Gokul Hariharan from JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：My first question is on N3. Given we are less than 1 year from N3 mass production start, could we talk a little bit about how should we expect N3 revenues to be ramping up next year? Would it be similar to what we have seen with N5 and N7 with roughly about 10% of next year's revenues being N3? And also, could you talk -- I think you highlighted that there would be a little bit more challenge to get N3 to profitability closer to corporate average given some of the moving parts. Could we elaborate a little bit more on that as well? That's my first question.
+：Jeff Su - Director of IR
+：Okay. Gokul, please allow me to summarize your question. So Gokul's question is really related to N3. He wants to know with the ramp-up of N3 what kind of revenue contribution can we expect. Will it be similar to the past patterns of N5 and N7 for about 10% of wafer revenue in the first year. And also, he would like to ask given C.C.'s comment about process complexity challenges, what is the profitability outlook for N3. Is that correct, Gokul?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Yes. Okay. Maybe Wendell can address.
+：Wendell Huang - VP & CFO
+：Yes. Gokul, this is Wendell. It's too early to talk about the revenue contribution as N3 will not begin volume production until second half of 2022 with revenue contribution starting 2023. In addition, as the structural demand underpinned by the industry megatrends is driving growth across all our nodes, the specific percentage of the new nodes as compared to the historical pattern may be less meaningful in the future. But overall, we are confident that our 3-nanometer will be the most advanced foundry technology when it is introduced. And with the strong customer engagement and tape-out activity, our N3 family will be another large and long-lasting node for TSMC, just like N5 and N7 families.
+：Now about the gross margin, as C.C. said, the initial outlook for new node is always challenging. And the increasing process complexity of leading nodes such as N3 brings even greater challenges to achieving the corporate average gross margin in 7 to 8 quarters, and partially also because our corporate profitability has increased and our new long-term gross margin target of 53% and higher. Now it is a bit early to say when N3 can reach the corporate average gross margin at this stage because the volume production hasn't started yet. However, we will continue to work diligently on selling our value and cost improvement to ensure that we earn the right profitability and return. Now even considering the increasing process complexity of advanced nodes such as N3, we believe our technology leadership, manufacturing and capacity support and ability to earn our customers' trust will enable us to earn a long-term gross margin of 53% and higher.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Got it. My second question is on the more mature process technologies, could TSMC give us some view on the industry growth for specialty and mature technologies? I think based on the data we look at, historically, that has only grown at maybe low to mid-single digit. But right now, we see a lot of capacity being announced from many foundries in these older specialty and mature process technologies, let's say, defined as 28-nanometer and above. So could TSMC talk a little bit about growth rate for these mature process technologies going forward? Is it going to be materially higher than the 3% to 5% that we have seen in the past? In most cases, we have seen older nodes grow for 4 to 5 years and then kind of stagnate. Do we see that pattern changing because of some of the content per box or content per device dynamics that you talked about? Yes.
+：Jeff Su - Director of IR
+：Okay. Gokul, let me summarize your second question. I think your second question is -- Gokul's second question is on the mature node and the outlook -- growth outlook for mature nodes. His question is, how do we see the growth outlook at mature nodes? In the past, it has grown, in his words, about 3% to 5%. Do we think it can be materially higher than that on the mature nodes, which he defines as 28-nanometer and above?
+：Wendell Huang - VP & CFO
+：Okay. Gokul, we forecast the growth rate of the overall semiconductor ex-memory industry to accelerate to high single-digit percentage level in the next 5 years as compared to around 4% CAGR in the past 10 years. The higher demand at mature nodes will be driven by structural factors, such as an increase in long-term demand for certain specialty technologies due to the multiyear industry megatrends of 5G and HPC and increasing silicon content in many end devices as well as the acceleration of digitalization. TSMC's strategy at mature nodes is to work closely with our customers to develop specialty technology solutions to meet their requirements and create differentiated and long-lasting value to customers. We believe our differentiated specialty technologies will enable us to capture the structural demand generated from the industry megatrends and continue to support our customers' growth.
+：Jeff Su - Director of IR
+：Gokul, does that answer your second question?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Yes.
+：Jeff Su - Director of IR
+：Okay. Thank you, Gokul. Operator, can we move on to the next caller, please?
+：Operator
+：Next one to ask question, Charlie Chan from Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：Congratulations for the great results, management. My first question is about the semi inventory debate. So may I clarify with C.C. that the company still believe that supply chain need to keep high inventory for several reasons. But in fact, we are seeing that PC, smartphone OEMs, they're working down channel inventory even, as you know, that the graphics they are working down the channel inventory. So do you think that the high inventory is actually a signal of a weaker demand? Or anything that we miss here because, in fact, we are seeing consumer tech inventory, we are seeing a correction?
+：Jeff Su - Director of IR
+：Okay. Charlie, let me summarize your first question. So Charlie's question is on inventory and end demand. He wants to know or he notes that the consumers -- parts of the consumer end demand seem to be weaker or softer than expected. And so how does this also affect our view on the higher level of inventory, sort of our view? I guess, Charlie, your question is really what is our view on the end demand given potential weakness in consumer end market segments? And then what is our view on inventory. Is that correct?
+：Charlie Chan - Technology Analyst
+：Yes. Yes. And if the demand is indeed deteriorating, do you think the actual inventory level should come down?
+：C. C. Wei - CEO
+：Charlie, this is C.C. Wei. You are right, some of the end market segment, actually, we start to see a little bit soft in these days for those smartphone, PC or tablets, load. But as I indicated, other end market segments remain very strong, all right? And so if you look at some of the imbalance in the supply chain, particularly in the MCU or the power managed IC side, we still see very strong demand. And also because of those kind of supply chain disruption by the emerging COVID-19 uncertainty, so we are continuing to observe that our customer will maintain a higher level of inventory for a longer period of time. We continue to observe that. And as a result, actually for TSMC, we -- our capacity remain very tight throughout the whole year of 2022.
+：Charlie Chan - Technology Analyst
+：I see. Okay. So is it more specific to those industrial automotive industry instead for consumer tech? Am I right about your comments about inventory level?
+：C. C. Wei - CEO
+：Yes, you are right. In fact, the very important thing is a structural megatrend. So for the great -- you know that my customer require a greater computation power and energy-efficient computing and which is actually the strong point of TSMC's technology.
+：Charlie Chan - Technology Analyst
+：I see. And my second question is about your N3 progress. So we continue to hear a lot of good news and anecdotes about your N3E is actually progressing very, very well. So do you think there is a possibility that you could actually pull in your N3E for maybe 1 or 2 quarters to address the customers' demand, right? So I think it could be a win-win for both TSMC and your customers. Do you see that kind of a possibility and maybe convert some N3 projects to N3E earlier?
+：Jeff Su - Director of IR
+：Okay. So Charlie's second question is on N3E. He notes the progress is going very well. So his question is, is there a possibility to bring in the timing of N3 to earlier? And will we convert N3 capacity to N3E?
+：Charlie Chan - Technology Analyst
+：Exactly.
+：C. C. Wei - CEO
+：Okay. Charlie, you are right again. I mean that our N3E result is quite good. And the progress is actually -- is ahead of our schedule. And pull in, yes, we are considering that. So far, I still did not have a very solid data to share with you that how many months we can pull in. But yes, it's in our plan. And also the capacity, since we have a very strong demand on the N3 and N3E, we are still planning to have enough capacity to support our customer.
+：Jeff Su - Director of IR
+：All right. Thank you, Charlie. Operator, can we move on to the next participant, please?
+：Operator
+：Next one to ask question is Randy Abrams from Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：My first question, I wanted to follow up on your changed outlook where you took up from mid- to high 20s to now high 20s or above. Could you discuss because it is in light of the macro and the softening you've seen on consumer? Could you discuss the factors for the change if -- how much might be attributed to market share, technology or how much to a certain platform? If you could give an update on your view of the different platforms if certain platform drove it? And did you see any downward change on any of the 4 platforms?
+：Jeff Su - Director of IR
+：Okay. Thank you, Randy. So let me summarize Randy's first question is about our full year outlook, which as C.C. mentioned in his key messages that we expect to be at -- likely to be at or exceed the high end of our guidance of mid- to high 20s. So Randy's question is, what is driving the higher or better full year outlook given the macro environment looks a bit more shaky. Is it technology? Is it market share, et cetera? And what is the outlook by platform?
+：C. C. Wei - CEO
+：Randy, we expect our HPC platform to be TSMC's strongest growing platform this year and the following years. And it will be the largest contributor to our growth. And this is all because of a structural megatrend driving increasing need for greater computation power and energy-efficient computing. As I said, these kind of technologies happen to be TSMC's strong point. So that all I can share with you is that we have confidence that it will be exceed or at on the high end of our guidance.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. And a follow-up just on the first. Did you change your view on...?
+：Wendell Huang - VP & CFO
+：Yes, and then also... .
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes, so I wanted to know the other platforms, and if you change your view on smartphone or...
+：Wendell Huang - VP & CFO
+：Now for this year, Randy, we can share with you that we expect HPC and automotive to grow faster than the corporate average. IoT, similar. And smartphone, approaching the corporate average.
+：Jeff Su - Director of IR
+：For the full year.
+：Wendell Huang - VP & CFO
+：For the full year.
+：Jeff Su - Director of IR
+：Yes.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. So it sounds like not much change. My second question is more tied to -- there's a lot of fear about do we head into the downturn or a slowdown. If you can give the other way in terms of flexibility on expansion plans, if hopefully we don't, but if we go into a more of a recession, how much flexibility with your fab plans across U.S., Taiwan, Japan and Nanjing? And on the other side, with the prepayment in deposits, is there flexibility on timing of shipments, full flexibility for customers if they need to respond to a slowing demand?
+：Jeff Su - Director of IR
+：Okay. So Randy's second question is about if there's a downturn or a slowdown, will this change? Or how flexible is the timeline for our new fab and capacity expansion plans whether in Taiwan, Japan and overseas if the outlook changes for the worse? And what is the flexibility of our prepayments with customers if there was a downturn or slowdown?
+：C. C. Wei - CEO
+：Randy, this is C.C. Wei. Our CapEx and capacity expansion plan are always based on our customers' long-term demand profile. This is underpinned by an industry megatrend. As long as the mega trend continues, which we believe it will, we will continue to invest to capture the growth that will follow. So even a short term with the possibility of downturn, which we don't think it will impact too much to TSMC, if even it happens, we will continue our plan and we have confidence to invest to capture the growth that will follow.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. And on the customer side for their -- the deposits and capacity they're locking in?
+：Wendell Huang - VP & CFO
+：Randy, actually, we believe signing contracts to guarantee the loading in the future is not a common practice. We focus really on technology leadership, manufacturing excellence and earning customer trust as a more effective way to secure customer commitments. Now we work closely with our customers to plan the capacity, including receiving their prepayments for capacity support. And we will continue to work with them to determine the best way to support them.
+：Jeff Su - Director of IR
+：Yes, Randy. So I think the answer for customer side and capacity side is pretty aligned or similar. Does that answer your second question?
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes. I mean, I guess, just like in the past, it was the flexibility like we saw the slowdown in utilization. So I mean I would think it's still work with customers on their plans if they need to reschedule because we've seen in the past like if they have to adjust their utilization. Like I don't know if anything's changed in the model on that element?
+：Wendell Huang - VP & CFO
+：No, no, nothing changed in the model. Yes.
+：Jeff Su - Director of IR
+：Okay. Thank you, Randy. Operator, can we move on to the next caller, please?
+：Operator
+：Next one is Sunny Lin, UBS.
+：Sunny Lin - Director & Associate Analyst
+：Congratulations on the strong performance. So my first question is on the pricing strategy for you going forward. I mean if we look at this up-cycle, the tight supply and the strong restocking demand has supported pretty meaningful price increase for foundry industry and TSMC throughout 2021. So from here, would you look to further raise price for some of the technologies to justify rising cost of expansion? And on the other hand, if the supply demand start to normalize, do you think there could be any risk to pricing?
+：Jeff Su - Director of IR
+：Okay. So Sunny, let me -- please allow me to summarize your first question. Her question is on pricing on both sides sort of in an up-cycle. But as we face cost challenges, will TSMC consider to further raise the price. And then on the flip side, on the other hand, if demand were to soften, I think, Sunny, you -- on the other hand, was will there be any risk to pricing to lower price. Is that correct?
+：Sunny Lin - Director & Associate Analyst
+：That's right.
+：C. C. Wei - CEO
+：Okay. Sunny, this is C.C. Wei. We do not comment on our pricing detail. But let me assure you that our pricing strategy is strategic, not opportunistic or short term. And customer understands our effort to support their growth. As you said that if there is a downturn coming and on the flip side, is TSMC going to drop our price? The answer is no. Did I answer your question?
+：Sunny Lin - Director & Associate Analyst
+：That's very helpful. So my second question is to follow up on the N3 ramp-up. So just trying to get a bit of a color on 2023. I understand the demand is pretty robust. But when we think about the potential revenue contribution for 2023, with the less equipment supply and delivery time, would that be a capping factor for 3-nanometer to exceed the typical 10% revenue contribution for next year? Or do you think there's still some time for you to try to accelerate the equipment expansion?
+：Jeff Su - Director of IR
+：Okay. So Sunny's second question is on N3 and the ramp-up. Her question once again is sort of around the revenue contribution of N3. And specifically, she is asking whether the equipment supply or some of the tool delivery issues would affect the ramp-up of N3 in next 2023 and, thus, the revenue contribution.
+：C. C. Wei - CEO
+：Well, we did see some of the issues on the tool delivery and we are still working on it. As I said in the statement, we are working on 2023 right now, and we hope that we won't have any big issue. But right now, we are not ready yet to share with you that how much we can resolve the issue. But we have strong demand. We try to build enough capacity for our customers. And we are working with our equipment supplier to get enough tool to expand our capacity.
+：Jeff Su - Director of IR
+：Okay. Thank you, Sunny. Operator, can we move on to the next participant, please?
+：Operator
+：Next one to ask questions, Rick Hsu from Daiwa.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes. My first question is regarding your revenue guidance for this year. I think you think that it should be at or even exceed your mid- to high-20s guidance in U.S. dollar terms. So in that case, are you revising your forecast for the global semiconductor ex-memory for this year and also the global foundry market forecast for this year?
+：Jeff Su - Director of IR
+：Okay. Rick's first question is about our 2022 outlook. Sorry, Rick, let me try to summarize. So Rick notes that C.C. said, our 2022 growth will likely be at or exceed the high end of our revenue guidance of mid- to high 20s. So he wants to know what does this mean for our forecast or expectation for the semiconductor ex-memory and foundry markets.
+：C. C. Wei - CEO
+：So let me answer your question. So far, we are confident on TSMC's performance. But the whole industry, semiconductor's foundry industry remain that it will be around 20% year-over-year as a growth. All others, we are still trying to understand the status and not very ready to share with you yet.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Okay. So basically, the strength is more TSMC company specific, right?
+：C. C. Wei - CEO
+：That's because our dealership in the technology, and you are right.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Okay. Great. C.C., and second question, I think your customers have been waiting in the long queue since last year. And I know this year, there's some macro issues, there's some change and you mentioned some demand slowdown. But some others still very strong. So I assume for any customers releasing capacity will be quickly filled up by others. But are you saying the queue is shortening? Or if that's the case, when do you think the queue -- there's no more queue? When do you think that will happen?
+：Jeff Su - Director of IR
+：Okay. So Rick's second question is about the -- C.C. mentioned that our capacity will remain tight throughout 2022. But C.C.'s -- sorry, Rick's question is more about the queue or the line to wait because, as we said, certain end market segments may slow down or adjust, but others remain strong. Rick's question is really is that wait or list line shortening, or when do we expect that to shorten?
+：C. C. Wei - CEO
+：Rick, so far, as I said, TSMC's capacity will be very tight, not enough to support our customers. So if you ask whether the list in the queue will be longer or smaller, it doesn't matter. It's still just not enough to support our customers. And we are working very hard to support them. That's what I can share with you.
+：Jeff Su - Director of IR
+：Okay. Thank you, Rick. Operator, can we move on to the next participant, please?
+：Operator
+：Next one online Brett Simpson from Arete Research.
+：Brett Simpson - Senior Analyst
+：Yes. I had a question on your overseas fab expansion plans. I guess today, if we look at your wafer capacity, it's 100% in Taiwan. Are you seeing any pressure from your strategic customers to accelerate your overseas plans for fab expansion? And can you also share with us if you have a target for what portion of your wafer capacity long term might come from your overseas fabs? And in what time period might that happen?
+：Jeff Su - Director of IR
+：Okay. So Brett's first question is about our overseas expansion and global manufacturing footprint. His question is that, are we seeing any pressure from strategic customers to expand overseas? And he wants to know what proportion or percentage of our capacity will be overseas by what time frame?
+：C. C. Wei - CEO
+：Okay. Let me answer the question. In fact, talking about the overseas supply or the capacity we are building, our responsibility as TSMC's management is to make the best decision for our customers and in the best interest of TSMC. And we are in close and constant communication with all of our customers. And so far, actually, their priorities are securing capacity, enough capacity to support their business and also working with TSMC on technology development. That's TSMC to focus on.
+：And for the how much of the capacity to build outside, let me share with you, right now, we have fab in Arizona with 5-nanometer, a fab in Japan which are 28 and 16 FinFET technology and expanding our capacity in China with 16 FinFET and 28. Also, we're building in Taiwan for 28 nanometers more capacity. We definitely have some future plan, but while increase in the next several years, but not enough to share with you say how many percentage in total will compared with TSMC's capacity. Does that answer your question?
+：Brett Simpson - Senior Analyst
+：Yes, that's great. And maybe just a second question. On -- you mentioned N3E is coming 1 year after N3. But you can give us an update around timing of 2-nanometer, which I believe is going to have a new transistor architecture gate-all-around. I guess the move from N5 to N3 was more than 2 years, which is what you've typically been -- that cadence you've typically been running at. Are we going to get back to 2 years with N2, between N3 and N2, so that we'll see an end of 2024 introduction for N2? Or will it take longer?
+：Jeff Su - Director of IR
+：Okay. So Brett's second question is really on N2 and the cadence. He wants to know that N5 to N3 is about more than 2 years cadence between those 2 nodes. For N3 to N2, will it be back on a 2-year cadence? And what's the time frame for N2?
+：C. C. Wei - CEO
+：Brett, our progress so far today for the N2 is on track. And all I want to say is, yes, at the end of 2024, you will enter the risk production. 2025, it will be in production, probably close to the second half or the -- or the end of 2025. That's our schedule.
+：Jeff Su - Director of IR
+：All right. Thank you, Brett. Operator, can we move on to the next participant, please?
+：Operator
+：Next one, we have Laura Chen, KGI.
+：Laura Chen - Research Analyst
+：My first question is about the advanced packaging development. Can you share with us your view on TSMC's current progress in advanced packaging in terms of the revenue contribution and the growth trend? And since we know that there are a lot of high computing PC clients relied on TSMC advanced packaging or 3D packaging service, so can we expect your advanced packaging revenue will be kind of part of your high computing PC growth outlook? That's my first question.
+：Jeff Su - Director of IR
+：Okay. So Laura's first question is on our 3D IC or advanced packaging progress. She wants to know the progress in terms of the revenue contribution, the growth outlook for the packaging business and how correlated is it to the high HPC platform.
+：Wendell Huang - VP & CFO
+：Right. Lauren, let me answer the first part. In 2021, the advanced packaging generated $4.1 billion of revenue. Now we expect that this year, the growth will be similar to the corporate growth. And during the 5-year -- in the next 5 years, we expect its growth in CAGR will be slightly higher than the corporate.
+：Jeff Su - Director of IR
+：And the correlation with HPC?
+：C. C. Wei - CEO
+：Well, let me answer that correlation. Actually, very advanced SoIC technology actually serve for the HPC high-end applications. So that required high bandwidth and very low power and very high performance. And so far, we just entered a small volume of the production in 2022 and we expect this one will continue to grow. That's what we have today.
+：Laura Chen - Research Analyst
+：Okay. That's very clear. And my second question is more like a follow-up. I think C.C. already mentioned a lot about the strategy of the CapEx expansion in longer term. But we know that the equipment lead timeline has been quite longer. So I'm just wondering any specific area or process you are seeing the biggest impact? And what's your action accordingly? Or do you have any priorities for various technology nodes?
+：Jeff Su - Director of IR
+：Okay. So Laura's second question is about capacity expansion and equipment lead time. Given the tool delivery that C.C. talked about, she wants to know what areas or nodes are we seeing the biggest impact? And are we prioritizing -- how are we prioritizing this?
+：C. C. Wei - CEO
+：Laura, I mean that's -- we see this kind of tool delivery problem unexpectedly from beginning of this year. And we are working very hard with our tool suppliers to resolve all the issues. And so as for which technology node or which technology or what are being impacted, all the leading-edge technology and mature node technologies capacity expansion are being impacted. And certainly, in order to support our customers' strong demand, we're working very hard for the tool suppliers to resolve all the issues. And so far, 2022, no problem. We're working on 2023 and beyond. I hope a few months later that we can report that the issue will be resolved. But we're still working very hard with our suppliers and to resolve all the issue. That's all I can say right now.
+：Jeff Su - Director of IR
+：Okay. Thank you, Laura. Operator, can we move on to the next participant, please?
+：Operator
+：Next one to ask questions, Mehdi Hosseini from SIG.
+：Mehdi Hosseini - Senior Analyst
+：Yes. My first one has to do with better understanding demand dynamics. You highlighted better than average growth from HPC. And in that context, I'm just wondering how I should think about the mix of 5 and 7-nanometer node by year-end '22 or second half of '22?
+：Jeff Su - Director of IR
+：Okay. So Mehdi's first question is looking at the demand and also by node, he wants to know how should he expect the contribution or the mix from N5 and N7 in the second half of this year.
+：C. C. Wei - CEO
+：It will be greater than we just reported of 50%, right? I mean for the second half of this year, the contribution to TSMC's revenue will be greater than 50%, combining 7 and 5 together.
+：Mehdi Hosseini - Senior Analyst
+：Okay. I was just trying to better understand how that increase would look like compared to prior years where in the second half, usually the advanced node contribution increases and with the leap in (inaudible) mix. I was just trying to better understand how the second half of '22 will look like in the past prior years.
+：Wendell Huang - VP & CFO
+：Yes. Mehdi, I think that the second half revenue is normally higher partially because of seasonality of some of the products.
+：Mehdi Hosseini - Senior Analyst
+：Okay. Great. And one more follow-up. And thank you so much for the color on the next technology migration of 2-nanometer. You highlighted the transistor change. But I also want to understand what is underlying assumption, especially as it relates to lithography. We also have another change coming up as going from EUV to high-NA. And I'm just curious to know if you are assuming if you will be using EUV, or you would need high-NA as you go into HBM for 2-nanometer in the second half of '25?
+：Jeff Su - Director of IR
+：Okay. So Mehdi's second question is on N2, a very specific question. He wants to know with N2, there's a change in transistor structure. He also wants to know on the lithography side, will we be using EUV or high-NA, correct, Mehdi?
+：Mehdi Hosseini - Senior Analyst
+：Yes.
+：C. C. Wei - CEO
+：Well, let me answer the question. We are the largest user of EUV tool today in the industry. And so we have intensively evaluated and are very familiar with those high-end EUV tools for a while. And we will continue to evaluate and adopt the high-end tool whenever we think is necessary and is ready and cost effective. Whether it is a N2 or not, I have not yet to be able to share with you.
+：Jeff Su - Director of IR
+：Okay. Thank you, Mehdi. Operator, can we move on to the next participant?
+：Operator
+：Next one to ask questions, Charles Shi from Needham & Company?
+：Charles Shi - Senior Analyst
+：I want to ask my first question a little bit longer term. One of your IDM customers, well, I don't want to call the name. But their CEO, I believe, revisited you twice over the last 6 months. They think they can both buy wafers from you and, at the same time, compete with your technology. And they are hoping in 2025 and beyond, they'll compete with you in the foundry business. So there has been concerns that you may not really get a fair deal out of this a little bit of complex relationship. One concern, very specifically, I heard this that you may end up basically teaching this competitor, enabling their accelerated road map. But in the end, they will break away from you and compete against you, especially in the foundry business. So maybe can you address this concern and provide us some high-level thinking to the investor community and the public?
+：Jeff Su - Director of IR
+：Okay. Charles, let me summarize your first question. His first question is on the IDM customer that wants to buy wafers or outsource to TSMC, but also said that they would like to compete in the foundry industry. So Charles, your question is really, I guess, 2 parts in the sense that how will TSMC end up teaching this IDM and enabling the road map? And how will we compete on the foundry side?
+：C. C. Wei - CEO
+：Well, Charles, let me answer the question first on the competition. As a leading pure-play foundry, TSMC have never been short on competition in our 35-year history. And we know how to compete, all right? And you asked about how to protect the TSMC's IP or technology detail. In fact, we have a well-established process and design enablement system to ensure a productive engagement with all our customers and while we can protect our own IP as well as customers' IP. We do not anticipate any issues at all. And for the future, actually, this IDM -- might take back their business back into their own house. We have already taken this into our capacity planning consideration already. Did I answer your question, Charles?
+：Charles Shi - Senior Analyst
+：Yes. C.C., so maybe really just to follow up, the second question and then actually is a follow-up to my first question. There has been some press reports, I believe, over the last 2, 3 months saying TSMC is building -- potentially building a dedicated fab for this particular customer. I'm not sure if dedicated fab or production line for specific customers is really TSMC's standard practice. However, can you kind of provide your thinking? Would the answer be no, even if like this customer is going to bring you a significant volume?
+：Jeff Su - Director of IR
+：Okay. So Charles' second question is there's been certain media reports saying that we will build a dedicated fab or production for certain IDM. Is this our practice? Or -- and would the answer still be no even if there is large volume behind such a dedicated capacity?
+：C. C. Wei - CEO
+：Well, Charles, to be frank with you, our capacity planning, as we said many times, is based on the long-term market demand profile, underpinned by the industry's megatrend of 5G and HPC and the semiconductor content enrichment in many end devices. We are not dependent on any single customer or product. Did I answer your question?
+：Charles Shi - Senior Analyst
+：Yes.
+：Jeff Su - Director of IR
+：Okay. Thank you, Charles. Operator, in the interest of time, I think we'll take the last 2 participants' questions, please.
+：Operator
+：Okay. And the next one to ask question is Krish Sankar from Cowen & Company.
+：Krish Sankar - MD & Senior Research Analyst
+：I had 2 of them. The first one is for Wendell. In the March quarter, there's quite a big difference between the revenue growth and the shipment growth. So I'm kind of curious on your full year guidance of high 20s or even beyond that for revenue growth, how much is coming from pricing? Any color there would be helpful. And then I had a follow-up for C.C.
+：Jeff Su - Director of IR
+：Okay. So Krish's first question is in looking at our full year outlook. He wants to know how much of our growth this year, how much of it is coming from price versus volume, I guess?
+：Wendell Huang - VP & CFO
+：Yes. Krish, volume, price and product mix are important contributing factors in driving our growth. But we do not have a specific breakdown to share with you.
+：Krish Sankar - MD & Senior Research Analyst
+：All right. No worries. And then I had a follow-up for C.C. Clearly, investors seem to be worried about a recession or a slowdown. So C.C. from your experience, when you look at price cyclical slowdowns or even macro corrections, what are the leading indicators TSMC looks for specifically? Is it a pricing slowdown? Is it pushed out of capacity? Is it customers breaking LTAs? What do you think is the first shoe to drop? Any color there would be helpful.
+：Jeff Su - Director of IR
+：Okay. Krish's second question is in terms of looking at, again, the demand environment. He wants to ask C.C. and based on past recessions or slowdowns, what are some of the leading indicators that we watch for to -- as a signal? Do we look at pricing slowdown? Do we look at slowdown in capacity and CapEx? What are the indicators that we look at?
+：C. C. Wei - CEO
+：Krish, this is a tough question to be asked because we always in close working with our customers. So we know that each customer's demand and their forecast and we plan our capacity, we plan our technology by working with them. So if there is a downturn, sure, we've got the firsthand information from our customers. And we collect them together, and we look at it. And we decide our long-term CapEx and capacity. But which one is a leading indicator, that, I don't have a specific answer for your questions.
+：Jeff Su - Director of IR
+：Okay. Thank you. Operator, we'll take the questions from the last participant, please then. Thank you.
+：Operator
+：Yes. The last one to ask question is Rolf Bulk from New Street Research.
+：Rolf Bulk - Research Analyst
+：At the beginning of the year, you guided for advanced processes to account for 70% to 80% of CapEx and specialty nodes for 20%. Now with the year now underway and you're having better visibility on the demand in your different end markets, can you share with us if your thinking on capacity additions of advanced versus specialty have changed? Or whether those ratios that you gave originally still hold?
+：Jeff Su - Director of IR
+：Okay. Rolf's first question is about our CapEx and CapEx spending. His question is with the -- in the past 3 months, has the allocation or breakdown between events and specialty technologies in terms of our CapEx, has that changed?
+：Wendell Huang - VP & CFO
+：No, no, it has not.
+：Rolf Bulk - Research Analyst
+：That's helpful. Now as a follow-up, you mentioned that you're working with suppliers to secure and further diversify your material supply. Can you discuss whether you expect your material input cost increase in the second half of the year? And how we should think about gross margin in the second half of 2022 in that context?
+：Jeff Su - Director of IR
+：Okay. So Rolf's second question is a little bit on materials cost. We have said that we're diversifying our material supplier. So are we seeing the input cost increase? And then what does this mean for the margin outlook in the second half?
+：Wendell Huang - VP & CFO
+：Yes. Well, let me answer that. Yes, we do face manufacturing cost challenges, partially due to the rising materials inflationary cost. But we always work closely with our customers to provide our value. And we will continue to ensure that the pricing strategy reflects the value creation. We will also work diligently in our fab operations and with our suppliers to deliver on cost improvements. So by taking such actions, we believe we can achieve the long-term gross margin of 53% and higher and earn greater than 25% ROE through the cycle. That will enable us to invest to support our customers' growth and to deliver profitable growth for our shareholders.
+：Jeff Su - Director of IR
+：Okay. Rolf, does that answer?
+：Rolf Bulk - Research Analyst
+：Very helpful.
+：Jeff Su - Director of IR
+：Yes. Thank you, Rolf. Okay. So thank you, everyone. This concludes our Q&A session. Before we conclude today's conference, please be advised that the replay of the conference will be accessible within 1 hour from now. The transcript will become available 24 hours from now, both of which will be available through TSMC's website at www.tsmc.com.
+：Thank you for joining us today. We hope everyone continues to stay healthy and safe. And we hope you will join us again next quarter. Goodbye, and have a good day.
+：
+：Jeff Su - Director of IR
+：（外語）
+：大家下午好，歡迎參加台積電 2022 年第一季度財報電話會議。我是台積電投資者關係總監、今天的主持人 Jeff Su。為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 通過現場音頻網絡直播主持我們的收益電話會議，您還可以在該網站下載收益發布材料。 （操作員說明）
+：今天活動的形式如下：首先，台積電副總裁兼首席財務官黃文德先生將總結我們在 2022 年第一季度的運營情況，然後是我們對 2022 年第二季度的指導。之後，黃先生和台積電的CEO，C.C.博士魏，將共同提供公司的關鍵信息。然後我們將打開問答線。
+：像往常一樣，我想提醒大家，今天的討論可能包含具有重大風險和不確定性的前瞻性陳述，這可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。請參閱我們新聞稿中的安全港通知。
+：現在我想把電話轉給台積電的首席財務官黃文德先生，以獲取運營摘要和當前季度的指導。
+：Wendell Huang - VP & CFO
+：謝謝你，傑夫。大家下午好。感謝您今天加入我們。我的演講將從 2022 年第一季度的財務亮點開始。之後，我將提供第二季度的指導。
+：第一季度收入按新台幣計算環比增長 12.1%，按美元計算增長 11.6%，因為我們的第一季度業務受到強勁的高性能計算和汽車相關需求的支持。第一季度毛利率環比增長 2.9 個百分點至 55.6%，主要是因為我們繼續出售我們的價值並改善成本。營業利潤率環比增長 3.9 個百分點至 45.6%，主要是由於與第四季度相比疫苗捐贈費用較低。總體而言，我們第一季度每股收益為 7.82 新台幣，ROE 為 36.2%。
+：現在讓我們轉向技術收入。 5納米工藝技術在第一季度貢獻了20%的晶圓收入，而7納米則佔了30%。定義為 7 納米及以下的先進技術佔晶圓收入的 50%。
+：現在轉向平台的收入貢獻。第一季度所有6個平台都有所增長。智能手機環比增長 1%，占我們第一季度收入的 40%。 HPC 增長 26%，佔 41%。物聯網增長 5%，佔 8%。汽車增長 26%，佔 5%。而大商所增長8%至3%。
+：繼續資產負債表。我們在第一季度結束時擁有 1.3 萬億新台幣的現金和有價證券。負債方面，流動負債增加830億新台幣，主要是因應計負債及其他增加630億新台幣，短期貸款增加300億新台幣，部分被2019年減少210億新台幣抵消。應付賬款。由於我們在本季度籌集了 200 億新台幣的公司債券，長期有息債務增加了 190 億新台幣。財務比率方面，應收賬款周轉天數減少 2 天至 38 天，而存貨天數保持在 88 天。
+：現在讓我對現金流和資本支出發表一些評論。在第一季度，我們從運營中產生了約 3720 億新台幣的現金，在資本支出中花費了 2620 億新台幣，並為 21 年第二季度的現金股息分配了 710 億新台幣。應付債券因發行債券而增加200億新台幣。總體而言，我們的現金餘額在本季度末增加了 870 億新台幣至 1.2 萬億新台幣。以美元計算，我們第一季度的資本支出總額為 93.8 億美元。
+：我已經完成了我的財務摘要。現在讓我們轉向我們當前的季度指導。根據目前的業務前景，我們預計第二季度收入將在 176 億美元至 182 億美元之間，中點環比增長 1.9%。基於1美元兌28.8新台幣的匯率假設，毛利率預計在56%至58%之間，營業利潤率在45%至47%之間。此外，我們將 2022 年的資本預算維持在 400 億美元至 440 億美元之間。我的財務報告到此結束。
+：現在讓我談談我們的關鍵信息。我將首先對我們第一季度和第二季度的盈利能力發表一些評論。提醒一下，6 個因素決定了台積電的盈利能力：領先的技術開發和提升、定價、成本降低、產能利用率、技術組合和匯率。正如我們之前所討論的，我們第一季度的毛利率環比增長 290 個基點至 55.6%，主要是由於成本改善和價值銷售努力以及更有利的匯率。
+：我們在 3 個月前提供的毛利率指引是基於 1 美元兌 27.6 新台幣的匯率假設，而第一季度的實際匯率是 1 美元兌 27.95 新台幣。這在我們的第一季度實際毛利率與我們最初的指導之間產生了約 50 個基點的差異。我們剛剛指導我們的第二季度毛利率進一步增加 140 個基點，達到中點的 57%，這主要是由於更有利的 1 美元兌 28.8 新台幣的匯率假設，這帶來了超過 100 個基點的毛利率順風，以及持續的成本改進和價值銷售努力。
+：展望我們的盈利能力，我們繼續面臨通脹成本上升、領先節點工藝複雜性增加、成熟節點的新投資和海外工廠擴張的挑戰。儘管面臨製造成本挑戰，並且排除我們無法控制的匯率影響，考慮到其他 5 個因素，我們仍然認為可以實現 53% 及更高的長期毛利率。
+：現在讓我把麥克風交給 C.C.
+：C. C. Wei - CEO
+：謝謝你，溫德爾。我們希望每個人都在這段時間內保持安全和健康。首先，讓我從我們的近期需求和庫存開始。我們第一季度的收入為 4,911 億新台幣或 176 億美元，高於我們指引的高端，主要是由於智能手機和汽車相關應用的需求好於我們 3 個月前的預測，以及客戶持續需要確保在 COVID 相關不確定性的緊急情況下提供安全保障。
+：進入 2022 年第二季度，我們預計我們的業務將受到 HPC 和汽車相關需求的支持，部分被智能手機的季節性所抵消。在庫存方面，我們預計供應鏈將在更長的時間內繼續保持高於歷史季節性水平的庫存水平，這會因近期與 COVID 相關的供應鏈中斷和地緣政治緊張局勢帶來的不確定性而延長。
+：在需求方面，儘管近期存在與宏觀相關的不確定性，但我們繼續觀察到長期半導體需求的結構性增長，這得益於該行業的 5G 和 HPC 相關應用的大趨勢。這一多年的大趨勢將支持適度的設備單位數量增長，更重要的是，將推動高性能計算、智能手機、汽車和物聯網應用中的許多終端設備中大量的半導體內容豐富。憑藉我們的技術領先地位，台積電已準備好利用我們先進的專業技術來捕捉強勁的結構性需求。我們預計我們的產能將在整個 2022 年保持緊張。
+：2022年將是台積電又一個強勁增長的一年。我們預計我們的全年增長可能會達到或超過我們以美元計算的中高 20% 的指導範圍的高端。
+：接下來，鑑於最近工具供應鏈的限制，讓我談談工具交付更新。作為全球半導體供應鏈的主要參與者，台積電與我們所有的工具供應商密切合作，提前規劃我們的資本支出和產能。然而，與許多其他行業一樣，我們的供應商在其供應鏈中面臨著來自 COVID-19 持續影響的巨大挑戰，這在其供應鏈中造成勞動力、組件和芯片限制，並延長了先進和先進工具的交付週期。成熟的節點。台積電正在與我們的供應商密切合作，並採取多項行動盡我們的一份力量來幫助應對供應鏈挑戰。我們增加了定期的高層溝通來追踪進展。
+：我們已派出多個團隊到現場為我們的供應商提供支持，並與他們密切合作，以確定影響工具交付的關鍵芯片。我們正在與客戶合作，優先考慮我們的晶圓產能，以支持這些關鍵芯片，以幫助緩解芯片限制問題。通過採取此類行動，我們預計 2022 年產能計劃不會受到任何影響，我們將在 2023 年及以後繼續與供應商密切合作，以提高產能以滿足客戶需求。
+：現在我將談談材料供應更新。台積電運行完善的企業風險管理系統，以識別和訪問所有相關風險並主動實施風險緩解策略。在材料供應方面，台積電的策略是不斷開發多源供應解決方案，以建立多元化的全球供應商基礎，並完善本地供應鏈。對於特殊化學品和氣體，包括氖氣和氙氣，我們從不同地區的多個供應商處採購，並且我們已經準備了一定水平的庫存庫存。我們還與供應商密切合作，以進一步加強我們供應鏈的彈性和可持續性。因此，我們預計材料供應不會對我們的運營產生任何影響。
+：最後說一下N3和N3E的狀態。我們的 N3 技術將使用 FinFET 晶體管結構，為我們的客戶提供最佳的技術成熟度、性能和成本。我們的 N3 計劃保持不變，並有望在 2022 年下半年實現量產，並取得良好的產量。我們預計 N3 的增長將受到 HPC 和智能手機應用的推動。我們繼續看到 N3 的客戶參與度很高，並且與 N5 和 N7 相比，預計第一年 N3 的新流片會更多。 N3E 將通過增強的性能、功率和產量進一步擴展我們的 N3 系列。我們還觀察到 N3E 的客戶參與度很高，量產計劃在 N3 之後 1 年進行。
+：我們的 3 納米技術在推出時將成為 PPA 和晶體管技術中最先進的代工技術。在盈利能力方面，新節點的初始前景總是充滿挑戰。而 N3 等領先節點日益增加的工藝複雜性為實現 7 到 8 個季度的企業平均毛利率帶來了更大的挑戰，特別是隨著我們的企業盈利能力得到改善，長期毛利率目標達到 53% 甚至更高。正如我們在之前的節點所做的那樣，我們將繼續努力改進成本和銷售價值，以確保我們獲得適當的盈利能力和 N3 回報。憑藉我們的技術領先地位和強大的客戶需求，我們有信心我們的 N3 系列將成為台積電另一個大型且持久的節點。
+：我們的關鍵信息到此結束，感謝您的關注。
+：Jeff Su - Director of IR
+：謝謝你，C.C.我們準備好的評論到此結束。 （操作員說明）如果您想用中文提出問題，我會在管理層回答您的問題之前翻譯成英文。 （操作員說明）現在讓我們開始問答環節。接線員，我們可以接第一個來電者嗎？
+：Operator
+：是的。第一個提問的是高盛的布魯斯·盧。
+：Bruce Lu - Research Analyst
+：祝賀偉大的結果。我認為第一個仍然關注宏觀和通脹問題。台積電如何評估通脹和地緣政治緊張局勢的影響？我們了解台積電與客戶密切合作，但您的大多數客戶可能不了解最終需求波動的全貌。同時，台積電要承擔提前幾年建設產能的風險，才能更早做出決定，那麼台積電如何才能提供更多的色彩來增強投資者的信心呢？我們的多年產能擴張計劃是否有任何變化？
+：Jeff Su - Director of IR
+：好的。布魯斯，請允許我總結一下你的第一個問題。我認為布魯斯的問題與宏觀環境和通脹問題有關。他想知道我們如何評估通貨膨脹和宏觀環境的影響。而且就我們的產能而言，我們的客戶可能無法完全清楚地了解最終需求，但台積電必須承擔提前多年建設產能的風險。資本支出是否會放大我們的波動性，所以他想知道，管理層對資本支出計劃和增強投資者對我們資本支出的信心的信心是否有任何色彩。
+：C. C. Wei - CEO
+：布魯斯，我是 C.C.魏。讓我回答你的問題。正如你所說，台積電與我們的客戶密切合作來規劃產能。而我們的資本支出和產能擴張計劃實際上是基於客戶的長期需求概況，並以行業大趨勢為基礎。我們不會基於投機來建設能力。在先進的技術節點上，我們處於領先地位。在我們成熟的節點中，我們的能力旨在支持客戶對我們差異化專業技術的需求。我們專注於建設有效能力，即以高產量生產和生產專業技術的能力，而不僅僅是簡單的能力。因此，我們相信我們的產能能夠支持客戶的增長，我們的利用率和盈利能力將保持不變。
+：Jeff Su - Director of IR
+：然後，我們如何 - 我認為通貨膨脹的影響。
+：C. C. Wei - CEO
+：那麼，通貨膨脹肯定會影響消費者的購買模式。但我要強調的是整體需求，在通脹環境下，雖然某些終端細分市場的動能可能會放緩或在設備單位方面有所調整，但其他終端細分市場依然強勁。事實上，我們預計我們的 HPC 平台將在 2022 年成為台積電增長最強勁的平台，並在結構性大趨勢推動對更大計算能力和節能計算的需求不斷增長的推動下成為我們增長的最大貢獻者。但更重要的是，5G 智能手機、PC、服務器、網絡和汽車應用等終端設備中不斷增加的矽含量是支持我們強勁的半導體需求的一個更重要的因素。憑藉我們行業領先的技術，我們有能力抓住所有機會。
+：Jeff Su - Director of IR
+：好的。布魯斯，這能回答你的第一個問題嗎？
+：Bruce Lu - Research Analyst
+：是的。好的。我想回答第二個問題。我想在準備好的評論中，我注意到沒有提到 N2 的時間表。您的兩個競爭對手都加快了下一代晶體管的進度。您能否評論台積電在全能門方面的地位，尤其是在性能和加速計劃方面？
+：Jeff Su - Director of IR
+：好的。所以我認為布魯斯的第二個問題--布魯斯，請允許我確保我們得到它是在N2 時間表上。他說我們的競爭對手已經評論了他們的 N2 時間表，Bruce 想知道我們的 N2 計劃是什麼？
+：C. C. Wei - CEO
+：我們的 N2 開發正在走上正軌，包括新的晶體管結構和進展到我們的預期。我們希望我們的 N2 交付能夠為我們的客戶提供最好的技術、成熟度、性能和成本。我們相信 N2 將繼續保持我們的技術領先地位，以支持我們的客戶增長。我們仍然計劃在 2025 年生產。
+：Bruce Lu - Research Analyst
+：所以 N2 的 2 年節奏保持不變？
+：C. C. Wei - CEO
+：它不會。
+：Jeff Su - Director of IR
+：好的。謝謝你，布魯斯。接線員，我們可以轉到下一個參與者嗎？
+：Operator
+：下一個要問的問題是摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：我的第一個問題是關於 N3。鑑於我們距離 N3 量產還有不到 1 年的時間，我們能否談談我們應該如何預期明年 N3 的收入會增加？是否會類似於我們在 N5 和 N7 中看到的情況，明年大約 10% 的收入來自 N3？而且，你能談談嗎 - 我認為你強調了讓 N3 的盈利能力更接近公司平均水平的一些挑戰。我們是否也可以詳細說明一下？這是我的第一個問題。
+：Jeff Su - Director of IR
+：好的。 Gokul，請允許我總結一下你的問題。所以Gokul的問題真的和N3有關。他想知道隨著 N3 的增加，我們可以期待什麼樣的收入貢獻。是否會類似於過去N5和N7第一年晶圓收入的10%左右的模式。此外，鑑於 C.C. 對流程複雜性挑戰的評論，他想問一下 N3 的盈利前景如何。對嗎，高庫？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：好的。
+：Jeff Su - Director of IR
+：是的。好的。也許溫德爾可以解決。
+：Wendell Huang - VP & CFO
+：是的。 Gokul，這是溫德爾。現在談論收入貢獻還為時過早，因為 N3 要到 2022 年下半年才能開始量產，而收入貢獻將從 2023 年開始。此外，由於行業大趨勢支撐的結構性需求正在推動我們所有節點的增長，具體百分比與歷史模式相比，新節點的數量在未來可能不太有意義。但總的來說，我們相信我們的 3 納米技術在推出時將成為最先進的代工技術。憑藉強大的客戶參與度和流片活動，我們的 N3 系列將成為台積電另一個大型且持久的節點，就像 N5 和 N7 系列一樣。
+：現在關於毛利率，如 C.C.說，新節點的初始前景總是充滿挑戰。而 N3 等領先節點日益增加的工藝複雜性為實現 7 到 8 個季度的企業平均毛利率帶來了更大的挑戰，部分原因還在於我們的企業盈利能力有所提高，以及我們新的 53% 的長期毛利率目標和更高。現在說N3現階段什麼時候能達到企業平均毛利率還為時過早，因為還沒有開始量產。但是，我們將繼續努力銷售我們的價值和成本改進，以確保我們獲得正確的盈利能力和回報。現在，即使考慮到 N3 等先進節點的工藝複雜性不斷增加，我們相信我們的技術領先地位、製造和產能支持以及贏得客戶信任的能力將使我們能夠獲得 53% 甚至更高的長期毛利率。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：知道了。我的第二個問題是關於更成熟的工藝技術，台積電能否給我們一些關於專業和成熟技術的行業增長的看法？我認為根據我們所看到的數據，從歷史上看，這可能只是以低到中個位數的速度增長。但是現在，我們看到許多代工廠在這些較老的專業和成熟的工藝技術中宣布了很多產能，比如說，定義為 28 納米及以上。那麼台積電能否談談這些成熟工藝技術未來的增長率？它會大大高於我們過去看到的 3% 到 5% 嗎？在大多數情況下，我們看到較舊的節點會增長 4 到 5 年，然後會停滯不前。我們是否看到這種模式發生了變化，因為您談到的每個盒子的某些內容或每個設備的內容動態？是的。
+：Jeff Su - Director of IR
+：好的。 Gokul，讓我總結一下你的第二個問題。我認為您的第二個問題是——Gokul 的第二個問題是關於成熟節點和前景——成熟節點的增長前景。他的問題是，我們如何看待成熟節點的增長前景？在過去，用他的話來說，它已經增長了大約 3% 到 5%。我們認為它是否可以比他定義為 28 納米及以上的成熟節點更高？
+：Wendell Huang - VP & CFO
+：好的。 Gokul，我們預測整個半導體前存儲器行業的增長率在未來 5 年將加速至高個位數百分比水平，而過去 10 年的複合年增長率約為 4%。成熟節點的更高需求將受到結構性因素的推動，例如由於 5G 和 HPC 的多年行業大趨勢以及許多終端設備中矽含量的增加以及加速數字化。台積電在成熟節點的策略是與客戶緊密合作，開發專業技術解決方案以滿足他們的需求，並為客戶創造差異化和持久的價值。我們相信，我們的差異化專業技術將使我們能夠抓住行業大趨勢產生的結構性需求，並繼續支持我們客戶的增長。
+：Jeff Su - Director of IR
+：Gokul，這能回答你的第二個問題嗎？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：是的。
+：Jeff Su - Director of IR
+：好的。謝謝你，戈庫爾。接線員，我們可以轉到下一個呼叫者嗎？
+：Operator
+：下一位要提問的是來自摩根士丹利的 Charlie Chan。
+：Charlie Chan - Technology Analyst
+：祝賀偉大的結果，管理。我的第一個問題是關於半庫存辯論。所以我可以向 C.C. 澄清一下嗎？該公司仍然認為供應鏈需要保持高庫存有幾個原因。但事實上，我們看到 PC、智能手機 OEM 正在降低渠道庫存，正如您所知，他們正在降低渠道庫存的圖形。那麼你認為高庫存實際上是需求疲軟的信號嗎？或者我們在這裡錯過的任何東西，因為事實上，我們看到了消費科技庫存，我們看到了修正？
+：Jeff Su - Director of IR
+：好的。查理，讓我總結一下你的第一個問題。所以查理的問題是關於庫存和最終需求。他想知道或者他注意到消費者——部分消費者最終需求似乎比預期的要弱或疲軟。那麼這又如何影響我們對更高水平庫存的看法，有點像我們的看法？我想，查理，你的問題真的是考慮到消費者終端細分市場的潛在疲軟，我們對終端需求的看法是什麼？然後我們對庫存的看法是什麼。那是對的嗎？
+：Charlie Chan - Technology Analyst
+：是的。是的。如果需求確實在惡化，您認為實際庫存水平應該下降嗎？
+：C. C. Wei - CEO
+：查理，我是 C.C.魏。你是對的，一些終端細分市場，實際上，這些天我們開始看到那些智能手機、個人電腦或平板電腦的負載有點疲軟。但正如我所指出的，其他終端細分市場仍然非常強勁，好嗎？因此，如果您查看供應鏈中的一些不平衡，特別是在 MCU 或電源管理 IC 方面，我們仍然看到非常強勁的需求。並且由於新出現的 COVID-19 不確定性導致供應鏈中斷，因此我們繼續觀察到我們的客戶將在更長的時間內保持較高的庫存水平。我們繼續觀察。因此，實際上對於台積電來說，我們的產能在 2022 年全年仍然非常緊張。
+：Charlie Chan - Technology Analyst
+：我懂了。好的。那麼它是否更針對那些工業汽車行業而不是消費技術？我對您對庫存水平的評論是否正確？
+：C. C. Wei - CEO
+：是的你是對的。事實上，非常重要的是結構性大趨勢。所以對於偉大的 - 你知道我的客戶需要更大的計算能力和節能計算，這實際上是台積電技術的強項。
+：Charlie Chan - Technology Analyst
+：我懂了。我的第二個問題是關於你的 N3 進度。所以我們繼續聽到很多關於你的 N3E 的好消息和軼事實際上進展非常非常好。那麼，您是否認為您實際上可以將 N3E 投入使用 1 或 2 個季度來滿足客戶的需求，對嗎？所以我認為這對台積電和你的客戶來說都是雙贏的。您是否看到這種可能性，並且可能更早地將一些 N3 項目轉換為 N3E？
+：Jeff Su - Director of IR
+：好的。所以查理的第二個問題是關於 N3E。他指出進展非常順利。所以他的問題是，有沒有可能把N3的時間提前？我們會將 N3 容量轉換為 N3E 嗎？
+：Charlie Chan - Technology Analyst
+：確切地。
+：C. C. Wei - CEO
+：好的。查理，你又是對的。我的意思是，我們的 N3E 結果非常好。進展實際上是——超前於我們的計劃。並且，是的，我們正在考慮這一點。到目前為止，我仍然沒有非常可靠的數據可以與您分享我們可以拉入多少個月。但是，是的，這在我們的計劃中。還有容量，因為我們對 N3 和 N3E 的需求非常強烈，我們仍然計劃有足夠的容量來支持我們的客戶。
+：Jeff Su - Director of IR
+：好的。謝謝你，查理。接線員，我們可以轉到下一個參與者嗎？
+：Operator
+：下一個要提問的是瑞士信貸的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：我的第一個問題，我想跟進你改變的看法，你從 20 多歲到現在的 20 多歲或更高。你能討論一下，因為它是根據宏觀和你在消費者身上看到的軟化嗎？如果——有多少可能歸因於市場份額、技術或多少歸因於某個平台，你能否討論一下這種變化的因素？如果某個平台推動了它，您是否可以更新您對不同平台的看法？您是否看到 4 個平台中的任何一個有任何向下的變化？
+：Jeff Su - Director of IR
+：好的。謝謝你，蘭迪。所以讓我總結一下蘭迪的第一個問題是關於我們的全年展望，作為 C.C.在他的關鍵信息中提到，我們預計會達到或超過我們對 20 歲中高點的指導的高端。所以蘭迪的問題是，鑑於宏觀環境看起來更加不穩定，是什麼推動了更高或更好的全年前景。是技術嗎？是市場份額等等嗎？平台的前景如何？
+：C. C. Wei - CEO
+：Randy，我們預計我們的 HPC 平台將成為台積電今年和未來幾年增長最強勁的平台。它將成為我們增長的最大貢獻者。這一切都是因為結構性大趨勢推動了對更大計算能力和節能計算的日益增長的需求。正如我所說，這些技術恰好是台積電的強項。因此，我只能與您分享的是，我們有信心它將超過或處於我們指導的高端。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。並且只是對第一個進行跟進。你改變了對……的看法？
+：Wendell Huang - VP & CFO
+：是的，然後還有……
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的，所以我想知道其他平台，如果您改變對智能手機的看法或...
+：Wendell Huang - VP & CFO
+：今年，Randy，我們可以與您分享，我們預計 HPC 和汽車行業的增長速度將超過公司平均水平。物聯網，類似。和智能手機，接近企業平均水平。
+：Jeff Su - Director of IR
+：全年。
+：Wendell Huang - VP & CFO
+：全年。
+：Jeff Su - Director of IR
+：是的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。所以聽起來變化不大。我的第二個問題更相關——人們非常擔心我們會進入衰退還是放緩。如果您可以在擴張計劃的靈活性方面給予其他方式，如果希望我們不這樣做，但如果我們陷入更嚴重的衰退，您在美國、台灣、日本和南京的晶圓廠計劃的靈活性有多大？另一方面，由於預付定金，發貨時間是否有靈活性，如果客戶需要應對需求放緩，是否有充分的靈活性？
+：Jeff Su - Director of IR
+：好的。所以蘭迪的第二個問題是，如果出現低迷或放緩，這種情況會改變嗎？或者，如果前景變得更糟，我們在台灣、日本和海外的新工廠和產能擴張計劃的時間表有多靈活？如果出現低迷或放緩，我們與客戶預付款的靈活性如何？
+：C. C. Wei - CEO
+：蘭迪，我是 C.C.魏。我們的資本支出和產能擴張計劃始終基於客戶的長期需求概況。這得到了行業大趨勢的支持。只要大趨勢繼續下去，我們相信它會繼續，我們將繼續投資以捕捉隨之而來的增長。因此，即使短期內可能出現低迷，我們認為這不會對台積電產生太大影響，即使發生這種情況，我們也會繼續我們的計劃，我們有信心投資以捕捉隨之而來的增長。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。在客戶方面，他們鎖定的存款和容量？
+：Wendell Huang - VP & CFO
+：蘭迪，實際上，我們認為簽訂合同以保證未來的裝載並不是一種常見的做法。我們真正專注於技術領先、卓越製造和贏得客戶信任，以此作為確保客戶承諾的更有效方式。現在，我們與客戶密切合作來規劃容量，包括接收他們為容量支持而支付的預付款。我們將繼續與他們合作，以確定支持他們的最佳方式。
+：Jeff Su - Director of IR
+：是的，蘭迪。所以我認為客戶方面和容量方面的答案非常一致或相似。這能回答你的第二個問題嗎？
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。我的意思是，我想，就像過去一樣，我們看到了利用率放緩的靈活性。所以我的意思是，如果他們需要重新安排時間，我認為它仍然可以與客戶一起制定他們的計劃，因為我們過去已經看到他們是否必須調整他們的利用率。就像我不知道該元素的模型是否有任何變化？
+：Wendell Huang - VP & CFO
+：不，不，模型沒有任何變化。是的。
+：Jeff Su - Director of IR
+：好的。謝謝你，蘭迪。接線員，我們可以轉到下一個呼叫者嗎？
+：Operator
+：下一位是瑞銀的Sunny Lin。
+：Sunny Lin - Director & Associate Analyst
+：祝賀強勁的表現。所以我的第一個問題是關於你未來的定價策略。我的意思是，如果我們看看這個上升週期，供應緊張和強勁的補貨需求支持了整個 2021 年代工行業和台積電的相當有意義的價格上漲。所以從這裡開始，您是否希望進一步提高一些技術的價格以證明擴張成本上升的合理性？另一方面，如果供需開始正常化，您認為定價可能存在風險嗎？
+：Jeff Su - Director of IR
+：好的。那麼Sunny，讓我——請允許我總結一下你的第一個問題。她的問題是雙方的定價都處於上升週期。但隨著我們面臨成本挑戰，台積電是否會考慮進一步提高價格。另一方面，如果需求疲軟，我認為，Sunny，你——另一方面，定價是否有風險降低價格。那是對的嗎？
+：Sunny Lin - Director & Associate Analyst
+：這是正確的。
+：C. C. Wei - CEO
+：好的。桑尼，我是 C.C.魏。我們不對定價細節發表評論。但讓我向您保證，我們的定價策略是戰略性的，而不是機會主義或短期的。客戶了解我們為支持他們的發展所做的努力。正如你所說，如果經濟低迷，反過來，台積電會降價嗎？答案是不。我回答你的問題了嗎？
+：Sunny Lin - Director & Associate Analyst
+：這很有幫助。所以我的第二個問題是跟進 N3 的升級。所以只是想在 2023 年獲得一點色彩。我知道需求非常強勁。但是，當我們考慮到 2023 年的潛在收入貢獻時，隨著設備供應和交付時間的減少，這是否會成為 3 納米技術在明年超過典型的 10% 收入貢獻的上限因素？或者您認為您還有一段時間可以嘗試加速設備擴展？
+：Jeff Su - Director of IR
+：好的。所以 Sunny 的第二個問題是關於 N3 和加速。她的問題再次與 N3 的收入貢獻有關。具體來說，她在詢問設備供應或某些工具交付問題是否會影響 N3 在明年 2023 年的產能提升，從而影響收入貢獻。
+：C. C. Wei - CEO
+：好吧，我們確實看到了工具交付方面的一些問題，我們仍在努力解決。正如我在聲明中所說，我們現在正在為 2023 年工作，我們希望我們不會有任何大問題。但是現在，我們還沒有準備好與您分享我們可以解決多少問題。但我們有強烈的需求。我們試圖為我們的客戶建立足夠的能力。我們正在與我們的設備供應商合作，以獲得足夠的工具來擴大我們的產能。
+：Jeff Su - Director of IR
+：好的。謝謝你，桑尼。接線員，我們可以轉到下一個參與者嗎？
+：Operator
+：下一位要提問的是來自大和的 Rick Hsu。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的。我的第一個問題是關於您今年的收入指導。我認為你認為它應該達到甚至超過你以美元計算的 20 多歲中高點的指導。那麼在這種情況下，您是否正在修改對今年全球半導體前存儲器的預測以及對今年全球代工市場的預測？
+：Jeff Su - Director of IR
+：好的。里克的第一個問題是關於我們 2022 年的展望。對不起，瑞克，讓我試著總結一下。所以 Rick 指出 C.C.表示，我們 2022 年的增長可能會達到或超過我們 20 年代中高收入指導的高端。所以他想知道這對我們對半導體前存儲器和代工市場的預測或預期意味著什麼。
+：C. C. Wei - CEO
+：所以讓我回答你的問題。到目前為止，我們對台積電的表現充滿信心。但整個行業，半導體的代工行業依然會以20%左右的同比增長為增長點。所有其他人，我們仍在努力了解狀態，還沒有準備好與您分享。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：好的。所以基本上，實力更多的是台積電公司，對吧？
+：C. C. Wei - CEO
+：那是因為我們在技術方面的經銷商，你是對的。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：好的。偉大的。 C.C.，第二個問題，我認為您的客戶自去年以來一直在排長隊。我知道今年有一些宏觀問題，有一些變化，你提到了一些需求放緩。但其他一些人仍然非常強大。所以我假設任何釋放容量的客戶都會很快被其他人填滿。但你是說隊列正在縮短嗎？或者如果是這樣的話，你認為什麼時候排隊——沒有更多的隊列了？你認為這會在什麼時候發生？
+：Jeff Su - Director of IR
+：好的。所以瑞克的第二個問題是關於——C.C.提到我們的產能將在整個 2022 年保持緊張。但是 C.C. 的——抱歉，Rick 的問題更多是關於排隊或等待的線路，因為正如我們所說，某些終端細分市場可能會放緩或調整，但其他細分市場仍然強勁. Rick 的問題實際上是等待或列表行縮短，或者我們預計什麼時候會縮短？
+：C. C. Wei - CEO
+：里克，到目前為止，正如我所說，台積電的產能將非常緊張，不足以支持我們的客戶。所以如果你問隊列中的列表會更長或更小，沒關係。這仍然不足以支持我們的客戶。我們正在努力支持他們。這就是我可以和你分享的。
+：Jeff Su - Director of IR
+：好的。謝謝你，瑞克。接線員，我們可以轉到下一個參與者嗎？
+：Operator
+：下一個來自 Arete Research 的在線 Brett Simpson。
+：Brett Simpson - Senior Analyst
+：是的。我對你們的海外工廠擴張計劃有疑問。我想今天，如果我們看看你們的晶圓產能，它是 100% 在台灣。您是否看到戰略客戶對加快海外工廠擴張計劃的壓力？如果您有一個長期目標是您的晶圓產能的哪一部分可能來自您的海外晶圓廠，您能否也與我們分享一下？什麼時候會發生這種情況？
+：Jeff Su - Director of IR
+：好的。所以布雷特的第一個問題是關於我們的海外擴張和全球製造足跡。他的問題是，我們是否看到戰略客戶向海外擴張的壓力？他想知道我們的產能在什麼時間框架內將有多少比例或百分比在海外？
+：C. C. Wei - CEO
+：好的。讓我回答這個問題。事實上，談到海外供應或我們正在建設的產能，我們作為台積電管理層的責任是為我們的客戶和台積電的最佳利益做出最佳決策。我們與所有客戶保持密切和持續的溝通。實際上，到目前為止，他們的首要任務是確保產能、足夠的產能來支持他們的業務，以及與台積電合作進行技術開發。那是台積電要關注的地方。
+：至於外部建設的產能有多少，讓我和大家分享一下，現在，我們在亞利桑那州有一個 5 納米的晶圓廠，在日本有一個 28 和 16 個 FinFET 技術的晶圓廠，我們在中國的產能有 16 個FinFET 和 28。此外，我們正在台灣建設 28 納米以上的容量。我們肯定有一些未來的計劃，但是雖然未來幾年會增加，但不足以和大家分享說，與台積電的產能相比，總共會有多少百分比。這是否回答你的問題？
+：Brett Simpson - Senior Analyst
+：是的，那太好了。也許只是第二個問題。開——你提到 N3E 將在 N3 之後 1 年到來。但是您可以向我們提供有關 2 納米時序的最新信息，我相信這將有一個新的晶體管架構門極。我猜從 N5 到 N3 的轉變超過了 2 年，這就是你通常的情況——你通常一直在運行的節奏。我們是否會在 N2 和 N2 之間回到 2 年，這樣我們才能看到 2024 年底 N2 的推出？還是需要更長的時間？
+：Jeff Su - Director of IR
+：好的。所以布雷特的第二個問題實際上是關於 N2 和節奏的。他想知道 N5 到 N3 在這 2 個節點之間大約有 2 年以上的節奏。對於 N3 到 N2，它會回到 2 年的節奏嗎？ N2的時間框架是什麼？
+：C. C. Wei - CEO
+：布雷特，我們今天迄今為止在 N2 方面的進展正在走上正軌。而我只想說，是的，2024年底，你將進入風險生產。 2025 年，它將投入生產，可能接近下半年或 - 或 2025 年底。這是我們的日程安排。
+：Jeff Su - Director of IR
+：好的。謝謝你，布雷特。接線員，我們可以轉到下一個參與者嗎？
+：Operator
+：下一位，我們有凱基證券的 Laura Chen。
+：Laura Chen - Research Analyst
+：我的第一個問題是關於先進封裝的發展。您能否與我們分享您對台積電目前先進封裝在收入貢獻和增長趨勢方面的進展的看法？既然我們知道有很多高計算 PC 客戶依賴於台積電先進封裝或 3D 封裝服務，那麼我們可以期待您的先進封裝收入將成為您高計算 PC 增長前景的一部分嗎？這是我的第一個問題。
+：Jeff Su - Director of IR
+：好的。所以 Laura 的第一個問題是關於我們的 3D IC 或先進封裝的進展。她想了解收入貢獻方面的進展、包裝業務的增長前景以及它與高 HPC 平台的相關性。
+：Wendell Huang - VP & CFO
+：對。勞倫，讓我回答第一部分。 2021年，先進封裝創造了41億美元的收入。現在我們預計，今年的增長將與企業增長相似。而在 5 年內——在未來 5 年內，我們預計其 CAGR 的增長將略高於公司。
+：Jeff Su - Director of IR
+：以及與 HPC 的相關性？
+：C. C. Wei - CEO
+：好吧，讓我回答這個相關性。實際上，非常先進的 SoIC 技術實際上是為 HPC 高端應用服務的。因此，這需要高帶寬、非常低的功耗和非常高的性能。到目前為止，我們剛剛進入了 2022 年的小批量生產，我們預計這一產量將繼續增長。這就是我們今天所擁有的。
+：Laura Chen - Research Analyst
+：好的。這很清楚。我的第二個問題更像是一個後續問題。我認為C.C.已經提到了很多關於長期資本支出擴張的策略。但我們知道，設備交付週期要長得多。所以我只是想知道您看到最大影響的任何特定領域或流程？你的行動是什麼？或者您對各種技術節點有什麼優先考慮？
+：Jeff Su - Director of IR
+：好的。所以勞拉的第二個問題是關於產能擴張和設備交貨期的問題。鑑於 C.C.談到，她想知道我們看到的影響最大的領域或節點是什麼？我們是否在優先考慮 - 我們如何優先考慮？
+：C. C. Wei - CEO
+：勞拉，我的意思是——我們從今年年初就意外地看到了這種工具交付問題。我們正在與我們的工具供應商一起努力解決所有問題。而對於哪個技術節點或哪個技術或什麼受到影響，所有的前沿技術和成熟的節點技術擴容都受到影響。當然，為了支持我們客戶的強烈需求，我們正在努力為工具供應商解決所有問題。到目前為止，2022 年，沒問題。我們正在為 2023 年及以後工作。我希望幾個月後我們可以報告該問題將得到解決。但我們仍在與供應商一起努力解決所有問題。這就是我現在能說的。
+：Jeff Su - Director of IR
+：好的。謝謝你，勞拉。接線員，我們可以轉到下一個參與者嗎？
+：Operator
+：下一位提問的是來自 SIG 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：是的。我的第一個與更好地理解需求動態有關。您強調 HPC 的增長高於平均水平。在這種情況下，我只是想知道在 22 年年底或 22 年下半年之前我應該如何考慮 5 和 7 納米節點的混合？
+：Jeff Su - Director of IR
+：好的。因此，Mehdi 的第一個問題是查看需求以及節點，他想知道他應該如何預期今年下半年 N5 和 N7 的貢獻或混合。
+：C. C. Wei - CEO
+：這將大於我們剛剛報告的 50%，對吧？我的意思是今年下半年對台積電收入的貢獻將超過50%，7和5加起來。
+：Mehdi Hosseini - Senior Analyst
+：好的。我只是想更好地了解與前幾年相比的增長情況，在下半年，通常高級節點貢獻增加並且隨著（聽不清）混合的飛躍。我只是想更好地了解過去幾年 22 年下半年的情況。
+：Wendell Huang - VP & CFO
+：是的。 Mehdi，我認為下半年的收入通常較高，部分原因是某些產品的季節性。
+：Mehdi Hosseini - Senior Analyst
+：好的。偉大的。還有一個後續。非常感謝您為 2 納米的下一次技術遷移提供的顏色。你強調了晶體管的變化。但我也想了解什麼是基本假設，尤其是與光刻有關的假設。隨著從 EUV 到高 NA，我們還有另一個變化即將到來。我只是想知道您是否假設您將使用 EUV，或者您在 25 年下半年進入 HBM 2 納米時需要高 NA？
+：Jeff Su - Director of IR
+：好的。 Mehdi 的第二個問題是關於N2，一個非常具體的問題。他想知道N2，晶體管結構發生了變化。他還想知道在光刻方面，我們會使用 EUV 還是高 NA，對，Mehdi？
+：Mehdi Hosseini - Senior Analyst
+：是的。
+：C. C. Wei - CEO
+：好吧，讓我來回答這個問題。我們是當今業界最大的 EUV 工具用戶。因此，我們對那些高端 EUV 工具進行了一段時間的深入評估並非常熟悉。我們將在我們認為有必要、準備就緒且具有成本效益的情況下繼續評估和採用高端工具。不管是不是N2，我還不能和大家分享。
+：Jeff Su - Director of IR
+：好的。謝謝你，邁赫迪。接線員，我們可以轉到下一個參與者嗎？
+：Operator
+：下一位要問的問題，Needham & Company 的 Charles Shi？
+：Charles Shi - Senior Analyst
+：我想問我的第一個問題更長遠一點。你的一位 IDM 客戶，好吧，我不想叫這個名字。但我相信，他們的 CEO 在過去 6 個月裡曾兩次拜訪過你。他們認為他們既可以從您那裡購買晶圓，又可以與您的技術競爭。他們希望在 2025 年及以後，他們將在代工業務中與您競爭。所以有人擔心你可能無法從這種有點複雜的關係中真正得到公平的交易。一個非常具體的問題是，我聽說你最終可能會基本上教這個競爭對手，從而實現他們的加速路線圖。但最終，他們會脫離你，與你競爭，尤其是在代工業務上。那麼，也許您能解決這個問題，並為投資者社區和公眾提供一些高層次的思考嗎？
+：Jeff Su - Director of IR
+：好的。查爾斯，讓我總結一下你的第一個問題。他的第一個問題是關於想要購買晶圓或外包給台積電的IDM客戶，但也表示他們想在代工行業競爭。所以查爾斯，我猜你的問題實際上是兩部分，台積電最終將如何教授這個 IDM 並啟用路線圖？我們將如何在代工方面競爭？
+：C. C. Wei - CEO
+：好吧，查爾斯，讓我先回答一下關於比賽的問題。作為一家領先的純晶圓代工廠，台積電在我們 35 年的歷史中從未缺席過競爭。我們知道如何競爭，好嗎？你問到如何保護台積電的知識產權或技術細節。事實上，我們擁有完善的流程和設計支持系統，以確保與所有客戶的高效合作，同時我們可以保護我們自己的 IP 以及客戶的 IP。我們預計不會有任何問題。實際上，對於未來，這個 IDM 可能會將他們的業務收回到他們自己的房子裡。我們已經將這一點納入我們的容量規劃考慮中。我回答你的問題了嗎，查爾斯？
+：Charles Shi - Senior Analyst
+：是的。 C.C.，所以也許真的只是為了跟進，第二個問題實際上是我第一個問題的跟進。我相信，在過去的 2 到 3 個月裡，有一些新聞報導稱台積電正在建設——可能會為這個特定的客戶建立一個專門的晶圓廠。我不確定針對特定客戶的專用晶圓廠或生產線是否真的是台積電的標準做法。但是，你能提供你的想法嗎？答案是否定的，即使這個客戶會給你帶來大量的銷量？
+：Jeff Su - Director of IR
+：好的。所以查爾斯的第二個問題是，有一些媒體報導說我們將為某些 IDM 建立一個專門的工廠或生產。這是我們的做法嗎？或者——即使這樣的專用容量背後有大量容量，答案是否仍然是否定的？
+：C. C. Wei - CEO
+：好吧，Charles，坦率地說，我們的產能規劃，正如我們多次說過的那樣，是基於長期的市場需求概況，以行業的 5G 和 HPC 大趨勢以及許多終端設備中的半導體含量豐富為基礎。我們不依賴任何單一客戶或產品。我回答你的問題了嗎？
+：Charles Shi - Senior Analyst
+：是的。
+：Jeff Su - Director of IR
+：好的。謝謝你，查爾斯。接線員，為了節省時間，我想我們會回答最後兩位參與者的問題。
+：Operator
+：好的。下一個要問的問題是來自 Cowen & Company 的 Krish Sankar。
+：Krish Sankar - MD & Senior Research Analyst
+：我有兩個。第一個是給溫德爾的。 3月季度，收入增長與出貨量增長差距較大。所以我有點好奇你對 20 多歲甚至超過 20 歲的全年收入增長指導，定價有多少？那裡的任何顏色都會有幫助。然後我對 C.C. 進行了跟進。
+：Jeff Su - Director of IR
+：好的。所以 Krish 的第一個問題是看我們的全年展望。他想知道我們今年的增長有多少，我猜有多少來自價格與數量？
+：Wendell Huang - VP & CFO
+：是的。 Krish、數量、價格和產品組合是推動我們增長的重要因素。但我們沒有具體的細分與您分享。
+：Krish Sankar - MD & Senior Research Analyst
+：好的。不用擔心。然後我對 C.C. 進行了跟進。顯然，投資者似乎擔心經濟衰退或經濟放緩。所以C.C.根據您的經驗，當您查看價格週期性放緩甚至宏觀調整時，台積電特別尋找的領先指標是什麼？是價格放緩嗎？是不是產能過剩了？是客戶違反長期協議嗎？你認為第一雙掉下來的鞋是什麼？那裡的任何顏色都會有幫助。
+：Jeff Su - Director of IR
+：好的。 Krish 的第二個問題是關於需求環境。他想問C.C.根據過去的衰退或放緩，我們需要關注哪些領先指標——作為一個信號？我們是否關注價格放緩？我們是否關注容量和資本支出的放緩？我們看的指標是什麼？
+：C. C. Wei - CEO
+：Krish，這是一個很難問的問題，因為我們始終與客戶密切合作。所以我們知道每個客戶的需求和他們的預測，我們計劃我們的能力，我們通過與他們合作來計劃我們的技術。因此，如果出現經濟低迷，我們肯定會從客戶那裡獲得第一手信息。我們將它們收集在一起，然後進行查看。我們決定我們的長期資本支出和產能。但是哪一個是領先指標，我對你的問題沒有具體的答案。
+：Jeff Su - Director of IR
+：好的。謝謝你。接線員，那麼我們將回答最後一位參與者的問題。謝謝你。
+：Operator
+：是的。最後一個提問的是來自 New Street Research 的 Rolf Bulk。
+：Rolf Bulk - Research Analyst
+：年初，您指導高級流程佔資本支出的 70% 到 80%，專業節點佔 20%。現在隨著這一年的到來，您對不同終端市場的需求有了更好的了解，如果您對高級與專業產能增加的想法發生了變化，您能否與我們分享一下？或者你最初給出的那些比率是否仍然成立？
+：Jeff Su - Director of IR
+：好的。 Rolf 的第一個問題是關於我們的資本支出和資本支出。他的問題是——在過去的 3 個月中，就我們的資本支出而言，事件和專業技術之間的分配或細分是否發生了變化？
+：Wendell Huang - VP & CFO
+：不，不，它沒有。
+：Rolf Bulk - Research Analyst
+：這很有幫助。現在作為後續行動，您提到您正在與供應商合作以確保和進一步多樣化您的材料供應。您能否談談您是否預計下半年您的材料投入成本會增加？在這種情況下，我們應該如何考慮 2022 年下半年的毛利率？
+：Jeff Su - Director of IR
+：好的。所以羅爾夫的第二個問題是關於材料成本的。我們已經說過我們正在使我們的材料供應商多樣化。那麼我們看到投入成本增加了嗎？那麼這對下半年的利潤率前景意味著什麼？
+：Wendell Huang - VP & CFO
+：是的。好吧，讓我回答這個問題。是的，我們確實面臨製造成本挑戰，部分原因是材料通脹成本上升。但我們始終與客戶密切合作，以提供我們的價值。我們將繼續確保定價策略反映價值創造。我們還將在我們的晶圓廠運營中努力工作，並與我們的供應商合作，以實現成本改進。因此，通過採取這樣的行動，我們相信我們可以實現 53% 及更高的長期毛利率，並在整個週期內獲得超過 25% 的 ROE。這將使我們能夠投資以支持客戶的增長並為我們的股東帶來可盈利的增長。
+：Jeff Su - Director of IR
+：好的。羅爾夫，這能回答嗎？
+：Rolf Bulk - Research Analyst
+：很有幫助。
+：Jeff Su - Director of IR
+：是的。謝謝你，羅爾夫。好的。所以謝謝大家。我們的問答環節到此結束。在我們結束今天的會議之前，請注意，會議的回放將在 1 小時後提供。成績單將在 24 小時後提供，兩者都將通過台積電的網站 www.tsmc.com 提供。
+：感謝您今天加入我們。我們希望每個人都繼續保持健康和安全。我們希望你能在下個季度再次加入我們。再見，祝你有美好的一天。
+：

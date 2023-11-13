@@ -1,0 +1,954 @@
+頁面標題: 	台積電 ADR (TSM) 2021Q1電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Director of IR
+：(foreign language) Good afternoon, everyone, and welcome to TSMC's First Quarter 2021 Earnings Conference Call.
+：To prevent the spread of COVID-19, TSMC is hosting our earnings conference call live via live audio webcast through the company's website at www.tsmc.com, where you can also download the earnings release materials.
+：The format for today's event will be as follows.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties, which could cause actual results to differ materially from those contained in the forward-looking statements.
+：And now I would like to turn the call over to TSMC's CFO, Mr. Wendell Huang, for the summary of operations and current quarter guidance.
+：Wendell Huang - VP & CFO
+：Thank you, Jeff.
+：First quarter revenue increased 0.2% sequentially in NT dollars or 1.9% in U.S. dollars.
+：Total operating expenses slightly increased by TWD 0.8 billion, mainly due to higher level of R&D activities for the N5 family.
+：Overall, our first quarter EPS was TWD 5.39, and ROE was 29.5%.
+：Now let's move on to revenue by technology.
+：Now moving on to revenue by platform.
+：Moving on to the balance sheet.
+：On the liability side, current liabilities increased by TWD 45 billion, mainly due to the increase of TWD 49 billion in short-term loans, an increase of TWD 50 billion in accrued liabilities and others, partially offset by the decrease of TWD 51 billion in accounts payable.
+：Long-term interest-bearing debt increased by TWD 23 billion, mainly as we raised TWD 21.1 billion of corporate bonds during the quarter.
+：On financial ratios, accounts receivable turnover days increased 1 day to 40 days.
+：Now let me make a few comments on cash flow and CapEx.
+：Short-term loans increased by TWD 52 billion, while bonds payable increased by TWD 18.5 billion due to the bond issuance.
+：Overall, our cash balance increased TWD 4.6 billion to TWD 665 billion at the end of the quarter.
+：In U.S. dollar terms, our first quarter capital expenditures totaled $8.8 billion.
+：I have finished my financial summary.
+：Based on the exchange rate assumption of USD 1 to TWD 28.4, gross margin is expected to be between 49.5% and 51.5%, operating margin between 38.5% and 40.5%.
+：This concludes my financial presentation.
+：Moving into second quarter 2021, we expect our revenue to be flattish as HPC-related demand will continue to grow, offset by smartphone seasonality.
+：On the inventory front, our fabless customers' overall inventory was healthy exiting fourth quarter of 2020.
+：Looking ahead to the second half of the year, we expect our capacity to remain tight throughout the year supported by strong demand for our industry-leading advanced and special technology.
+：For the full year of 2021, we now forecast the overall semiconductor market, excluding memory, to grow about 12% while foundry industry growth is forecast to be about 16%.
+：Next, let me talk about our capital budget for this year.
+：In order to meet the increasing demand for our advanced and specialty technologies in the next several years, we have decided to raise our full year 2021 CapEx to be around USD 30 billion.
+：Now let me turn the microphone over to C.C.
+：C. C. Wei - President & CEO
+：Thank you, Wendell.
+：First, let me talk about the capacity shortage and demand outlook.
+：In addition, the need to ensure supply security is creating short-term imbalance in the supply chain, driven by supply chain disruption due to COVID-19 and uncertainties brought about by geopolitical tensions.
+：Now let me talk about TSMC's investment plan and disciplines.
+：To address the structural increase in the long-term demand profile, we are working closely with our customers and investing to support their demand.
+：Increased capacity is expected to improve supply certainty for our customers and help strengthen confidence in global supply chains that rely on semiconductors.
+：Our capital investment decisions are based on 4 disciplines: technology leadership, flexible and responsive manufacturing, retaining customers' trust and earning the proper return.
+：By taking such actions, we believe we can continue to earn a proper return that enable us to invest to support our customers' growth and fulfill our mission as trusted foundry partner.
+：We reiterate our long-term revenue to be 10% to 15% CAGR from 2020 to 2025 in U.S. dollar terms.
+：Next, let me talk about the automotive supply update.
+：However, the automotive supply chain is long and complex with its own inventory management practices.
+：In January of this year, TSMC announced that capacity support for automotive customers is our top priority.
+：Now I will talk about Taiwan water supply update.
+：Finally, I will talk about the N5 and N3 status.
+：N4 will leverage the strong foundation of N5 to further extend our 5-nanometer family.
+：N3 will be another full node stride from our N5 and will use FinFET transistor structure to deliver the best technology maturity, performance and cost for our customers.
+：Risk production is scheduled in 2021.
+：This is concluding our key message.
+：Jeff Su - Director of IR
+：Thank you, C.C. This concludes our prepared statements.
+：Now let's begin the Q&A session.
+：Operator
+：The first one to ask question, Randy Abrams, Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：Randy, let me start with TSMC is everyone's foundry and support all our customers openly and fairly.
+：Now let me comment a little bit on the competition.
+：And if you ask other comment, how we support Intel, we support them as an important customer.
+：Jeff Su - Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：I'm curious for U.S. with the big land, just any plans to accelerate positioning with the potential eventually to do mega fab?
+：If you could give an update on Nanjing, if there's plans to expand from the current -- I think you're at 20,000.
+：And, if from a customer level, you're seeing shifts where more customers are starting to consider geographic location in the foundry consideration.
+：Jeff Su - Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：C. C. Wei - President & CEO
+：Randy, that's a lot of questions.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Sorry.
+：C. C. Wei - President & CEO
+：Let me try to answer.
+：But let me comment on the U.S. first.
+：You also asked about our status in Nanjing.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：C. C. Wei - President & CEO
+：The fab in Nanjing is progressing well.
+：And other question in Taiwan, why we...
+：Jeff Su - Director of IR
+：Also, 2 others.
+：C. C. Wei - President & CEO
+：We never rule out any possibility with other region.
+：However, I want to emphasize, Taiwan will continue to be the main focus for TSMC.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：Jeff Su - Director of IR
+：Right.
+：C. C. Wei - President & CEO
+：Well, our customer welcome we establish a new fab in Arizona state.
+：Jeff Su - Director of IR
+：Okay, Randy?
+：Operator
+：Next one on the line, Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：My first question, could we talk a little bit about the $100 billion capacity plan for the next 3 years?
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Gokul, this is Wendell.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Got it.
+：What is TSMC's stake in terms of when we are going to see a bit more normalization in some of the older capacity?
+：Jeff Su - Director of IR
+：Okay.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Yes.
+：C. C. Wei - President & CEO
+：Well, Gokul, let me answer the question carefully because of -- we cannot rule out the possibility of an inventory correction or overbooking, something like that.
+：As a result, actually we see the demand continue to be high.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Okay.
+：C. C. Wei - President & CEO
+：Yes.
+：Jeff Su - Director of IR
+：Yes.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Thank you.
+：Operator
+：Now we have Sebastian Hou from CLSA.
+：Sebastian Hou - Research Analyst
+：So first one is on the pricing strategy.
+：Jeff Su - Director of IR
+：Okay, Sebastian.
+：C. C. Wei - President & CEO
+：Sebastian, let me answer that.
+：But now as I said in my statement, the cost structure start to change, structural change, because of -- we have to invest on the leading-edge technology, which is more complex than ever.
+：So we refrain from opportunistic and short-term action, but we also had to sell our value.
+：Jeff Su - Director of IR
+：Okay.
+：Sebastian Hou - Research Analyst
+：Got it.
+：Jeff Su - Director of IR
+：Do you have a second question?
+：Sebastian Hou - Research Analyst
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：Well, Sebastian, let me say that in our long-term forecast, we continue to see the IDMs outsourcing continue to increase.
+：Jeff Su - Director of IR
+：Okay.
+：Sebastian Hou - Research Analyst
+：Yes.
+：Operator
+：Next one to ask question, Charlie Chan from Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：So first of all, can I ask about the change of the 2021 revenue guidance?
+：Jeff Su - Director of IR
+：All right.
+：And what was the last part of the question, Charlie?
+：Charlie Chan - Technology Analyst
+：Actually, that's it.
+：Jeff Su - Director of IR
+：So his question is what is driving the change in the growth guidance for this year.
+：Wendell Huang - VP & CFO
+：Okay.
+：Now this year, we expect -- in terms of platform, we expect that HPC and automotive platform growth will be higher than the corporate average, and the smartphone and IoT will be close to the corporate average.
+：Charlie Chan - Technology Analyst
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay.
+：Charlie Chan - Technology Analyst
+：Okay.
+：And also, linked to that, what does that mean to the long-term gross margin trend?
+：Wendell Huang - VP & CFO
+：Sure.
+：Jeff Su - Director of IR
+：Yes.
+：Wendell Huang - VP & CFO
+：Okay.
+：In terms of gross margins, I think as C.C. has already mentioned, we see some challenges from manufacturing costs due to the increasing complexity of leading nodes, the new investment in mature nodes and some rising material costs.
+：Jeff Su - Director of IR
+：Okay?
+：Charlie Chan - Technology Analyst
+：Okay.
+：Jeff Su - Director of IR
+：This is -- I think the last part of this question is that then out of the $100 billion and this higher capital intensity, how much is due to the cost versus the demand.
+：Charlie Chan - Technology Analyst
+：Yes.
+：Wendell Huang - VP & CFO
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask questions, Bruce Lu from Goldman Sachs.
+：Bruce Lu - Research Analyst
+：My question I'll just stick with the $100 billion CapEx.
+：Also, assuming TSMC mostly invests in advanced nodes, do you foresee the mature node capacity tightness continue and how and when this can be resolved?
+：Jeff Su - Director of IR
+：Okay.
+：And then his second -- well, maybe we'll go that first and then second question.
+：C. C. Wei - President & CEO
+：Okay.
+：Jeff Su - Director of IR
+：And then his second question is then looking at our CapEx, with the majority of our CapEx being on advanced nodes, on the mature nodes then, will the, I think, the supply-demand gap in mature nodes further widen?
+：C. C. Wei - President & CEO
+：We did see the gap that mature node capacity not enough to support all the products in the market.
+：Jeff Su - Director of IR
+：Okay.
+：Bruce Lu - Research Analyst
+：Okay.
+：Jeff Su - Director of IR
+：We have to limit to 2, sorry.
+：Operator
+：Next one to ask questions, Robert Sanders from Deutsche Bank.
+：Robert Sanders - Director
+：Yes.
+：My second question was how far are you actually booked out on capacity?
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay.
+：Now we cannot disclose the detail of our commercial terms with our customers.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：Well, I cannot comment on which node because almost all the nodes are in -- today in a high demand.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Now we have Brett Simpson from Arete Research.
+：Brett Simpson - Senior Analyst
+：Yes.
+：And I wanted to get your perspective.
+：Jeff Su - Director of IR
+：Okay.
+：And then a longer-term question, which is how do we view this business.
+：C. C. Wei - President & CEO
+：Let me answer the question.
+：Jeff Su - Director of IR
+：Okay, Brett?
+：Brett Simpson - Senior Analyst
+：Yes, I did.
+：Jeff Su - Director of IR
+：Yes.
+：Brett Simpson - Senior Analyst
+：Yes.
+：And then just looking at Q2, would you expect inventories to rise again in the June quarter?
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay, Brett.
+：Jeff Su - Director of IR
+：Okay.
+：Brett Simpson - Senior Analyst
+：Yes.
+：Jeff Su - Director of IR
+：Great.
+：Operator
+：Now please welcome Roland Shu from Citigroup.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：My first question is also for this $100 billion CapEx.
+：And also, I use your long-term capital intensity target.
+：So my question is, are there any challenges to you to recruit and train up enough amount of the talents to support such a fast growth for you going forward?
+：Jeff Su - Director of IR
+：Okay.
+：And then he's asking about if we look at the longer-term capital intensity, what does this kind of imply for 2024 and '25 CapEx and capital intensity?
+：And then another part is that with this pace of growth, how do we recruit the talent to support our operations?
+：Wendell Huang - VP & CFO
+：Roland, yes, $100 billion include this year's CapEx.
+：Jeff Su - Director of IR
+：And his second question is then how do we recruit talent to support our growth.
+：C. C. Wei - President & CEO
+：Roland, this is a very good question.
+：And internally, TSMC also have a very robust system.
+：So externally, we got the help from government.
+：Jeff Su - Director of IR
+：Okay.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Yes.
+：Jeff Su - Director of IR
+：That's 2 questions, Roland, okay.
+：Operator
+：Next one for question is Andrew Lu from Sinolink Securities.
+：Andrew Lu - Semiconductor Analyst
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Andrew, let me share with you, we don't disclose that kind of details.
+：Jeff Su - Director of IR
+：In the next 3 years.
+：Wendell Huang - VP & CFO
+：In the next 3 years.
+：Jeff Su - Director of IR
+：Okay.
+：Andrew Lu - Semiconductor Analyst
+：Yes.
+：Jeff Su - Director of IR
+：No.
+：Andrew Lu - Semiconductor Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：What is kind of pricing is strictly confidential between TSMC and TSMC's customer.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask question, Sunny Lin from UBS.
+：Sunny Lin - Director & Associate Analyst
+：So my first question is also on CapEx.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：Well, let me answer the question.
+：Sunny Lin - Director & Associate Analyst
+：Got it.
+：C. C. Wei - President & CEO
+：The answer is yes.
+：Sunny Lin - Director & Associate Analyst
+：Got it.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Sunny, that's too far to talk about that.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Right now, we have Laura Chen from KGI.
+：Laura Chen - Research Analyst
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：Well, let me answer that question.
+：But how we are going to do to test this, what is the checking point, actually let me say that we are working with our customer closely.
+：Laura Chen - Research Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Laura Chen - Research Analyst
+：Yes.
+：Jeff Su - Director of IR
+：And FD-SOI in other areas.
+：C. C. Wei - President & CEO
+：Well, let me answer the last one first.
+：Gallium nitride, all those kind of specialty, we continue to work with our customer, and for the future, high-frequency application or the high-voltage applications.
+：We also work on the RF technology.
+：Laura Chen - Research Analyst
+：So following that question, do we have space or any capacity to further expand those technology here in Taiwan?
+：Jeff Su - Director of IR
+：So Laura is asking then will space be a constraint or limitation for the specialty.
+：C. C. Wei - President & CEO
+：Good question.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next on the line is Rick Hsu from Daiwa Securities.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes.
+：So -- and also the exchange rate, also not getting worse, right?
+：So against the backdrop of these 3 positive factors, right, revenue increase, 5-nanometer increase and favorable exchange rate, why your gross margin guidance for the second quarter is below your first quarter.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask questions is Aaron Jeng from Nomura Securities.
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：This question was not asked before, so I wish to ask before end of the call.
+：Then let's ask in this way: compared with 3 months ago, are you now projecting a bigger market share gain potential over the next 3 years as pure foundry market and your widening technology leadership at the best now?
+：Jeff Su - Director of IR
+：Okay, Aaron.
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：Yes.
+：Jeff Su - Director of IR
+：Versus 3 months ago.
+：C. C. Wei - President & CEO
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask question, Mehdi Hosseini, SIG.
+：Mehdi Hosseini - Senior Analyst
+：Yes.
+：In that context, my question has to do with depreciation.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Mehdi Hosseini - Senior Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Mehdi, actually, if you think about this 10% to 15% 5-year CAGR, it's a pretty big range.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Now we have Randy Abrams from Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：Okay.
+：As for InFO and CoWoS, we continue to expand our customer portfolio.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：And then I wanted to ask a second question.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：We hope that SoIC going to be adopted by all those HPC applications customer.
+：Wendell Huang - VP & CFO
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：Jeff Su - Director of IR
+：Sorry, Randy.
+：Operator
+：Okay.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：My first question is how should we think about HPC in terms of the demand cadence for second and third wave?
+：So now that HPC seems to be one of the key drivers for growth, how do we think about second-, third-wave demand?
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - President & CEO
+：Let me make some comment.
+：So we expect to see HPC, not only in the first wave, but in additional waves of demand to support our leading node in the future, actually.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Do you have a second question?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Second question, just wanted to -- yes.
+：Do you feel that we -- right now, this seems more like an n-1 cadence because 5-nano started in Taiwan in 2020 already.
+：Jeff Su - Director of IR
+：Okay.
+：And also, we start with N5, I guess your question is what about the future plans for bringing additional technologies there and the cadence.
+：C. C. Wei - President & CEO
+：Okay.
+：Our customers welcome us to build capacity in the U.S., and our fab in Arizona will be available to support all our customers from around the world and just like other -- all the TSMC's fab, no matter where they are and no matter where they're located.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Yes.
+：Sebastian Hou - Research Analyst
+：Yes.
+：So wondering if you could share some color with us.
+：Furthermore, based on the CapEx you and your peers are investing in the capacity expansion lead time, when do you think the tightness can be eased or the whole shortage situation can be removed?
+：Jeff Su - Director of IR
+：Okay.
+：Sebastian Hou - Research Analyst
+：Yes.
+：C. C. Wei - President & CEO
+：All right.
+：However, building a fab from a green fab start and also to install the capacity, it won't be available until 2023.
+：Jeff Su - Director of IR
+：Okay.
+：Sebastian Hou - Research Analyst
+：Yes.
+：C. C. Wei - President & CEO
+：For our customers, we are working with them, let me say that.
+：Jeff Su - Director of IR
+：Okay.
+：So thank you for joining us today.
+：
+：Jeff Su - Director of IR
+：（外語）大家下午好，歡迎來到台積電2021年第一季度財報電話會議。
+：為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 通過實時音頻網絡直播主持我們的收益電話會議，您還可以在該網站下載收益發布材料。
+：今天的活動形式如下。
+：像往常一樣，我想提醒大家，今天的討論可能包含具有重大風險和不確定性的前瞻性陳述，這可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。
+：現在，我想將電話轉給台積電的首席財務官黃文德先生，以獲取運營摘要和當前季度指導。
+：Wendell Huang - VP & CFO
+：謝謝你，傑夫。
+：第一季度收入按新台幣計算環比增長 0.2%，按美元計算增長 1.9%。
+：總營業費用微增 8 億元新台幣，主要是由於 N5 家族的研發活動較高。
+：總體而言，我們第一季度每股收益為 5.39 新台幣，ROE 為 29.5%。
+：現在讓我們轉向技術收入。
+：現在轉向平台收入。
+：轉到資產負債表。
+：負債方面，流動負債增加450億新台幣，主要是短期貸款增加490億新台幣，應計負債增加500億新台幣及其他，部分被2019年減少510億新台幣所抵消。應付賬款。
+：長期有息債務增加了 230 億新台幣，主要是因為我們在本季度籌集了 211 億新台幣的公司債券。
+：財務比率方面，應收賬款周轉天數增加 1 天至 40 天。
+：現在讓我對現金流和資本支出發表一些評論。
+：短期貸款增加520億新台幣，應付債券因發行債券增加185億新台幣。
+：總體而言，我們的現金餘額在本季度末增加了 46 億新台幣至 6,650 億新台幣。
+：以美元計算，我們第一季度的資本支出總計 88 億美元。
+：我已經完成了我的財務摘要。
+：基於1美元兌28.4新台幣的匯率假設，毛利率預計在49.5%至51.5%之間，營業利潤率在38.5%至40.5%之間。
+：我的財務報告到此結束。
+：進入 2021 年第二季度，我們預計我們的收入將持平，因為與 HPC 相關的需求將繼續增長，被智能手機的季節性所抵消。
+：在庫存方面，截至 2020 年第四季度，我們的無晶圓廠客戶的整體庫存狀況良好。
+：展望下半年，我們預計在對我們行業領先的先進和特殊技術的強勁需求的支持下，我們的產能將在全年保持緊張。
+：對於 2021 年全年，我們現在預測整個半導體市場（不包括內存）將增長約 12%，而代工行業增長預計約為 16%。
+：接下來，讓我談談我們今年的資本預算。
+：為了滿足未來幾年對我們先進和專業技術不斷增長的需求，我們決定將 2021 年全年資本支出提高到 300 億美元左右。
+：現在讓我把麥克風交給 C.C.
+：C. C. Wei - President & CEO
+：謝謝你，溫德爾。
+：首先，讓我談談產能短缺和需求前景。
+：此外，由於 COVID-19 造成的供應鏈中斷和地緣政治緊張局勢帶來的不確定性，確保供應安全的需要正在造成供應鏈的短期失衡。
+：現在讓我談談台積電的投資計劃和紀律。
+：為了應對長期需求的結構性增長，我們正在與客戶密切合作並投資支持他們的需求。
+：增加產能有望提高我們客戶的供應確定性，並有助於增強對依賴半導體的全球供應鏈的信心。
+：我們的資本投資決策基於 4 個原則：技術領先、靈活且響應迅速的製造、保持客戶的信任並獲得適當的回報。
+：通過採取此類行動，我們相信我們可以繼續獲得適當的回報，使我們能夠投資以支持客戶的成長並履行我們作為值得信賴的代工合作夥伴的使命。
+：我們重申，以美元計算，2020 年至 2025 年的長期收入複合年增長率為 10% 至 15%。
+：接下來，我來說說汽車供應更新。
+：然而，汽車供應鏈又長又復雜，有自己的庫存管理實踐。
+：今年1月，台積電宣布對汽車客戶的產能支持是我們的首要任務。
+：現在我將談談台灣供水更新。
+：最後說一下N5和N3的狀態。
+：N4 將利用 N5 的強大基礎進一步擴展我們的 5 納米系列。
+：N3 將是我們 N5 的又一個完整節點，並將使用 FinFET 晶體管結構為我們的客戶提供最佳的技術成熟度、性能和成本。
+：風險生產計劃於 2021 年進行。
+：這是結束我們的關鍵信息。
+：Jeff Su - Director of IR
+：謝謝你，C.C.我們準備好的陳述到此結束。
+：現在讓我們開始問答環節。
+：Operator
+：第一個提出問題的人是瑞士信貸的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：Randy，讓我先說台積電是每個人的代工廠，並公開公平地支持我們所有的客戶。
+：現在讓我對比賽進行一點評論。
+：如果你問其他意見，我們如何支持英特爾，我們支持他們作為重要客戶。
+：Jeff Su - Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：我對擁有大片土地的美國感到好奇，是否有計劃加速定位並最終有可能建造大型晶圓廠？
+：如果你能提供關於南京的最新消息，如果有計劃從目前擴大——我認為你有 20,000 人。
+：而且，如果從客戶層面來看，您會看到更多客戶開始在代工考慮中考慮地理位置的轉變。
+：Jeff Su - Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：C. C. Wei - President & CEO
+：蘭迪，這是很多問題。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：對不起。
+：C. C. Wei - President & CEO
+：讓我試著回答。
+：但讓我先評論一下美國。
+：你還問了我們在南京的情況。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：C. C. Wei - President & CEO
+：南京工廠進展順利。
+：還有台灣的其他問題，為什麼我們...
+：Jeff Su - Director of IR
+：另外，還有2個人。
+：C. C. Wei - President & CEO
+：我們從不排除與其他地區的任何可能性。
+：不過，我想強調的是，台灣仍將是台積電的主要焦點。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：Jeff Su - Director of IR
+：正確的。
+：C. C. Wei - President & CEO
+：好吧，我們的客戶歡迎我們在亞利桑那州建立一個新工廠。
+：Jeff Su - Director of IR
+：好的，蘭迪？
+：Operator
+：下一位是摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：我的第一個問題，我們能否談談未來 3 年 1000 億美元的產能計劃？
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：Gokul，這是溫德爾。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：知道了。
+：台積電的利害關係是什麼時候我們會看到一些舊產能的正常化？
+：Jeff Su - Director of IR
+：好的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：是的。
+：C. C. Wei - President & CEO
+：好吧，Gokul，讓我仔細回答這個問題，因為我們不能排除庫存更正或超額預訂的可能性，諸如此類。
+：結果，實際上我們看到需求仍然很高。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：好的。
+：C. C. Wei - President & CEO
+：是的。
+：Jeff Su - Director of IR
+：是的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：謝謝你。
+：Operator
+：現在我們有來自 CLSA 的 Sebastian Hou。
+：Sebastian Hou - Research Analyst
+：所以第一個是定價策略。
+：Jeff Su - Director of IR
+：好的，塞巴斯蒂安。
+：C. C. Wei - President & CEO
+：塞巴斯蒂安，讓我回答這個問題。
+：但現在正如我在聲明中所說，成本結構開始發生變化，結構性變化，因為——我們必須投資於比以往任何時候都更加複雜的前沿技術。
+：所以我們避免機會主義和短期行動，但我們也不得不出售我們的價值。
+：Jeff Su - Director of IR
+：好的。
+：Sebastian Hou - Research Analyst
+：知道了。
+：Jeff Su - Director of IR
+：你有第二個問題嗎？
+：Sebastian Hou - Research Analyst
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：好吧，塞巴斯蒂安，讓我說，在我們的長期預測中，我們繼續看到 IDM 外包繼續增加。
+：Jeff Su - Director of IR
+：好的。
+：Sebastian Hou - Research Analyst
+：是的。
+：Operator
+：下一位要提問的是來自摩根士丹利的 Charlie Chan。
+：Charlie Chan - Technology Analyst
+：那麼首先，我可以問一下2021年收入指引的變化嗎？
+：Jeff Su - Director of IR
+：好的。
+：查理，問題的最後一部分是什麼？
+：Charlie Chan - Technology Analyst
+：其實，就是這樣。
+：Jeff Su - Director of IR
+：所以他的問題是是什麼推動了今年增長指導的變化。
+：Wendell Huang - VP & CFO
+：好的。
+：今年，我們預計——在平台方面，我們預計 HPC 和汽車平台的增長將高於企業平均水平，而智能手機和物聯網將接近企業平均水平。
+：Charlie Chan - Technology Analyst
+：好的。
+：Wendell Huang - VP & CFO
+：好的。
+：Charlie Chan - Technology Analyst
+：好的。
+：此外，與此相關的是，這對長期毛利率趨勢意味著什麼？
+：Wendell Huang - VP & CFO
+：當然。
+：Jeff Su - Director of IR
+：是的。
+：Wendell Huang - VP & CFO
+：好的。
+：就毛利率而言，我認為是 C.C.前面已經提到，由於領先節點的複雜性增加、成熟節點的新投資以及一些材料成本的上升，我們看到了製造成本的一些挑戰。
+：Jeff Su - Director of IR
+：好的？
+：Charlie Chan - Technology Analyst
+：好的。
+：Jeff Su - Director of IR
+：這是 - 我認為這個問題的最後一部分是，在 1000 億美元和更高的資本密集度中，有多少是由於成本與需求的關係。
+：Charlie Chan - Technology Analyst
+：是的。
+：Wendell Huang - VP & CFO
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位提問的是高盛的 Bruce Lu。
+：Bruce Lu - Research Analyst
+：我的問題是我會堅持 1000 億美元的資本支出。
+：另外，假設台積電主要投資於先進節點，您是否預見到成熟節點產能緊張的情況會繼續存在，以及如何以及何時可以解決？
+：Jeff Su - Director of IR
+：好的。
+：然後是他的第二個問題——好吧，也許我們會先回答這個問題，然後再回答第二個問題。
+：C. C. Wei - President & CEO
+：好的。
+：Jeff Su - Director of IR
+：然後他的第二個問題是看看我們的資本支出，我們的大部分資本支出都在高級節點上，在成熟節點上，我認為成熟節點的供需差距會進一步擴大嗎？
+：C. C. Wei - President & CEO
+：我們確實看到了成熟節點容量不足以支持市場上所有產品的差距。
+：Jeff Su - Director of IR
+：好的。
+：Bruce Lu - Research Analyst
+：好的。
+：Jeff Su - Director of IR
+：我們必須限制為 2，抱歉。
+：Operator
+：下一位提問的是德意志銀行的羅伯特·桑德斯。
+：Robert Sanders - Director
+：是的。
+：我的第二個問題是，您實際預訂了多少容量？
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的。
+：現在我們不能向客戶透露我們商業條款的細節。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：好吧，我無法評論哪個節點，因為幾乎所有節點都在 - 今天需求量很大。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：現在我們有來自 Arete Research 的 Brett Simpson。
+：Brett Simpson - Senior Analyst
+：是的。
+：我想了解你的觀點。
+：Jeff Su - Director of IR
+：好的。
+：然後是一個長期問題，即我們如何看待這項業務。
+：C. C. Wei - President & CEO
+：讓我回答這個問題。
+：Jeff Su - Director of IR
+：好吧，布雷特？
+：Brett Simpson - Senior Analyst
+：是的，我做到了。
+：Jeff Su - Director of IR
+：是的。
+：Brett Simpson - Senior Analyst
+：是的。
+：然後只看第二季度，您是否預計庫存會在 6 月季度再次上升？
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的，布雷特。
+：Jeff Su - Director of IR
+：好的。
+：Brett Simpson - Senior Analyst
+：是的。
+：Jeff Su - Director of IR
+：偉大的。
+：Operator
+：現在請您歡迎花旗集團的 Roland Shu。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：我的第一個問題也是關於這 1000 億美元的資本支出。
+：而且，我使用你的長期資本密集度目標。
+：所以我的問題是，在招募和培養足夠數量的人才以支持你們未來的快速增長方面，你們有什麼挑戰嗎？
+：Jeff Su - Director of IR
+：好的。
+：然後他問我們是否考慮長期資本密集度，這對 2024 年和 25 年的資本支出和資本密集度意味著什麼？
+：然後另一部分是，隨著這種增長速度，我們如何招募人才來支持我們的運營？
+：Wendell Huang - VP & CFO
+：羅蘭，是的，1000 億美元包括今年的資本支出。
+：Jeff Su - Director of IR
+：他的第二個問題是我們如何招募人才來支持我們的發展。
+：C. C. Wei - President & CEO
+：羅蘭，這是一個很好的問題。
+：而在內部，台積電也有一個非常強大的系統。
+：所以在外部，我們得到了政府的幫助。
+：Jeff Su - Director of IR
+：好的。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：是的。
+：Jeff Su - Director of IR
+：這是兩個問題，羅蘭，好的。
+：Operator
+：下一個問題是國金證券的Andrew Lu。
+：Andrew Lu - Semiconductor Analyst
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：安德魯，讓我和你分享一下，我們不會透露那種細節。
+：Jeff Su - Director of IR
+：在接下來的3年。
+：Wendell Huang - VP & CFO
+：在接下來的3年。
+：Jeff Su - Director of IR
+：好的。
+：Andrew Lu - Semiconductor Analyst
+：是的。
+：Jeff Su - Director of IR
+：不。
+：Andrew Lu - Semiconductor Analyst
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：什麼樣的定價在台積電和台積電的客戶之間是嚴格保密的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位要提問的是瑞銀的 Sunny Lin。
+：Sunny Lin - Director & Associate Analyst
+：所以我的第一個問題也是關於資本支出的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：好吧，讓我來回答這個問題。
+：Sunny Lin - Director & Associate Analyst
+：知道了。
+：C. C. Wei - President & CEO
+：答案是肯定的。
+：Sunny Lin - Director & Associate Analyst
+：知道了。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：桑尼，談這個太遠了。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：現在，我們有來自 KGI 的 Laura Chen。
+：Laura Chen - Research Analyst
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：好吧，讓我來回答這個問題。
+：但是我們將如何測試這個，檢查點是什麼，實際上讓我說我們正在與我們的客戶密切合作。
+：Laura Chen - Research Analyst
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Laura Chen - Research Analyst
+：是的。
+：Jeff Su - Director of IR
+：以及其他領域的FD-SOI。
+：C. C. Wei - President & CEO
+：好吧，讓我先回答最後一個。
+：氮化鎵，所有這些專業，我們繼續與我們的客戶合作，並為未來的高頻應用或高壓應用。
+：我們還致力於射頻技術。
+：Laura Chen - Research Analyst
+：那麼在這個問題之後，我們是否有空間或能力在台灣進一步擴展這些技術？
+：Jeff Su - Director of IR
+：所以勞拉在問，那麼空間是否會成為該專業的約束或限制。
+：C. C. Wei - President & CEO
+：好問題。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：接下來是大和證券的 Rick Hsu。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的。
+：所以——還有匯率，也不會變得更糟，對吧？
+：所以在這三個積極因素的背景下，對，收入增長，5納米增長和有利的匯率，為什麼你第二季度的毛利率指導低於你的第一季度。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位提問的是野村證券的 Aaron Jeng。
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：這個問題以前沒有問過，所以我想在通話結束前問一下。
+：那麼讓我們這樣問：與 3 個月前相比，您現在是否預計未來 3 年作為純代工市場更大的市場份額增長潛力以及您目前正在擴大的技術領先地位？
+：Jeff Su - Director of IR
+：好的，亞倫。
+：Aaron Jeng - Lead Sector Analyst for Greater China Semiconductor Research & Head of Taiwan Equity Research
+：是的。
+：Jeff Su - Director of IR
+：與 3 個月前相比。
+：C. C. Wei - President & CEO
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一個要提問的人是 SIG 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：是的。
+：在這種情況下，我的問題與折舊有關。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Mehdi Hosseini - Senior Analyst
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：Mehdi，實際上，如果你想想這 10% 到 15% 的 5 年復合年增長率，這是一個相當大的範圍。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：現在我們有來自瑞士信貸的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：好的。
+：至於 InFO 和 CoWoS，我們將繼續擴大我們的客戶組合。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：然後我想問第二個問題。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：我們希望 SoIC 能夠被所有 HPC 應用客戶採用。
+：Wendell Huang - VP & CFO
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：Jeff Su - Director of IR
+：對不起，蘭迪。
+：Operator
+：好的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：我的第一個問題是，從第二波和第三波的需求節奏來看，我們應該如何看待 HPC？
+：那麼既然 HPC 似乎是增長的關鍵驅動力之一，那麼我們如何看待第二、第三波需求呢？
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - President & CEO
+：讓我發表一些評論。
+：因此，我們希望看到 HPC 不僅在第一波浪潮中出現，而且實際上在未來支持我們領先節點的額外需求浪潮中。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：好的。
+：Jeff Su - Director of IR
+：你有第二個問題嗎？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：第二個問題，只是想——是的。
+：您是否覺得我們 - 現在，這似乎更像是一個 n-1 的節奏，因為 5-nano 已經在 2020 年在台灣開始了。
+：Jeff Su - Director of IR
+：好的。
+：而且，我們從 N5 開始，我想你的問題是未來將其他技術引入那裡的計劃和節奏如何。
+：C. C. Wei - President & CEO
+：好的。
+：我們的客戶歡迎我們在美國建立產能，我們在亞利桑那州的晶圓廠將可以支持我們來自世界各地的所有客戶，就像其他所有台積電的晶圓廠一樣，無論他們在哪裡，也無論他們在哪裡。重新定位。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：是的。
+：Sebastian Hou - Research Analyst
+：是的。
+：所以想知道你是否可以與我們分享一些顏色。
+：此外，基於您和您的同行在產能擴張提前期上投入的資本支出，您認為什麼時候可以緩解緊張，或者整個短缺情況可以消除？
+：Jeff Su - Director of IR
+：好的。
+：Sebastian Hou - Research Analyst
+：是的。
+：C. C. Wei - President & CEO
+：好的。
+：然而，從綠色工廠開始建造工廠並安裝產能，要到 2023 年才能投入使用。
+：Jeff Su - Director of IR
+：好的。
+：Sebastian Hou - Research Analyst
+：是的。
+：C. C. Wei - President & CEO
+：對於我們的客戶，我們正在與他們合作，讓我這麼說。
+：Jeff Su - Director of IR
+：好的。
+：所以，感謝您今天加入我們。
+：

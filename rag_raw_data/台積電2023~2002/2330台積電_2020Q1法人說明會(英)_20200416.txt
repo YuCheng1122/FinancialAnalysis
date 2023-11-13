@@ -1,0 +1,774 @@
+頁面標題: 	台積電 ADR (TSM) 2020Q1電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Deputy Director of IR
+：(foreign language) Ladies and gentlemen, welcome to TSMC's First Quarter 2020 Earnings Conference Call.
+：This is Jeff Su, TSMC's Director of Investor Relations and your host for today.
+：To prevent the spread of COVID-19, TSMC is hosting our earnings conference call via live audio webcast through the company's website at www.tsmc.com, where you can also download the earnings release materials.
+：The format for today's event will be as follows.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties which could cause actual results to differ materially from those contained in the forward-looking statements.
+：And now I would like to turn the call over to TSMC's Chairman, Dr. Mark Liu, for his opening remarks.
+：Mark Liu - Chairman of the Board
+：Good afternoon, everyone.
+：Before we start our financial report, I want to take a moment to thank each of you for joining us online today.
+：So now let me turn the microphone over to Wendell for the summary of operations and current quarterly guidance.
+：Wendell Huang - VP & CFO
+：Thank you, Mark.
+：My presentation will start with the financial highlights for the first quarter, followed by the guidance for the current quarter.
+：First quarter revenue in NT decreased 2.1% sequentially, which is less than seasonality, due to the increase in HPC-related demand and the continued ramp of 5G smartphones.
+：Overall, our first quarter EPS was TWD 4.51, and ROE was 28.4%.
+：Now let's move on to the revenue by technology.
+：Now move on to the revenue contribution by platform.
+：Moving on to balance sheet.
+：Now let me make a few comments on cash flow and CapEx.
+：In U.S. dollar terms, our first quarter capital expenditures reached USD 6.4 billion.
+：I have finished my financial summary.
+：Now I will hand over the call to C.C. for his key message.
+：C. C. Wei - Vice Chairman & CEO
+：Thank you, Wendell.
+：Let me start with COVID-19 preventive measurement at TSMC.
+：On March 18, we found one employee who tested positive for COVID-19 and immediately began receiving appropriate care.
+：Now I will talk about our near-term demand outlook.
+：Looking ahead to the second half of this year.
+：Now let me talk about the progress and development of 5G and HPC.
+：We reaffirm our goal to grow at the high end of our long-term growth projection of 5% to 10% CAGR in U.S. dollar terms.
+：Now let me talk about the ramp-up of N7, N7+ and the status of N6.
+：In its third year of ramp, N7 continued to see very strong demand across a wide spectrum of products for mobile, HPC, IoT and automotive applications.
+：N6 has already entered risk production and is on track for volume production before the end of this year.
+：Now let me talk about our N5 status.
+：Finally, I will talk about our N3 status.
+：Now let me turn the microphone over to our CFO.
+：Wendell Huang - VP & CFO
+：Thank you, C.C.
+：Let me start by making some comments on our second quarter and second half profitability outlook.
+：Now let me talk about our capital budget for this year.
+：Now I will make some comments on our capital management and shareholder returns.
+：The objectives of TSMC's capital management are to fund the capital -- the company's growth organically, generate good profitability, preserve financial flexibility and distribute a sustainable cash dividend to shareholders.
+：That concludes my message.
+：Jeff Su - Deputy Director of IR
+：Thank you.
+：(Operator Instructions) Should you wish to raise your question in Chinese, I will translate into English before our management answers your question.
+：Now let's begin the Q&A session.
+：Operator
+：The first question we have is from the line of Randy Abrams from Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：First question is just 2 parts, wanted to go into the change in forecasts versus January, if you could give an update on the change in expectation across our growth platforms.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes, that's correct.
+：C. C. Wei - Vice Chairman & CEO
+：All right.
+：Wendell Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes, that's correct.
+：Mark Liu - Chairman of the Board
+：Okay, let me answer the -- your question as much as I can.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes.
+：Jeff Su - Deputy Director of IR
+：So you -- okay.
+：Wendell Huang - VP & CFO
+：Right.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next question is from the line of Gokul Hariharan from JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：So could we go through a little bit in terms of how we think about forecasting growth?
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：That's right, yes.
+：C. C. Wei - Vice Chairman & CEO
+：Well, the semiconductor excluding memory, as I said, that the end market in the consumer electronics will decline.
+：Jeff Su - Deputy Director of IR
+：He's asking sort of then do we expect a meaningful inventory correction going into the second half.
+：C. C. Wei - Vice Chairman & CEO
+：We cannot forecast so accurately, but...
+：Wendell Huang - VP & CFO
+：Let me add something, some color.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Yes, that addresses my first question.
+：C. C. Wei - Vice Chairman & CEO
+：To be sure: We don't expect any change as compared with in January, our forecast.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：We have the next question from the line of Roland Shu from Citi.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：First, I congratulate for a very good first quarter result.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：No, we did not see any disruption from the material supply or any supply chains activity that have been in disruption mode, although I did say that -- because of shelter in home, that some of the tool delivery has been delayed from 2 weeks to about 1 month.
+：Jeff Su - Deputy Director of IR
+：Do you have -- yes.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：Understood, but how about from the equipment start-up point of view?
+：C. C. Wei - Vice Chairman & CEO
+：Well, that has been planned from the outbreak of COVID-19.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：Okay.
+：Wendell Huang - VP & CFO
+：Roland, first of all, the -- we expect our operating cash flow to continue to be sufficient to finance our capital expenditure.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：Understood.
+：Jeff Su - Deputy Director of IR
+：Okay, Roland.
+：Wendell Huang - VP & CFO
+：No.
+：Jeff Su - Deputy Director of IR
+：Yes.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：Well, the quarterly cash dividend will be subject to change.
+：Wendell Huang - VP & CFO
+：No.
+：Jeff Su - Deputy Director of IR
+：Right.
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Yes, you are correct.
+：Jeff Su - Deputy Director of IR
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：Next question is from Bill Lu from UBS.
+：Bill Lu - MD and Asia Semiconductors Analyst
+：Yes.
+：C. C. Wei - Vice Chairman & CEO
+：All right.
+：Jeff Su - Deputy Director of IR
+：Sure.
+：C. C. Wei - Vice Chairman & CEO
+：Well, Bill, let me answer the first part of -- first.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Bill Lu - MD and Asia Semiconductors Analyst
+：Yes.
+：C. C. Wei - Vice Chairman & CEO
+：I don't think that because of COVID-19 we change our decision-making process where we reduce our efficiency.
+：Mark Liu - Chairman of the Board
+：Well, we do the long-term planning always to the interest of TSMC.
+：Jeff Su - Deputy Director of IR
+：Does that answer your questions, Bill?
+：Bill Lu - MD and Asia Semiconductors Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：All right.
+：Operator
+：The next question is from the line of Bruce Lu from Goldman Sachs.
+：Bruce Lu - Research Analyst
+：Let me just ask about the 5G smartphone.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：All right.
+：Jeff Su - Deputy Director of IR
+：And then Bruce wants to know, do we have any detail on between high, mid, low end or by geography...
+：C. C. Wei - Vice Chairman & CEO
+：That's too much of the details.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Bruce Lu - Research Analyst
+：I'll try to follow up this because, for the first quarter, we definitely see that, expensive or higher-priced smartphones, the sell-through is much weaker than the mid-end and low-end one.
+：C. C. Wei - Vice Chairman & CEO
+：Well, there is a section named, called 5G, right?
+：Bruce Lu - Research Analyst
+：I see.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Bruce Lu - Research Analyst
+：For the big time lag.
+：C. C. Wei - Vice Chairman & CEO
+：First, you are talking about TSMC's observation from the end market to TSMC's business.
+：Bruce Lu - Research Analyst
+：So do you expect orders cut in the second half with more of the legacy node instead of our leading node that's why TSMC can be better than competitors?
+：C. C. Wei - Vice Chairman & CEO
+：I would like to say yes, but let's wait and see.
+：Operator
+：The next question is from the line of Sebastian Hou from CLSA.
+：Sebastian Hou - Research Analyst
+：First one, I'd like to follow on the CapEx.
+：Jeff Su - Deputy Director of IR
+：Okay, Sebastian.
+：Sebastian Hou - Research Analyst
+：Exactly.
+：Wendell Huang - VP & CFO
+：Sebastian, as we mentioned earlier, that we are looking at this megatrend, multiple year of megatrends of 5G-related and HPC applications.
+：Jeff Su - Deputy Director of IR
+：I think that's quite clear.
+：Sebastian Hou - Research Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：For the whole year?
+：Sebastian Hou - Research Analyst
+：Yes, for this year.
+：Wendell Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Sebastian Hou - Research Analyst
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：You have a very good calculation, and you are right.
+：Operator
+：The next question is from Charlie Chan from Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：So I have 2 questions.
+：Jeff Su - Deputy Director of IR
+：Charlie, we cannot hear you clearly.
+：Charlie Chan - Technology Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Charlie, we're not giving out the guidance for the third quarter yet, and it's still early, especially under this uncertain environment.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Charlie Chan - Technology Analyst
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：And then number two, for 3-nanometer, what is our customer -- number of customers and the demand profile as compared to 5-.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：Now the first one, we are talking about the impact of COVID-19 and we are giving our forecast based on the COVID-19 will be stabilized, the impact or the spread over will be stabilizing in June.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next question is from Mehdi Hosseini from SIG.
+：Mehdi Hosseini - Senior Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：You want to know what if COVID-19 worsens, what measures can we further take to better manage -- or can we do things to better manage our utilization rate to better support or help our gross margin.
+：Wendell Huang - VP & CFO
+：Okay.
+：Jeff Su - Deputy Director of IR
+：Do you have a second question, Mehdi?
+：Mehdi Hosseini - Senior Analyst
+：Yes, yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：When we prebuild, we are pretty sure that the customers will take it.
+：Jeff Su - Deputy Director of IR
+：Does that answer your question?
+：Mehdi Hosseini - Senior Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：The next question is from Brett Simpson from Arete Research.
+：Brett Simpson - Senior Analyst
+：I just had a question on your second half implied outlook.
+：So just looking at all this, maybe fabless customers are not building inventory per se, but it's clear that the end customer, the OEMs, seem to be significantly stockpiling and they're not cutting orders yet.
+：Jeff Su - Deputy Director of IR
+：Okay, Brett.
+：Wendell Huang - VP & CFO
+：Right.
+：Jeff Su - Deputy Director of IR
+：Does that answer your question, Brett?
+：Brett Simpson - Senior Analyst
+：Well, just to understand better how you're thinking about this because we haven't seen an inventory buildup like this at the OEM level for some years, and I just wanted to understand how big you think this is at the moment at the end customer?
+：Wendell Huang - VP & CFO
+：We -- this is a very uncertain time.
+：Operator
+：The next question is from Frank Lee from HSBC.
+：Frank Lee - Head of Technology Research for Asia
+：So I had 2 questions.
+：C. C. Wei - Vice Chairman & CEO
+：That including Samsung is apple-to-apples comparison.
+：Frank Lee - Head of Technology Research for Asia
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：We saw the demand from tablets has been increasing.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Operator
+：Next is from KekYee Teoh.
+：KekYee Teoh
+：Just like to understand a bit more about your virus assumptions there.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：We give you a whole year's assumption, but I cannot be more specific.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：KekYee Teoh
+：The foundry content increase impact is mainly throughout the year or more towards the second half?
+：Jeff Su - Deputy Director of IR
+：He's asking the silicon content increase for 5G.
+：C. C. Wei - Vice Chairman & CEO
+：It's in the 5G for that I can say.
+：Jeff Su - Deputy Director of IR
+：Yes.
+：Okay.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：So first of all, could you talk -- I mean, just maybe stepping away from COVID-19, hopefully, it end soon.
+：And a related question is, I think Mark has answered in the past about potential M&A opportunities.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：And the second part of your question refers to our potential M&A.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me answer the IDM outsourcing question first.
+：Mark Liu - Chairman of the Board
+：Yes.
+：But overseas fab acquisition is unlikely to be a leading fab because our leading fab is a technology with very sophisticated complexity.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：That's very helpful.
+：Operator
+：Next is from Charlie Chan from Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：So these are some questions that I want to get whether management has few thoughts.
+：I also want to get clarification because the recent research obtained, China fab like SMIC is gaining share and I can see that makes some sense because China is pursuing localization.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：And then, secondly, you're asking about China that SMIC is gaining market share.
+：Mark Liu - Chairman of the Board
+：Okay.
+：And secondly, of course, as I planning -- said earlier, this fab has to be an engineering service body.
+：C. C. Wei - Vice Chairman & CEO
+：All right, Jeff, would you repeat the second question?
+：Jeff Su - Deputy Director of IR
+：Sure.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：And specifically, for China's foundry, we're also very competitive because of a lot of China customers have been working with TSMC.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Sebastian Hou - Research Analyst
+：So I have 2 follow-up.
+：C. C. Wei - Vice Chairman & CEO
+：That's right.
+：Sebastian Hou - Research Analyst
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, I'm not willing to release the actual number.
+：Sebastian Hou - Research Analyst
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Yes, certainly, we expect that.
+：Sebastian Hou - Research Analyst
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Oh, on the capacity-wise, we'll say no comment right now.
+：Sebastian Hou - Research Analyst
+：I'm going to say it's mostly 3 years out?
+：Jeff Su - Deputy Director of IR
+：We don't comment on the capacity by nodes, Sebastian.
+：Sebastian Hou - Research Analyst
+：Yes.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：Mark Liu - Chairman of the Board
+：Well, yes, there's no official rules yet announced.
+：Jeff Su - Deputy Director of IR
+：Okay.
+：So thank you for joining us today.
+：C. C. Wei - Vice Chairman & CEO
+：Good bye.
+：
+：Jeff Su - Deputy Director of IR
+：（外語）女士們，先生們，歡迎來到台積電2020年第一季度財報電話會議。
+：我是台積電投資者關係總監 Jeff Su，也是今天的主持人。
+：為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 以現場音頻網絡直播的方式主持我們的收益電話會議，您還可以在該網站下載收益發布材料。
+：今天活動的形式如下。
+：像往常一樣，我想提醒大家，今天的討論可能包含前瞻性陳述，這些陳述存在重大風險和不確定性，可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。
+：現在，我想請台積電董事長劉馬克博士發表開場白。
+：Mark Liu - Chairman of the Board
+：大家下午好。
+：在我們開始我們的財務報告之前，我想花點時間感謝你們今天在線加入我們。
+：所以現在讓我把麥克風交給溫德爾，聽取運營總結和當前季度指導。
+：Wendell Huang - VP & CFO
+：謝謝你，馬克。
+：我的演講將從第一季度的財務亮點開始，然後是本季度的指導。
+：由於與 HPC 相關的需求增加以及 5G 智能手機的持續增長，北領地第一季度收入環比下降 2.1%，低於季節性。
+：總體而言，我們第一季度的每股收益為新台幣 4.51 元，淨資產收益率為 28.4%。
+：現在讓我們繼續討論技術收入。
+：現在轉到平台的收入貢獻。
+：轉到資產負債表。
+：現在讓我對現金流和資本支出發表一些評論。
+：按美元計算，我們第一季度的資本支出達到 64 億美元。
+：我已經完成了我的財務摘要。
+：現在我將把電話交給C.C.為他的關鍵信息。
+：C. C. Wei - Vice Chairman & CEO
+：謝謝你，溫德爾。
+：讓我從台積電的 COVID-19 預防措施開始。
+：3 月 18 日，我們發現一名員工的 COVID-19 檢測呈陽性，並立即開始接受適當的護理。
+：現在我將談談我們的近期需求前景。
+：展望今年下半年。
+：下面我來說說5G和HPC的進展和發展。
+：我們重申我們的目標是在我們以美元計算的 5% 至 10% 複合年增長率的長期增長預測的高端增長。
+：下面說一下N7、N7+的爬坡和N6的現狀。
+：在第三年的增長中，N7 繼續看到對移動、高性能計算、物聯網和汽車應用等廣泛產品的強勁需求。
+：N6已經進入風險生產階段，有望在今年年底前實現量產。
+：現在讓我談談我們的N5狀態。
+：最後說一下我們的N3狀態。
+：現在讓我把麥克風交給我們的首席財務官。
+：Wendell Huang - VP & CFO
+：謝謝你，C.C.
+：首先讓我對我們第二季度和下半年的盈利前景發表一些評論。
+：現在讓我談談我們今年的資本預算。
+：現在我將就我們的資本管理和股東回報發表一些評論。
+：台積電資本管理的目標是為資本提供資金——公司的有機增長，產生良好的盈利能力，保持財務靈活性，並向股東分配可持續的現金股息。
+：我的信息到此結束。
+：Jeff Su - Deputy Director of IR
+：謝謝你。
+：（操作員說明）如果您想用中文提出問題，我會在我們的管理人員回答您的問題之前將其翻譯成英文。
+：現在讓我們開始問答環節。
+：Operator
+：我們的第一個問題來自 Crédit Suisse 的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：第一個問題只有 2 個部分，想了解與 1 月份相比的預測變化，是否可以提供有關我們增長平台的預期變化的最新信息。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：對，那是正確的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Wendell Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：對，那是正確的。
+：Mark Liu - Chairman of the Board
+：好的，讓我盡可能多地回答你的問題。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的。
+：Jeff Su - Deputy Director of IR
+：所以你——好吧。
+：Wendell Huang - VP & CFO
+：正確的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個問題來自摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：那麼，我們能否稍微談談我們如何看待預測增長？
+：Jeff Su - Deputy Director of IR
+：好的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：沒錯，是的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，正如我所說，除了內存之外的半導體，消費電子產品的終端市場將會下降。
+：Jeff Su - Deputy Director of IR
+：他問的是我們是否預計下半年會有有意義的庫存調整。
+：C. C. Wei - Vice Chairman & CEO
+：我們無法預測得如此準確，但...
+：Wendell Huang - VP & CFO
+：讓我添加一些東西，一些顏色。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：是的，這解決了我的第一個問題。
+：C. C. Wei - Vice Chairman & CEO
+：可以肯定的是：與 1 月份的預測相比，我們預計不會有任何變化。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：我們有來自花旗的 Roland Shu 的下一個問題。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：首先，我祝賀第一季度取得了非常好的結果。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：不，我們沒有看到任何材料供應中斷或任何處於中斷模式的供應鏈活動，儘管我確實說過——因為在家裡避難，一些工具的交付已經從 2 週推遲到大約1個月。
+：Jeff Su - Deputy Director of IR
+：你有——是的。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：明白了，但是從設備啟動的角度來看呢？
+：C. C. Wei - Vice Chairman & CEO
+：好吧，這是從 COVID-19 爆發開始就計劃好的。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：好的。
+：Wendell Huang - VP & CFO
+：羅蘭，首先，我們預計我們的經營現金流將繼續足以為我們的資本支出提供資金。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：明白了。
+：Jeff Su - Deputy Director of IR
+：好的，羅蘭。
+：Wendell Huang - VP & CFO
+：不。
+：Jeff Su - Deputy Director of IR
+：是的。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：那麼，季度現金股息可能會發生變化。
+：Wendell Huang - VP & CFO
+：不。
+：Jeff Su - Deputy Director of IR
+：正確的。
+：Roland Shu - Director and Head of Regional Semiconductor Research
+：好的。
+：Jeff Su - Deputy Director of IR
+：是的，你是對的。
+：Jeff Su - Deputy Director of IR
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個問題來自瑞銀的 Bill Lu。
+：Bill Lu - MD and Asia Semiconductors Analyst
+：是的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jeff Su - Deputy Director of IR
+：當然。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，比爾，讓我先回答第一部分。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Bill Lu - MD and Asia Semiconductors Analyst
+：是的。
+：C. C. Wei - Vice Chairman & CEO
+：我不認為因為 COVID-19，我們改變了我們降低效率的決策過程。
+：Mark Liu - Chairman of the Board
+：那麼，我們做長期規劃總是為了台積電的利益。
+：Jeff Su - Deputy Director of IR
+：這能回答你的問題嗎，比爾？
+：Bill Lu - MD and Asia Semiconductors Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個問題來自高盛的 Bruce Lu。
+：Bruce Lu - Research Analyst
+：我只想問一下 5G 智能手機。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jeff Su - Deputy Director of IR
+：然後 Bruce 想知道，我們是否有關於高端、中端、低端或地理位置的任何詳細信息……
+：C. C. Wei - Vice Chairman & CEO
+：細節太多了。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Bruce Lu - Research Analyst
+：我將嘗試跟進這一點，因為在第一季度，我們肯定會看到，昂貴或價格更高的智能手機的銷售率遠低於中端和低端智能手機。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，有一個名為5G的部分，對嗎？
+：Bruce Lu - Research Analyst
+：我懂了。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Bruce Lu - Research Analyst
+：對於大的時差。
+：C. C. Wei - Vice Chairman & CEO
+：首先，你說的是台積電從終端市場到台積電業務的觀察。
+：Bruce Lu - Research Analyst
+：那麼，您是否預計下半年訂單會減少，更多的是傳統節點而不是我們的領先節點，這就是台積電比競爭對手更好的原因？
+：C. C. Wei - Vice Chairman & CEO
+：我想說是的，但讓我們拭目以待。
+：Operator
+：下一個問題來自 CLSA 的 Sebastian Hou。
+：Sebastian Hou - Research Analyst
+：第一個，我想關注資本支出。
+：Jeff Su - Deputy Director of IR
+：好的，塞巴斯蒂安。
+：Sebastian Hou - Research Analyst
+：確切地。
+：Wendell Huang - VP & CFO
+：塞巴斯蒂安，正如我們之前提到的，我們正在關注這個大趨勢，即 5G 相關和 HPC 應用的多年大趨勢。
+：Jeff Su - Deputy Director of IR
+：我認為這很清楚。
+：Sebastian Hou - Research Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：全年？
+：Sebastian Hou - Research Analyst
+：是的，今年。
+：Wendell Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Sebastian Hou - Research Analyst
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：你的計算很好，你是對的。
+：Operator
+：下一個問題來自摩根士丹利的陳查理。
+：Charlie Chan - Technology Analyst
+：所以我有兩個問題。
+：Jeff Su - Deputy Director of IR
+：查理，我們聽不清楚。
+：Charlie Chan - Technology Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：查理，我們還沒有給出第三季度的指導，現在還早，尤其是在這種不確定的環境下。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Charlie Chan - Technology Analyst
+：好的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：然後是第二，對於 3 納米，我們的客戶是什麼——與 5 相比，客戶數量和需求情況。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：現在是第一個，我們正在談論 COVID-19 的影響，我們基於 COVID-19 的預測將穩定下來，影響或擴散將在 6 月穩定下來。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個問題來自 SIG 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：您想知道如果 COVID-19 惡化，我們可以進一步採取哪些措施來更好地管理——或者我們可以做些什麼來更好地管理我們的利用率，以更好地支持或幫助我們的毛利率。
+：Wendell Huang - VP & CFO
+：好的。
+：Jeff Su - Deputy Director of IR
+：你還有第二個問題嗎，邁赫迪？
+：Mehdi Hosseini - Senior Analyst
+：是的是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：當我們預構建時，我們非常確定客戶會接受它。
+：Jeff Su - Deputy Director of IR
+：這是否回答你的問題？
+：Mehdi Hosseini - Senior Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：下一個問題來自 Arete Research 的 Brett Simpson。
+：Brett Simpson - Senior Analyst
+：我剛剛有一個關於你下半年隱含前景的問題。
+：所以看看這一切，也許無晶圓廠客戶本身並沒有增加庫存，但很明顯，最終客戶，即 OEM，似乎正在大量囤貨，而且他們還沒有削減訂單。
+：Jeff Su - Deputy Director of IR
+：好的，布雷特。
+：Wendell Huang - VP & CFO
+：正確的。
+：Jeff Su - Deputy Director of IR
+：這是否回答了你的問題，布雷特？
+：Brett Simpson - Senior Analyst
+：好吧，只是為了更好地了解您是如何考慮這個問題的，因為我們已經有幾年沒有在 OEM 級別看到過這樣的庫存積累了，我只是想了解您認為這到底有多大顧客？
+：Wendell Huang - VP & CFO
+：我們——這是一個非常不確定的時期。
+：Operator
+：下一個問題來自匯豐銀行的 Frank Lee。
+：Frank Lee - Head of Technology Research for Asia
+：所以我有兩個問題。
+：C. C. Wei - Vice Chairman & CEO
+：包括三星在內就是同類比較。
+：Frank Lee - Head of Technology Research for Asia
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：我們看到平板電腦的需求一直在增加。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Operator
+：接下來是來自 KekYee Teoh。
+：KekYee Teoh
+：只是想更多地了解那裡的病毒假設。
+：Jeff Su - Deputy Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：我們給你一整年的假設，但我不能更具體。
+：Jeff Su - Deputy Director of IR
+：好的。
+：KekYee Teoh
+：晶圓代工量增加影響主要是全年還是下半年？
+：Jeff Su - Deputy Director of IR
+：他要求增加 5G 的矽含量。
+：C. C. Wei - Vice Chairman & CEO
+：我可以說它在 5G 中。
+：Jeff Su - Deputy Director of IR
+：是的。
+：好的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：所以首先，你能不能談談——我的意思是，也許只是遠離 COVID-19，希望它很快結束。
+：一個相關的問題是，我認為馬克過去已經回答過潛在的併購機會。
+：Jeff Su - Deputy Director of IR
+：好的。
+：你問題的第二部分是指我們潛在的併購。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我先回答IDM外包的問題。
+：Mark Liu - Chairman of the Board
+：是的。
+：但是收購海外晶圓廠不太可能是龍頭晶圓廠，因為我們龍頭晶圓廠是技術非常複雜的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：這很有幫助。
+：Operator
+：接下來是摩根士丹利的陳查理。
+：Charlie Chan - Technology Analyst
+：所以這些是我想得到的一些問題，管理層是否有很少的想法。
+：我還想澄清一下，因為最近的研究表明，像中芯國際這樣的中國晶圓廠正在獲得份額，我認為這是有道理的，因為中國正在追求本地化。
+：Jeff Su - Deputy Director of IR
+：好的。
+：然後，其次，你問的是中國，中芯國際正在獲得市場份額。
+：Mark Liu - Chairman of the Board
+：好的。
+：其次，當然，正如我之前計劃的那樣，這個晶圓廠必須是一個工程服務機構。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，傑夫，你能重複第二個問題嗎？
+：Jeff Su - Deputy Director of IR
+：當然。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：具體來說，對於中國的代工廠，我們也非常有競爭力，因為很多中國客戶一直在與台積電合作。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Sebastian Hou - Research Analyst
+：所以我有 2 個跟進。
+：C. C. Wei - Vice Chairman & CEO
+：那就對了。
+：Sebastian Hou - Research Analyst
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，我不願意公佈實際數字。
+：Sebastian Hou - Research Analyst
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：是的，當然，我們希望如此。
+：Sebastian Hou - Research Analyst
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：哦，在容量方面，我們現在不予置評。
+：Sebastian Hou - Research Analyst
+：我要說的是大部分時間都是 3 年？
+：Jeff Su - Deputy Director of IR
+：塞巴斯蒂安，我們不評論節點的容量。
+：Sebastian Hou - Research Analyst
+：是的。
+：Jeff Su - Deputy Director of IR
+：好的。
+：Mark Liu - Chairman of the Board
+：嗯，是的，目前還沒有官方規則公佈。
+：Jeff Su - Deputy Director of IR
+：好的。
+：感謝您今天加入我們。
+：C. C. Wei - Vice Chairman & CEO
+：再見。
+：

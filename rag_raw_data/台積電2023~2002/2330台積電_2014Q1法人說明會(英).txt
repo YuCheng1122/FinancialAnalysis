@@ -1,0 +1,313 @@
+頁面標題: 	台積電 ADR (TSM) 2014Q1電話會議重點和逐字稿 - 財報狗
+
+：Elizabeth Sun - Director, Corporate Communications
+：Welcome to TSMC's First Quarter 2014 Earnings Conference and Conference Call.
+：If you are joining us through the conference call, you're dialing lines are in listen-only mode.
+：First, TSMC's Senior Vice President and CFO, Ms. Lora Ho will summarize our operations in the first quarter 2014, followed by our guidance for the current quarter.
+：For those participants on the call, if you do not yet have a copy of the press release, you may download it now from TSMC's website at www.tsmc.com.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties, which could cause actual results to differ materially from those contained in the forward-looking statement.
+：Now, I would like to turn the podium to TSMC's CFO, Ms. Lora Ho.
+：Lora Ho - SVP & CFO
+：Thank you, Elizabeth.
+：The first quarter came out better than expected.
+：First quarter revenue increased 1.7% on a sequential basis and 11.6% on year-over-year basis, to reach TWD148 billion.
+：Operating margin was 35.4%, up 2.6 percentage points from the fourth quarter.
+：Let's take a look at the revenue by application.
+：By technology, 28-nanometer revenue continued to grow and account for 34% of our total wafer revenue in the first quarter.
+：Now let's move onto the balance sheet.
+：Now let me make a few comments on cash flow and CapEx.
+：Our CapEx and capacity; first quarter CapEx was $3.8 billion.
+：So the total annual capacity will reach 8 million 12-inch equivalent wafers.
+：So I have finished my report on the financial part.
+：On the margin side, we expect the second quarter gross margins to be between 47.5% and 49.5%, and operating margins to be between 36.5% and 38.5%.
+：Mark Liu - President & Co-CEO
+：Good afternoon, ladies and gentlemen.
+：First, the demand in smartphone appears healthier than we expected last quarter.
+：The second, TSMC's 28-nanometer technology, performance and quality suffice to field more of those customers' demand.
+：Now I'll cover the market supply chain and demand of second half and full year for 2014.
+：TSMC will gain 28-nanometer market share with 28-nanometer high-K metal gate transition in the second half of 2014.
+：Semiconductor revenue growth from 5% to 7%.
+：Then I cover the updates on 16 FinFET, 16 FinFET plus and our 10 FinFET.
+：Our 16 FinFET plus matches the highest performance among all available 16-nanometer and 14-nanometer technologies in the market today.
+：We will receive our first customer product tapeout this month.
+：For 10 FinFET, 10 FinFET offer TSMC's third generation FinFET transistor, designed to meet the power and the performance requirement of mobile computing devices.
+：10 FinFET will offer 2.2X of density improvement over its previous generation, 16 FinFET plus.
+：Elizabeth Sun - Director, Corporate Communications
+：Thank you, Mark.
+：C.C. Wei - President & Co-CEO
+：Thank you, Elizabeth.
+：Let me recap what we had said in the last meeting here.
+：Now, there are some major achievement I would like to share with you.
+：In about one year's time we have built a manufacturing team of 4,600 engineers and 2,000 operators in two fabs; Fab 14 in Tainan and Fab 12 in Hsinchu.
+：Of course, the faster ramp has done with a very good device reliability and a very good wafer defect density.
+：Now let me switch gear to advanced assembly technologies.
+：InFO will have significant lower cost as compared to CoWoS and at the same time, InFO also can have the same capability to connect multiple dies together just as the CoWoS did.
+：In fact, we are very excited about TSMC's advanced assembly technology development as we're building a innovative solution for our customers product, which requires high performance, lower power consumption and at a very reasonable cost structure.
+：Now let me sum up today's key message which is presented by Mark and myself.
+：Our 10 nanometer technology development are on track and we're working on the cost effective advanced assembly solution InFO for our large volume mobile devices.
+：This ends our prepared remarks.
+：Elizabeth Sun - Director, Corporate Communications
+：Thank you C.C. This concludes our prepared statements.
+：
+：Elizabeth Sun - Director, Corporate Communications
+：(Operator Instructions) Donald Lu, Goldman Sachs.
+：Donald Lu - Analyst
+：(interpreted) First question Donald has is with respect to smartphone semiconductor content.
+：Mark Liu - President & Co-CEO
+：Okay.
+：However, we do see the low-end performance spec continue increasing.
+：Secondly, about the ASML's message, I really don't know what he means.
+：Secondly, if you observe the industry, mobile device industry, we do see in the past six months and we do see the 32 bit conversion to 64 bit in the processing after the Apple's announcement and that change, that transition, clearly indeed bring a lot of attention of the product development back to 28 and 20 nanometer product design.
+：And the last message I'd like to comment, well that is if you combine in 20 and 16 -- our Chairman has mentioned to you that combined 20 and 16 total revenues in the first eight quarters or first two years will be even bigger than the 28-nanometer revenue in total.
+：Elizabeth Sun - Director, Corporate Communications
+：Randy Abrams, Credit Suisse.
+：Randy Abrams - Analyst
+：I could ask a follow-up on the 16.
+：Elizabeth Sun - Director, Corporate Communications
+：So Randy, your question is with respect to the timing, the availability of the 16 FinFET versus the 16 FinFET plus.
+：Mark Liu - President & Co-CEO
+：Okay.
+：Randy Abrams - Analyst
+：And the second question, if we look ahead to second half, you talked about normal -- kind of normal profile for growth.
+：Lora Ho - SVP & CFO
+：Okay, you are talking about a second half growth will be normal.
+：The reasons we can improve structural gross profitability are the following.
+：With the ramping of 20-nanometer, which just started in a second quarter, we will have a very, very small volume shipment.
+：Elizabeth Sun - Director, Corporate Communications
+：Dan Heyler, Bank of America Merrill Lynch.
+：Dan Heyler - Analyst
+：Thanks.
+：Mark Liu - President & Co-CEO
+：This is the number for the full year.
+：Dan Heyler - Analyst
+：Okay.
+：Mark Liu - President & Co-CEO
+：I think it has to do with 20 SoC also, which is mostly second half.
+：Elizabeth Sun - Director, Corporate Communications
+：Dan, do you want to release your microphone?
+：Dan Heyler - Analyst
+：Well, they were chatting.
+：Mark Liu - President & Co-CEO
+：No.
+：Dan Heyler - Analyst
+：Thank you.
+：Elizabeth Sun - Director, Corporate Communications
+：Michael Chou, Deutsche Bank.
+：Michael Chou - Analyst
+：I don't know, C.C. Wei, could you give us more color on the advanced packaging you just mentioned.
+：C.C. Wei - President & Co-CEO
+：The difference between the InFO and the CoWoS is actually the geometry to connect multi-dies together.
+：Michael Chou - Analyst
+：Could we expect that would be adopted by mobile customers?
+：C.C. Wei - President & Co-CEO
+：I would like to say that we are working with major customers.
+：Michael Chou - Analyst
+：Thank you.
+：Lora Ho - SVP & CFO
+：Second quarter, all segments will grow more than seasonal, especially strong in communication, consumer and industrial-related applications.
+：Michael Chou - Analyst
+：Thank you.
+：Elizabeth Sun - Director, Corporate Communications
+：Gokul, JPMorgan.
+：Gokul Hariharan - Analyst
+：Yeah, thanks for taking my question.
+：Elizabeth Sun - Director, Corporate Communications
+：I think Gokul, your question is with respect to the backfill of the 20 and 16-nanometer once the first wave customers migrate to the next node, whether or not we will have sufficient demand, as big as what we had in the past and whether or not -- if not whether this will change our investment profile and change our return on invested capital?
+：Mark Liu - President & Co-CEO
+：Hi.
+：Gokul Hariharan - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：We have not decided CapEx for 2015, but from what we are seeing right now we expect the CapEx for next year will be similar to this year's level.
+：Elizabeth Sun - Director, Corporate Communications
+：Steven Pelayo, HSBC.
+：Steven Pelayo - Analyst
+：Hi.
+：Mark Liu - President & Co-CEO
+：I'll answer the 45-nanometer demand.
+：Your second is More-than-Moore?
+：Steven Pelayo - Analyst
+：On even higher level nodes.
+：C.C. Wei - President & Co-CEO
+：That's a good question.
+：Steven Pelayo - Analyst
+：I can just sneak one last question.
+：Mark Liu - President & Co-CEO
+：I think it will be more difficult today and even more difficult in the future.
+：Elizabeth Sun - Director, Corporate Communications
+：Roland Shu, Citi.
+：Roland Shu - Analyst
+：Good afternoon.
+：C.C. Wei - President & Co-CEO
+：I think TSMC toady is a preferred employer in Taiwan.
+：Roland Shu - Analyst
+：Okay, yeah.
+：C.C. Wei - President & Co-CEO
+：How to motivate existing employees?
+：Roland Shu - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：I also ask myself the same questions, how much room.
+：Roland Shu - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：I think you are trying t understand whether we can achieve 50% again if the capacity utilization gets to 100%, right?
+：Elizabeth Sun - Director, Corporate Communications
+：Okay, I think this is about time that we should open the Q&A to those people who are on the line.
+：Operator
+：Mehdi Hosseini, SIG.
+：Mehdi Hosseini - Analyst
+：Yes, thanks for taking my question.
+：Elizabeth Sun - Director, Corporate Communications
+：Alright.
+：Mark Liu - President & Co-CEO
+：From 2015, first of all.
+：Mehdi Hosseini - Analyst
+：Okay and then one follow-up question for Lora.
+：Lora Ho - SVP & CFO
+：I think the current R&D to revenue is ranging from 7% to 8%.
+：Mehdi Hosseini - Analyst
+：Okay, thank you.
+：Operator
+：Brett Samson, Arete Research.
+：Brett Samson - Analyst
+：Thanks very much.
+：Elizabeth Sun - Director, Corporate Communications
+：So Brett's question is what is really the mix between poly-SiON, that is our 28 LP, versus our high-k metal gate and what is going to be the trend with respect to that kind of mix throughout this year?
+：Mark Liu - President & Co-CEO
+：Allow me to answer that.
+：Brett Samson - Analyst
+：Great.
+：C.C. Wei - President & Co-CEO
+：You ask whether we are working with the customer and when we will have a product out?
+：Brett Samson - Analyst
+：Okay.
+：C.C. Wei - President & Co-CEO
+：We certainly believe that attach rate; you're using that word attach rate, we certainly think it will be very popular among the mobile product and because we provided a very low cost solution and continue to give the high performance and lower power consumption.
+：Brett Samson - Analyst
+：Okay, thank you very much.
+：Elizabeth Sun - Director, Corporate Communications
+：Alright, let me go back to the floor now.
+：Bill Lu - Analyst
+：Hi, good afternoon.
+：Lora Ho - SVP & CFO
+：2Q will be a very strong quarter and our capacity are essentially full.
+：Bill Lu - Analyst
+：So I wasn't clear.
+：Elizabeth Sun - Director, Corporate Communications
+：Yeah, Bill's point is that since we did it in the first quarter, which probably represents some sort of a pulling from the second quarter.
+：Lora Ho - SVP & CFO
+：I have to talk from first quarter.
+：Bill Lu - Analyst
+：Not exactly.
+：Lora Ho - SVP & CFO
+：Okay.
+：Bill Lu - Analyst
+：Doesn't mean that that second quarter margins would have been a little bit higher?
+：Lora Ho - SVP & CFO
+：Second quarter order already coming in, it's a regular order.
+：Bill Lu - Analyst
+：Second question is on this inventory cycle that we have seen.
+：Elizabeth Sun - Director, Corporate Communications
+：Bill, you actually have two questions packaged into one.
+：Mark Liu - President & Co-CEO
+：Okay.
+：Now for this quarter, we see the inventory not even back to seasonal.
+：Elizabeth Sun - Director, Corporate Communications
+：Customer concentration risk
+：Mark Liu - President & Co-CEO
+：Customer concentration, we just work very closely with our customers, okay.
+：Elizabeth Sun - Director, Corporate Communications
+：Andrew Lu, Barclays.
+：Andrew Lu - Analyst
+：You just now forgot my name?
+：Elizabeth Sun - Director, Corporate Communications
+：I forgot your company.
+：Andrew Lu - Analyst
+：We still survive.
+：Mark Liu - President & Co-CEO
+：You said next year the capacity will suddenly decline?
+：Andrew Lu - Analyst
+：Yes, because your 20 versus 16 is 95% convertible.
+：Mark Liu - President & Co-CEO
+：Okay.
+：Andrew Lu - Analyst
+：So total combined, 20 plus 16, the amount, the capacity you're going to add, quite similar for both each year, can we say that?
+：Mark Liu - President & Co-CEO
+：Allow me to say that the increase of -- total capacity increase next year, I think will be more than the conversion of 20 to 16.
+：Elizabeth Sun - Director, Corporate Communications
+：Okay, Andrew, I think you can go home and work out your numbers.
+：Andrew Lu - Analyst
+：The reason I asked this question is because I assume one customer take all your 50% of your capacity on 20.
+：Mark Liu - President & Co-CEO
+：I think the key is this customer will still continue to use 20 SoC next year.
+：Elizabeth Sun - Director, Corporate Communications
+：That's right.
+：Andrew Lu - Analyst
+：That's clear enough.
+：Mark Liu - President & Co-CEO
+：Yes, we use the total TSMC wafer revenue, divided by global smartphone shipment.
+：Andrew Lu - Analyst
+：That's why the high-end side, if you gain shares then your ASPs change a lot?
+：Mark Liu - President & Co-CEO
+：Yes.
+：Andrew Lu - Analyst
+：Well based on our calculation, it should be much higher than $8.
+：Elizabeth Sun - Director, Corporate Communications
+：Maybe your number is correct and they will be very happy, yes.
+：Mark Liu - President & Co-CEO
+：Average, total average?
+：Andrew Lu - Analyst
+：Yes.
+：Mark Liu - President & Co-CEO
+：Okay.
+：Andrew Lu - Analyst
+：Thank you.
+：Elizabeth Sun - Director, Corporate Communications
+：William Dong, UBS.
+：William Dong - Analyst
+：Thank you.
+：Elizabeth Sun - Director, Corporate Communications
+：All right.
+：C.C. Wei - President & Co-CEO
+：Let me answer the question.
+：William Dong - Analyst
+：Okay.
+：C.C. Wei - President & Co-CEO
+：Well, Mark already answered this kind of question saying that porting from one foundry to the other foundry you are getting harder and harder.
+：Mark Liu - President & Co-CEO
+：Okay, let me answer.
+：Elizabeth Sun - Director, Corporate Communications
+：Dan Heyler, Bank of America Merrill Lynch.
+：Dan Heyler - Analyst
+：I just wanted to come back a little bit to the 16 discussion.
+：Mark Liu - President & Co-CEO
+：I think this is your comment.
+：Dan Heyler - Analyst
+：Just to be clear, a follow-up, just to be clear that sort of -- kind of we should start to see volumes in first half 2015 where we would start to see a few percentage of revenue, based on your current expectations, few percentage contribution by second quarter next year, is that fair?
+：Mark Liu - President & Co-CEO
+：You mean the 16?
+：Dan Heyler - Analyst
+：Yeah.
+：Lora Ho - SVP & CFO
+：We w ill see some revenue in 2015.
+：Dan Heyler - Analyst
+：Good okay.
+：C.C. Wei - President & Co-CEO
+：Dan, to answer your question, the InFO actually we're right now working on application processor together with memory dies.
+：Dan Heyler - Analyst
+：Thank you.
+：Elizabeth Sun - Director, Corporate Communications
+：All right.
+：Mark - Reporter
+：I'm Mark from UDNTV.
+：Mark Liu - President & Co-CEO
+：Well I'm delighted to work with C. C. Of course Chairman.
+：Mark - Reporter
+：But how open is Morris to both of your ideas to the Company?
+：Mark Liu - President & Co-CEO
+：Of course we -- everybody contribute ideas.
+：Elizabeth Sun - Director, Corporate Communications
+：Alright, I think in the interest of time, we will conclude our conference here today.
+：Editor
+：Portions of this transcript that are marked (interpreted) were spoken by an interpreter present on the live call.

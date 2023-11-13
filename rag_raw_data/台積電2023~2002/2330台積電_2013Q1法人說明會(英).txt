@@ -1,0 +1,453 @@
+頁面標題: 	台積電 ADR (TSM) 2013Q1電話會議重點和逐字稿 - 財報狗
+
+：Elizabeth Sun - Director of Corporate Communications
+：Welcome to TSMC's first quarter 2013 earnings conference and conference call.
+：The format for today's event will be as follows.
+：Before we begin I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties, which could cause actual results to differ materially from those contained in the forward-looking statements.
+：Lora Ho - SVP and CFO
+：Thank you Elizabeth.
+：On the margin side, gross margin was 45.8%, down 1.4 percentage points from the fourth quarter last year.
+：Non-operating items was a gain of TWD1.3b for this quarter, much better than the loss in the fourth quarter of 2012.
+：As you may have noticed, we are preparing financial statement in accordance with Taiwan IFRS starting this year.
+：On the profit side, TIFRS require us to reclassify some items among operating and non-operating items.
+：On the balance sheet the key changes for TSMC is the reclassification of sales returned allowance from reduction in accounts receivable to other current liabilities.
+：Now let's move back to revenue analysis for the first quarter of 2013.
+：If we look at the revenue by technology, demand for our 28-nanometer technology remained robust.
+：Let me make a few comments on the balance sheet.
+：On the cash flow side, in the first quarter we generated TWD74b from operations, invested TWD80b in capital expenditure and had raised TWD45b through corporate bonds.
+：Lastly let me make a few comments on our capacity plan.
+：I have finished my financial reports.
+：This concludes my remarks.
+：Morris Chang - Chairman and CEO
+：I would like to make some comments on industry outlook and on 1Q and 2Q, and then on our technology development 28, 20 and 16, as well as specialty technologies.
+：For the industry outlook, for the full year 2013 our estimate of global GDP remains unchanged at about 2.6% growth.
+：TSMC growth will be much higher than the foundry industry growth of 10% that I have mentioned earlier.
+：On 1Q and 2Q of 2013 we are pleased with our first quarter performance and we are encouraged by the business prospects of the second quarter, as Laura has already guided.
+：Now a few comments on 28 nanometer.
+：Market share this year is expected to remain very high due to, first, we have better yields on 28 LP, which is the oxynitride version.
+：Lastly, I have been asked a couple of times how our gross margin is doing on the 28 nanometers and I'm happy to report that the gross margin of 28 nanometer will be slightly higher than corporate average this year, the whole year, every quarter.
+：A few comments on 20 nanometers and 16 nanometers FinFET.
+：On the 16-nanometer FinFET, we have said several times that this is a change in cadence in our new technology introduction.
+：Compared with 20 nanometers, the 16 FinFET has same metal pitch but tighter front-end FinFET design rules.
+：A few words on the competitiveness of our 20 nanometer and our 16 nanometer.
+：The second point I want to make is that we have been collaborating with our customers and ecosystem partners for more than 15 years.
+：Now a few words on specialty technologies.
+：These enhanced requirements for human-machine interfaces will fuel the growth of TSMC's specialty technology businesses in mixed signal MEMS, embedded Flash and high voltage, and most of those technologies are now embedded in our less-than-leading-edge technologies, 40, 65 nanometer, 90 nanometer, 0.18, 0.15 etc., etc.
+：Finally, CapEx, capital expenditures.
+：Therefore approximately 90% of the capital expenditures are for 28 nanometer, 20 nanometer, 16 nanometer, both building facility and equipment.
+：Basically I feel that the Company is entering or has already entered a new growth period.
+：
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Now let's begin the Q&A session.
+：Donald Lu - Analyst
+：Chairman, Lora and Elizabeth, (spoken in foreign language), or maybe I should use English here.
+：Unidentified Speaker
+：(Inaudible -- microphone inaccessible).
+：Donald Lu - Analyst
+：First question is on the 20 nanometer.
+：And my second question is on TSMC's -- just want to hear from you again the return and the profitability for future nodes, 20 nanometer and 16 nanometer.
+：Morris Chang - Chairman and CEO
+：Thank you.
+：So I think that there are opportunities for regaining the slope, the decrease of transistor cost.
+：Now on the other hand the value that the new node offers in performance and power is exactly what our customers are looking for.
+：As to the return to profitability of 20 and 16, I'm not prepared to offer you a quantitative measure of the return to profitability.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Michael Chou - Analyst
+：Mr. Chairman, the Q1 and Q2 sales momentum is stronger than seasonal ,so do you think that the inventory risk will be rising by the end of Q2 or do you think the demand can digest most of the output?
+：Elizabeth Sun - Director of Corporate Communications
+：Inventory, whether or not inventory risk is going up, whether the supply chain can digest the inventory this year.
+：Morris Chang - Chairman and CEO
+：Our inventory estimate is that it will only be slightly above seasonal in the next few quarters.
+：Michael Chou - Analyst
+：But can you give some color for Q2 outlook by segments?
+：Morris Chang - Chairman and CEO
+：Pardon me?
+：Michael Chou - Analyst
+：Q2 outlook by segments.
+：Elizabeth Sun - Director of Corporate Communications
+：The outlook of different applications in Q2 segment by segment.
+：Michael Chou - Analyst
+：Yes.
+：Elizabeth Sun - Director of Corporate Communications
+：Maybe Lora?
+：Lora Ho - SVP and CFO
+：I can comment.
+：Michael Chou - Analyst
+：Alright.
+：Elizabeth Sun - Director of Corporate Communications
+：This is your third so we have to go to another one, okay?
+：Roland Shu - Analyst
+：Hi Chairman.
+：Elizabeth Sun - Director of Corporate Communications
+：Whether or not ARM-based processors can enter into the PC space, that's your question.
+：Morris Chang - Chairman and CEO
+：I think that certainly it's, I think it's a possibility and I think in fact, well, it's a possibility, but that's not the first thing that comes to mind.
+：Roland Shu - Analyst
+：So before this adoption be ramp up what kind of barrier or what kind of bottleneck technology needs to be resolved and how TSMC can help to put this kind of conversion going forward?
+：Morris Chang - Chairman and CEO
+：The what?
+：Elizabeth Sun - Director of Corporate Communications
+：So your question is what kind of bottleneck that exists from our current customers' offering that if they want to go to PC, right, and what TSMC can do to help them debottleneck?
+：Morris Chang - Chairman and CEO
+：I don't think I can answer that question very well.
+：Elizabeth Sun - Director of Corporate Communications
+：You have a follow-up?
+：Roland Shu - Analyst
+：Yes.
+：Morris Chang - Chairman and CEO
+：Just as I said -- I think the question is whether we have any 64-bit applications.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Operator
+：Dan Heyler for Bank of America - Merrill Lynch.
+：Dan Heyler - Analyst
+：Thank you very much Elizabeth and congratulations Chairman for your highly successful growth strategy and execution on your technology.
+：Elizabeth Sun - Director of Corporate Communications
+：So, Dan, your question is in leading-edge technology the cadence has become faster and therefore your question is whether or not the same cadence become faster for the N minus 1 technologies?
+：Dan Heyler - Analyst
+：Correct.
+：Morris Chang - Chairman and CEO
+：For the N minus 1?
+：Elizabeth Sun - Director of Corporate Communications
+：For the N minus 1, so one or two generations, the bigger nodes.
+：Morris Chang - Chairman and CEO
+：Cadence, in the past it was two years.
+：Dan Heyler - Analyst
+：Yes.
+：Morris Chang - Chairman and CEO
+：The specialty technologies, will they migrate faster than they used to?
+：Dan Heyler - Analyst
+：How do you keep --
+：Morris Chang - Chairman and CEO
+：Right now it looks like some of these specialty technologies are skipping nodes.
+：Dan Heyler - Analyst
+：I'm -- the crux of the question is, how do you keep your mainstream fabs full?
+：Morris Chang - Chairman and CEO
+：I think you have come very close to the heart of my management problem, alright?
+：Dan Heyler - Analyst
+：No, we don't want you to do that either, so.
+：Morris Chang - Chairman and CEO
+：Basically we can only guess.
+：Dan Heyler - Analyst
+：Thank you for that.
+：Morris Chang - Chairman and CEO
+：Yes.
+：Dan Heyler - Analyst
+：Great.
+：Elizabeth Sun - Director of Corporate Communications
+：So, Dan, you don't have the second question, right?
+：Dan Heyler - Analyst
+：Okay.
+：Elizabeth Sun - Director of Corporate Communications
+：Alright.
+：Andrew Lu - Analyst
+：Hi Dr. Morris Chang and Lora.
+：Morris Chang - Chairman and CEO
+：Hi Andrew.
+：Andrew Lu - Analyst
+：I have two questions.
+：Morris Chang - Chairman and CEO
+：I'm not going to go into those details, but I repeat, I reiterate, I stand by what I said last time, that is that the volume of, production volume upward of 20 nanometers next year will be greater than 28 in 2012.
+：Andrew Lu - Analyst
+：Thank you.
+：Morris Chang - Chairman and CEO
+：Yes, okay.
+：Andrew Lu - Analyst
+：My second question, earlier you also mentioned migrate to 16-nanometer FinFET will be faster than the normal upgrade cycle about two years from 20 to 16.
+：Morris Chang - Chairman and CEO
+：No.
+：Andrew Lu - Analyst
+：Back to two years.
+：Morris Chang - Chairman and CEO
+：Back to two years, yes.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Randy Abrams - Analyst
+：Thank you.
+：Morris Chang - Chairman and CEO
+：Pleasantly I found myself to be mistaken.
+：Randy Abrams - Analyst
+：Maybe to follow on that, what drove that change where now you think you're mistaken from your prior view?
+：And do you think sustainability into second half where the last couple of years we saw a bit of dip after a strong first half?
+：Morris Chang - Chairman and CEO
+：It is basically mobile products and market share gain.
+：Randy Abrams - Analyst
+：Okay.
+：Morris Chang - Chairman and CEO
+：On what?
+：Randy Abrams - Analyst
+：18-inch.
+：Morris Chang - Chairman and CEO
+：450 millimeter, yes.
+：Randy Abrams - Analyst
+：Yes.
+：Morris Chang - Chairman and CEO
+：Have we started CapEx yet?
+：Lora Ho - SVP and CFO
+：Not yet.
+：Morris Chang - Chairman and CEO
+：I think his question is when do we plan to start CapEx.
+：Lora Ho - SVP and CFO
+：In the 2016 timeframe, that will be the time we start to spend it, yes.
+：Morris Chang - Chairman and CEO
+：So it's too early yet.
+：Randy Abrams - Analyst
+：Great.
+：Elizabeth Sun - Director of Corporate Communications
+：Randy has a part that you also asked for the location, right?
+：Randy Abrams - Analyst
+：Yes, if you could suggest where you're thinking about the fab location.
+：Morris Chang - Chairman and CEO
+：Actually we, didn't we mention when we acquired the Chunan land?
+：Lora Ho - SVP and CFO
+：Yes.
+：Morris Chang - Chairman and CEO
+：Not the production site.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Operator
+：Mehdi Hosseini from SIG, please ask your question.
+：Mehdi Hosseini - Analyst
+：Yes, thanks for taking my question and Dr. Chang, thanks for providing some color on the number of tape-outs for 20-nanometer.
+：Morris Chang - Chairman and CEO
+：Some color on the customers for 20 nanometer.
+：Elizabeth Sun - Director of Corporate Communications
+：Tape-outs.
+：Morris Chang - Chairman and CEO
+：They are --
+：Mehdi Hosseini - Analyst
+：The types of customers that add up to 20 tape-outs for 20 nanometer.
+：Morris Chang - Chairman and CEO
+：The type of customers.
+：Mehdi Hosseini - Analyst
+：Sure.
+：Elizabeth Sun - Director of Corporate Communications
+：That would be related to our CoWoS, right, the silicon interposer?
+：Mehdi Hosseini - Analyst
+：Yes, yes.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Morris Chang - Chairman and CEO
+：It's, basically it's just, the answer is integration.
+：Mehdi Hosseini - Analyst
+：Interposer is not really -- is that going to make a big difference to your customer as they evaluate cost and benefit?
+：Elizabeth Sun - Director of Corporate Communications
+：Is that going to be an important element when our customers evaluate the 20nm?
+：Morris Chang - Chairman and CEO
+：I think so, yes.
+：Mehdi Hosseini - Analyst
+：Thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：Alright.
+：Steven Pelayo - Analyst
+：Okay.
+：Morris Chang - Chairman and CEO
+：I have enough on my plate myself to worry about other foundries.
+：Steven Pelayo - Analyst
+：Maybe I should ask it this way.
+：Morris Chang - Chairman and CEO
+：Yes, there are second sources on 28 nanometers.
+：But still, having said all that, yes, there will be second sources.
+：Steven Pelayo - Analyst
+：And just as a quick follow-up question, you talked about 28 nanometer growing each quarter, you talked about tripling year on year.
+：Morris Chang - Chairman and CEO
+：Do we reveal that Lora?
+：Lora Ho - SVP and CFO
+：We do not reveal that.
+：Steven Pelayo - Analyst
+：Alright then.
+：Morris Chang - Chairman and CEO
+：20 nanometer?
+：Steven Pelayo - Analyst
+：Yes.
+：Elizabeth Sun - Director of Corporate Communications
+：20.
+：Morris Chang - Chairman and CEO
+：When does it start?
+：Elizabeth Sun - Director of Corporate Communications
+：20 has not started.
+：Steven Pelayo - Analyst
+：I know.
+：Elizabeth Sun - Director of Corporate Communications
+：When, first half next year.
+：Lora Ho - SVP and CFO
+：You're asking about 20?
+：Morris Chang - Chairman and CEO
+：She answered already.
+：Steven Pelayo - Analyst
+：Ignore my first question.
+：Morris Chang - Chairman and CEO
+：You actually said a pretty low hurdle.
+：Steven Pelayo - Analyst
+：The first few percent of 20 nanometer.
+：Morris Chang - Chairman and CEO
+：What quarter will be the 2% quarter?
+：Lora Ho - SVP and CFO
+：Based on our current estimation it will be roughly second quarter 2014.
+：Steven Pelayo - Analyst
+：2014, okay.
+：Elizabeth Sun - Director of Corporate Communications
+：Alright.
+：Charlie Chan - Analyst
+：Thanks for taking our question.
+：And lastly can management give us a sense what is the cost comparison between EUV and the non-EUV, for example, at 16 nanometer?
+：Morris Chang - Chairman and CEO
+：Could you repeat the question?
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Charlie Chan - Analyst
+：Yes, maybe current nodes or the future nodes.
+：Elizabeth Sun - Director of Corporate Communications
+：Current nodes we don't use EUV.
+：Charlie Chan - Analyst
+：Yes, because as to your timing of whether you want to advance your EUV adoption timing, if you want to use it for 16 nanometer then the competitive advantage should be at 16-nanometer.
+：Morris Chang - Chairman and CEO
+：Alright.
+：EUV recently has had a breakthrough.
+：So, but alright, so now when are we going to use it?
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Operator
+：Brett Simpson from Arete Research, please ask your question.
+：Brett Simpson - Analyst
+：Yes, thanks very much.
+：Morris Chang - Chairman and CEO
+：I didn't hear the entire question.
+：Elizabeth Sun - Director of Corporate Communications
+：So your main question is how do we see Intel as a competitor?
+：Morris Chang - Chairman and CEO
+：I think he also asked about --
+：Brett Simpson - Analyst
+：That's right.
+：Morris Chang - Chairman and CEO
+：Altera, didn't he?
+：Elizabeth Sun - Director of Corporate Communications
+：Yes.
+：Morris Chang - Chairman and CEO
+：So there's Altera, Intel as a competitor and?
+：Elizabeth Sun - Director of Corporate Communications
+：No.
+：Morris Chang - Chairman and CEO
+：Okay.
+：Altera, I very much regret Altera's decision to work on the 40 nanometer with Intel.
+：And because of this we have thoroughly critiqued ourselves.
+：Now Intel as a competitor, I noted Intel's yesterday's analyst call in which they said they have now gone from crawl to walk and then will go on to run.
+：And I still view Intel as a selective picker among customers.
+：Brett Simpson - Analyst
+：Maybe just a follow-up question, Dr. Chang.
+：Elizabeth Sun - Director of Corporate Communications
+：Your question is whether or not the strength of our second quarter business comes from new customer or --
+：Brett Simpson - Analyst
+：In mobile, yes.
+：Elizabeth Sun - Director of Corporate Communications
+：In mobile or --
+：Morris Chang - Chairman and CEO
+：No.
+：Brett Simpson - Analyst
+：That's very helpful.
+：Lora Ho - SVP and CFO
+：Okay.
+：Brett Simpson - Analyst
+：Great.
+：Lora Ho - SVP and CFO
+：Yes.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay.
+：Eric Chen - Analyst
+：Hi Dr. Morris Chang.
+：Elizabeth Sun - Director of Corporate Communications
+：So, Eric, your question is how long will it take for TSMC 20 nanometer to reach corporate gross margin?
+：Eric Chen - Analyst
+：Yes.
+：Morris Chang - Chairman and CEO
+：Let's see.
+：Eric Chen - Analyst
+：So how do you think?
+：Morris Chang - Chairman and CEO
+：What?
+：Elizabeth Sun - Director of Corporate Communications
+：He wants you to take a guess.
+：Morris Chang - Chairman and CEO
+：I think history is my best guess.
+：Eric Chen - Analyst
+：So that means seven to eight quarters.
+：Morris Chang - Chairman and CEO
+：Yes.
+：Eric Chen - Analyst
+：Thank you.
+：And then the follow-on is regarding to the 28-nanometer process capacity.
+：Elizabeth Sun - Director of Corporate Communications
+：So, Eric, you have a question here on CapEx.
+：Eric Chen - Analyst
+：Yes.
+：Morris Chang - Chairman and CEO
+：Top three what?
+：Elizabeth Sun - Director of Corporate Communications
+：Players, the top three companies.
+：Eric Chen - Analyst
+：Intel, Samsung and TSMC.
+：Elizabeth Sun - Director of Corporate Communications
+：Intel, Samsung and TSMC.
+：Eric Chen - Analyst
+：Yes, I would like to know this kind of CapEx centralization will accelerate or not and how the TSMC to be outstanding one going forward among the three.
+：Morris Chang - Chairman and CEO
+：It looks like that only three companies can afford to keep investing.
+：Eric Chen - Analyst
+：Right.
+：Elizabeth Sun - Director of Corporate Communications
+：You mean TSMC versus the other two?
+：Eric Chen - Analyst
+：In terms of the CapEx.
+：Elizabeth Sun - Director of Corporate Communications
+：Whether our CapEx will react to the other two companies' CapEx?
+：Morris Chang - Chairman and CEO
+：Whether what?
+：Elizabeth Sun - Director of Corporate Communications
+：Our CapEx will be responsive, responding to other companies?
+：Morris Chang - Chairman and CEO
+：Okay.
+：Eric Chen - Analyst
+：Okay.
+：Morris Chang - Chairman and CEO
+：CapEx over?
+：Eric Chen - Analyst
+：Over competition?
+：Morris Chang - Chairman and CEO
+：I never, never, never in the last 20 years engaged in any CapEx war with anybody.
+：Eric Chen - Analyst
+：Okay.
+：Morris Chang - Chairman and CEO
+：In the past, ever since we started the Company our CapEx has always been responsive to just one thing, that is our own needs.
+：Eric Chen - Analyst
+：Okay.
+：Morris Chang - Chairman and CEO
+：Never mind what the other companies spent.
+：Eric Chen - Analyst
+：Thank you.
+：Morris Chang - Chairman and CEO
+：Yes.
+：Elizabeth Sun - Director of Corporate Communications
+：So Lora, your 28 nanometer?
+：Lora Ho - SVP and CFO
+：You're asking capacity for each quarter for 28?
+：Eric Chen - Analyst
+：Roughly idea, yes.
+：Lora Ho - SVP and CFO
+：Yes, I'm afraid I cannot tell you.
+：Eric Chen - Analyst
+：Okay.
+：Lora Ho - SVP and CFO
+：I think it'll be in line with our revenue growth, okay?
+：Eric Chen - Analyst
+：Okay.
+：Lora Ho - SVP and CFO
+：Quarter over quarter.
+：Eric Chen - Analyst
+：Okay.
+：Elizabeth Sun - Director of Corporate Communications
+：Alright.
+：Morris Chang - Chairman and CEO
+：Thank you.
+：

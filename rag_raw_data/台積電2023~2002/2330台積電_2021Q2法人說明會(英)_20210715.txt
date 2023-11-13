@@ -1,0 +1,748 @@
+頁面標題: 	台積電 ADR (TSM) 2021Q2電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Director of IR
+：(foreign language) Good afternoon, everyone.
+：To prevent the spread of COVID-19, TSMC is hosting our earnings conference call via live audio webcast through the company's website at www.tsmc.com where you can also download the earnings release materials.
+：The format for today's event will be as follows: first, TSMC's Vice President and CFO, Mr. Wendell Huang, will summarize our operations in the second quarter 2021, followed by our guidance for the third quarter 2021.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties, which could cause actual results to differ materially from those contained in the forward-looking statements.
+：And now I would like to turn the call over to TSMC's CFO, Mr. Wendell Huang, for the summary of operations and the current quarter guidance.
+：Wendell Huang - VP & CFO
+：Thank you, Jeff.
+：Gross margin decreased 2.4 percentage points sequentially to 50% mainly due to N5 dilution, the slower rate of cost improvement and the absence of positive inventory revaluation.
+：Total operating expenses slightly increased TWD 1.47 billion.
+：Overall, our second quarter EPS was TWD 5.18 and ROE was 27.3%.
+：Let's move on to revenue by technology.
+：Moving on to revenue contribution by platform.
+：Moving on to the balance sheet.
+：On the liability side, current liabilities decreased TWD 14 billion mainly due to the decrease of TWD 23 billion in accrued liabilities and others, partially offset by the increase of TWD 6 billion in dividend payable.
+：Long-term interest-bearing debt increased by TWD 134 billion mainly as we raised TWD 137 billion of corporate bonds during the quarter.
+：On financial ratios.
+：Now let me make a few comments on cash flow and CapEx.
+：In U.S. dollar terms, our second quarter capital expenditures totaled USD 5.97 billion.
+：I have finished my financial summary.
+：Based on the exchange rate assumption of USD 1 to TWD 27.9, gross margin is expected to be between 49.5% and 51.5%, operating margin between 38.5% and 40.5%.
+：This concludes my financial presentation.
+：C. C. Wei - CEO
+：Thank you, Wendell.
+：COVID-19 has also fundamentally accelerated the digital transformation, making semiconductors more pervasive and essential in people's lives.
+：We now expect our long-term revenue CAGR from 2020 to 2025 to be near the high end of our 10% to 15% CAGR range in U.S. dollar terms.
+：In the near term, we continue to observe both short-term imbalances in the supply chain driven by the need to ensure supply security, as well as a structural increase in long-term demand.
+：For the full year of 2021, we now forecast the overall semiconductor market excluding memory to grow about 17% while foundry industry growth is forecast to be about 20%.
+：We now expect -- for TSMC, we are confident we can outperform the foundry revenue growth and grow above 20% in 2021 in U.S. dollar terms.
+：To address the structural increase in long-term market demand profile, TSMC is working closely with our customer to plan our capacity and investing in leading-edge and specialty technologies to support their demand.
+：To ensure a proper return from the investment, both pricing and costs are important.
+：Therefore, we are firming up our wafer pricing.
+：Next, let me talk about automotive supply update.
+：From chip production to car production, it takes at least 6 months to reach the automotive OEMs with several tiers of suppliers in between.
+：By taking such actions, we expect the automotive component shortage from semiconductor to be greatly reduced for TSMC customers starting this quarter.
+：Now let me talk about the N5 and N4 progress.
+：To further enhance our 5-nanometer family's performance, power and density improvements for the next wave 5-nanometer products, we introduced N4 technology, which is a straightforward migration from N5 with comparable design rules.
+：Finally, I will talk about the N3 status.
+：Risk production is scheduled in 2021, and production will start in second half of 2022.
+：With our technology leadership and strong customer demand, we are confident that both N5 and N3 will be large and long-lasting nodes for TSMC and become an important driver of our long-term growth.
+：Now let me turn over the microphone to Wendell.
+：Wendell Huang - VP & CFO
+：Thank you, C.C. Let me start by making some comments on our near-term demand and inventory.
+：Moving into third quarter 2021.
+：On the inventory side, we expect our fabless customers' overall inventory to exit second quarter of '21 at a healthy level.
+：Next, let me talk about our profitability.
+：In other words, if the exchange rate had maintained at $1 to TWD 28.4, our second quarter gross margin would have been 50.5%.
+：Despite the rapidly rising depreciation costs and unfavorable foreign exchange rate, we are able to maintain our gross margin at above 50% in both second quarter and third quarter.
+：Our long-term financial objectives remain unchanged.
+：Now let me make some comments on our cash dividend distribution policy.
+：Now let me turn the microphone over to our Chairman, Mark.
+：Mark Liu - Chairman
+：Thank you.
+：In our capital investment, our responsibility as TSMC management is to make the best decision in the interest of the company and our customers.
+：As the need for semiconductor infrastructure security has increased in recent years, we are expanding our global manufacturing footprint to sustain and enhance our competitive advantages and to better serve our customers in the new geopolitical environment.
+：In Taiwan, we are building capacity for N5 and N3 in Tainan Science Park.
+：In the U.S., we are increasing our presence with an advanced 12-inch semiconductor fab in Arizona and the progress is well on track with our plan.
+：The first wave of U.S.-hired engineers arrived Taiwan in late April for training on 5-nanometer technology.
+：Our customers welcome us to build capacity in the U.S. and pledged their strong support and business commitments.
+：In China, as our fab construction in Nanjing has already completed in 2017, we have completed the Phase 1 volume ramp in third quarter 2020, now reaching 25,000 wafer per month capacity of 16-nanometer technology.
+：For the long term, we forecast 28-nanometer will be the sweet spot for our embedded memory applications and our structural demand for 28-nanometer will be strongly supported by multiple specialty technologies.
+：Our global manufacturing expansion strategy is based on customer needs, business opportunities, operating efficiencies and cost economic considerations.
+：By taking such steps, we believe an expansion of our global manufacturing footprint will enable us to reach global talent, better serve our customers' needs, earn the proper return from our investment and deliver long-term profitable growth for our shareholders.
+：Thank you for your attention.
+：Jeff Su - Director of IR
+：Thank you, Chairman.
+：Operator
+：Yes.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Maybe my first question I would focus on the semiconductor supply and demand.
+：Could you talk about when do you expect supply and demand to come back into balance?
+：Jeff Su - Director of IR
+：Okay.
+：All right.
+：C. C. Wei - CEO
+：Well, Gokul, let me answer your question.
+：We do not rule out the possibility of an inventory correction in the future, but we expect our capacity will remain tight throughout this year and extend at least into 2022.
+：Jeff Su - Director of IR
+：Gokul, does that address your first question?
+：All right.
+：Operator
+：Yes.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：I wanted to ask the question on the trend of cost per transistor.
+：And for the customer motivation to migrate, how is that shifting between how our power performance density and cost versus also increasingly seek out the back-end system level integration?
+：Jeff Su - Director of IR
+：Okay.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes, right, between power performance density versus cost and also back-end integration.
+：Jeff Su - Director of IR
+：Okay.
+：Mark Liu - Chairman
+：Randy.
+：All these innovations combined is to deliver the value for our customer to improve the system performance and the system's power efficiency.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：And as we look to next year, if 3-nanometer ramping late in the year, could we see a favorable like a bit more of a sweet spot for profitability as you have a more mature 5-nanometer, but not a new node yet ramping?
+：Wendell Huang - VP & CFO
+：Okay.
+：Now we also expect that N5, like previous nodes, will be able to reach -- the margin will reach the corporate average in about 7 to 8 quarters.
+：With respect to 2022, it's a bit too early to talk about it.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Yes.
+：Bruce Lu - Research Analyst
+：I think a lot of your customers have like different supply chain management policies.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Bruce Lu - Research Analyst
+：Sure.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Well, let me answer again.
+：Jeff Su - Director of IR
+：Okay.
+：Bruce Lu - Research Analyst
+：Can we have somehow like some specific numbers?
+：C. C. Wei - CEO
+：We cannot forecast in the future very accurately, right?
+：Jeff Su - Director of IR
+：Thank you, Bruce.
+：Operator
+：The next one is a question from Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Yes, let me ask my second question.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Okay.
+：How to plan our capacity to support?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：So maybe just one follow-up.
+：Jeff Su - Director of IR
+：So Gokul is asking whether that we would require more longer-term assurance from our IDM customers versus our fabless customers.
+：C. C. Wei - CEO
+：We will not specifically comment on that on a certain customer, okay?
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask question, Charlie Chan from Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：First of all, I would like to thank TSMC for the donation of the vaccine to Taiwan.
+：And my question is about still your gross margin trend.
+：And would the company still believe 3D packaging can still outgrow the wafer business and whether they would create a margin dilution.
+：Jeff Su - Director of IR
+：Okay.
+：And then also sort of the outlook for our 3D IC business in comparison to our overall business.
+：Wendell Huang - VP & CFO
+：Okay, Charlie.
+：In terms of a revenue percentage, we expect back-end services to account for about 8% of our total revenue this year.
+：Jeff Su - Director of IR
+：Okay.
+：Charlie Chan - Technology Analyst
+：Yes, I do.
+：And if yes, do you think you have the monopoly, why can not TSMC charge higher wafer price to cover the increase of CapEx intensity?
+：And lastly, if the company were to -- need to choose between the margin sustainability and also the market share, what would be your choice?
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Charlie, let me answer this question.
+：And it's far away from you say that we try to bargaining power.
+：And looking ahead, we continue our practice, try our best to hear our customers, to grow and we want to get the proper return.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：The next one to ask a question, Nicolas Gaudois from UBS.
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：Earlier, you referred to your expansion of capacity at 28-nanometer in Nanjing for about 16,000 -- 15,000 wafer per months.
+：Jeff Su - Director of IR
+：Okay, Nick, let me try to summarize your first question.
+：Mark Liu - Chairman
+：Okay.
+：And we expect this structural demand will continue.
+：Jeff Su - Director of IR
+：Okay.
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：Yes.
+：Mark Liu - Chairman
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：The next one to ask question, Roland Shu from Citigroup.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：My first question is for your Japan R&D center.
+：And also, do you plan to start 3D IC packaging mass production in Japan one day?
+：Jeff Su - Director of IR
+：Okay.
+：And also, will we build a packaging -- 3D IC packaging integration facility in Japan.
+：C. C. Wei - CEO
+：Okay.
+：Do we have a plan to mass production in the 3D IC in Japan?
+：Jeff Su - Director of IR
+：And will we consider...
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：How about the wafer fab, yes.
+：C. C. Wei - CEO
+：The wafer fab, we are -- actually, let me say that we are -- we do not rule out any possibility.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Mark Liu - Chairman
+：Okay.
+：The reason we -- the bipartisan support for this is to create a level playing field for the semiconductor fab investment in U.S. so that there will be a renewal fab industry in the U.S. Of course, how well it can be done in operation up to each company to do the operations well.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：So pricing from the other companies?
+：Mark Liu - Chairman
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one, we have Laura Chen from KGI.
+：Laura Chen - Research Analyst
+：Can you hear me?
+：Jeff Su - Director of IR
+：Yes, we can hear you, Laura.
+：Laura Chen - Research Analyst
+：First of all, I just want to ask about our global expansion plan.
+：Jeff Su - Director of IR
+：Okay, Laura, let me summarize your question.
+：Laura Chen - Research Analyst
+：Yes.
+：Mark Liu - Chairman
+：Yes.
+：Laura Chen - Research Analyst
+：Okay, very clear.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Well, Laura, let me answer this question.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one, we have Brett Simpson from Arete Research.
+：Brett Simpson - Senior Analyst
+：I had a question on gross margins.
+：Jeff Su - Director of IR
+：Okay.
+：Brett Simpson - Senior Analyst
+：Yes.
+：Wendell Huang - VP & CFO
+：Right.
+：Last year, the dollar against NT rate was $29.43 in average.
+：Now longer term, the investment that we are making is for future business growth.
+：Brett Simpson - Senior Analyst
+：Okay.
+：And long term, how do we think about China scaling within your business?
+：Jeff Su - Director of IR
+：Okay.
+：And then he asked a longer-term question, which is how should we think about our China business over the next few years?
+：C. C. Wei - CEO
+：Well, Brett, let me summarize it.
+：Jeff Su - Director of IR
+：And also, Brett's question on the improvement from China from 6% in first quarter to 11% in the second quarter.
+：Wendell Huang - VP & CFO
+：That's because mainly the HPC platform.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one, we have Charles Shi from Needham & Company.
+：Charles Shi - Associate
+：Can you guys hear me?
+：Jeff Su - Director of IR
+：Yes, we can hear you fine, Charles.
+：Charles Shi - Associate
+：So I want to ask the first question really is about your -- the adoption of your most leading-edge node process.
+：So the question really is about 3-nanometer, which we are about a year away from the mass production.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Charles, this is C.C. Wei.
+：Charles Shi - Associate
+：Yes, yes.
+：You announced your fab in Arizona, which the technology node will be 5-nanometer.
+：So I'm not going to ask for a specific plan, but do you kind of foresee maybe you want to set up an advanced packaging facility in Arizona in the near future?
+：Jeff Su - Director of IR
+：Right.
+：Mark Liu - Chairman
+：This is Mark, Charles.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one, we have Andrew Lu from Sinolink Securities.
+：Andrew Lu - Semiconductor Analyst
+：Can you hear me?
+：Jeff Su - Director of IR
+：Yes.
+：Andrew Lu - Semiconductor Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Andrew, you have a very good observation and you calculate that, yes, about 3 to 4 months is a delay as compared with 5-nanometer.
+：Jeff Su - Director of IR
+：Okay.
+：Andrew Lu - Semiconductor Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Andrew, this is C. C. Wei again.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one, we have Martin Lau from FSSA.
+：Martin Lau - Managing Partner of FSSA Investment Managers
+：The first question relates to politics.
+：And also, are your customers concerned when COVID happened in Taiwan, when China from time to time threatened a war against Taiwan?
+：Jeff Su - Director of IR
+：Okay.
+：And do our customers have concerns on things such as the recent increase in COVID or the threat of invasion from China?
+：Mark Liu - Chairman
+：Martin, this is Mark.
+：The reason -- you know this could be political in the beginning.
+：In a global sense, the geopolitical development is continuing.
+：So that also prompted the talk I have earlier -- given earlier that the global manufacturing footprint may need to do an adjustment for our customers.
+：As to the invasion of China, let me tell you, nobody -- I mean, everybody wants to have a peaceful Taiwan Strait.
+：Jeff Su - Director of IR
+：Thank you.
+：Martin Lau - Managing Partner of FSSA Investment Managers
+：Yes, yes.
+：As you go for this global manufacturing, do you -- can you talk about how you are changing, say, for example, your talent acquisition?
+：And also maybe on the Board, I mean, because when I look at the Board, it remains largely Taiwanese.
+：Jeff Su - Director of IR
+：Okay.
+：And his secondary question is also on the Board.
+：Mark Liu - Chairman
+：The question about talent.
+：In the U.S. and also President Biden talked about semiconductor human infrastructure, that is to develop the human talent in semiconductor through the vast investment of the R&D.
+：As far as the Board member, yes, Delta, Yancei has joined a year ago.
+：We invited chair -- Board members upon they have a very strong knowledge and experience on the corporate governance.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Yes.
+：Krish Sankar - MD & Senior Research Analyst
+：I had two of them.
+：Jeff Su - Director of IR
+：Okay.
+：Mark Liu - Chairman
+：Okay, Chris.
+：Krish Sankar - MD & Senior Research Analyst
+：Got it.
+：Jeff Su - Director of IR
+：So he wants -- Krish is asking how much will we invest in Arizona over the next 3 years.
+：Wendell Huang - VP & CFO
+：Yes, $12 billion.
+：Jeff Su - Director of IR
+：Next 3.
+：Wendell Huang - VP & CFO
+：Next 3.
+：Mark Liu - Chairman
+：Close to.
+：Wendell Huang - VP & CFO
+：Well, basically, is next 3 years is about $8 billion.
+：Krish Sankar - MD & Senior Research Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - CEO
+：Krish, I think I have mentioned that automotive MCU is the biggest one that we have and it's in 55-, 40- and 28-nanometer with the majority still in 55 and 40.
+：Jeff Su - Director of IR
+：Thank you, C.C. Thank you, Krish.
+：Before we conclude today's conference, please be advised that the replay of the conference will be accessible within 4 hours from now.
+：So thank you for joining us today.
+：
+：Jeff Su - Director of IR
+：（外語）大家下午好。
+：為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 通過現場音頻網絡直播主持我們的收益電話會議，您還可以在該網站下載收益發布材料。
+：今天活動的形式如下：首先，台積電副總裁兼首席財務官黃文德先生將總結我們在 2021 年第二季度的運營情況，然後是我們對 2021 年第三季度的指導。
+：像往常一樣，我想提醒大家，今天的討論可能包含具有重大風險和不確定性的前瞻性陳述，這可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。
+：現在我想把電話轉給台積電的首席財務官黃文德先生，以獲取運營摘要和當前季度的指導。
+：Wendell Huang - VP & CFO
+：謝謝你，傑夫。
+：毛利率環比下降 2.4 個百分點至 50%，主要是由於 N5 稀釋、成本改善速度放緩以及沒有積極的庫存重估。
+：總營業費用微增14.7億元新台幣。
+：總體而言，我們第二季度每股收益為 5.18 新台幣，ROE 為 27.3%。
+：讓我們繼續通過技術獲得收入。
+：繼續按平台貢獻收入。
+：轉到資產負債表。
+：負債方面，流動負債減少140億新台幣，主要是因應計負債及其他減少230億新台幣，部分被應付股息增加60億新台幣所抵銷。
+：長期有息債務增加了 1,340 億新台幣，主要是因為我們在本季度籌集了 1,370 億新台幣的公司債券。
+：關於財務比率。
+：現在讓我對現金流和資本支出發表一些評論。
+：以美元計算，我們第二季度的資本支出總額為 59.7 億美元。
+：我已經完成了我的財務摘要。
+：基於1美元兌27.9新台幣的匯率假設，毛利率預計在49.5%至51.5%之間，營業利潤率在38.5%至40.5%之間。
+：我的財務報告到此結束。
+：C. C. Wei - CEO
+：謝謝你，溫德爾。
+：COVID-19 還從根本上加速了數字化轉型，使半導體在人們的生活中更加普遍和重要。
+：我們現在預計，以美元計算，我們從 2020 年到 2025 年的長期收入複合年增長率將接近我們 10% 至 15% 複合年增長率範圍的高端。
+：在短期內，我們繼續觀察到由確保供應安全的需要驅動的供應鏈的短期失衡，以及長期需求的結構性增長。
+：對於 2021 年全年，我們現在預測不包括內存的整個半導體市場將增長約 17%，而代工行業的增長預計約為 20%。
+：我們現在預計 - 對於台積電，我們有信心能夠超越代工收入增長，並在 2021 年以美元計算增長超過 20%。
+：為了應對長期市場需求的結構性增長，台積電正在與我們的客戶密切合作，規劃我們的產能並投資於領先和專業技術，以支持他們的需求。
+：為了確保從投資中獲得適當的回報，定價和成本都很重要。
+：因此，我們正在鞏固我們的晶圓定價。
+：接下來，讓我談談汽車供應更新。
+：從芯片生產到汽車生產，至少需要6個月的時間才能到達汽車原始設備製造商，中間有幾層供應商。
+：通過採取這些措施，我們預計從本季度開始，台積電客戶的半導體汽車零部件短缺將大大減少。
+：現在讓我談談N5和N4的進展。
+：為了進一步增強我們的 5 納米系列在下一代 5 納米產品中的性能、功率和密度改進，我們引入了 N4 技術，這是從 N5 直接遷移而來的具有類似設計規則的技術。
+：最後說一下N3的狀態。
+：預計2021年風險投產，2022年下半年投產。
+：憑藉我們的技術領先地位和強勁的客戶需求，我們有信心 N5 和 N3 都將成為台積電的大型和持久節點，並成為我們長期增長的重要驅動力。
+：現在讓我把麥克風交給溫德爾。
+：Wendell Huang - VP & CFO
+：謝謝你，C.C.讓我首先對我們的近期需求和庫存發表一些評論。
+：進入 2021 年第三季度。
+：在庫存方面，我們預計我們的無晶圓廠客戶的整體庫存將在 21 年第二季度以健康的水平退出。
+：接下來，讓我談談我們的盈利能力。
+：換句話說，如果匯率維持在 1 美元兌 28.4 新台幣，我們第二季度的毛利率將是 50.5%。
+：儘管折舊成本快速上升且外匯匯率不利，但我們能夠在第二季度和第三季度將毛利率保持在 50% 以上。
+：我們的長期財務目標保持不變。
+：現在讓我談談我們的現金分紅政策。
+：現在讓我把麥克風交給我們的主席馬克。
+：Mark Liu - Chairman
+：謝謝你。
+：在我們的資本投資中，我們作為台積電管理層的責任是為了公司和客戶的利益做出最佳決策。
+：近年來，隨著對半導體基礎設施安全的需求不斷增加，我們正在擴大我們的全球製造足跡，以維持和增強我們的競爭優勢，並在新的地緣政治環境中更好地為我們的客戶服務。
+：在台灣，我們正在台南科學園建設 N5 和 N3 的產能。
+：在美國，我們正在增加我們在亞利桑那州的先進 12 英寸半導體晶圓廠的影響力，並且進展順利，符合我們的計劃。
+：第一批美國聘請的工程師於 4 月下旬抵達台灣接受 5 納米技術培訓。
+：我們的客戶歡迎我們在美國建設產能，並承諾提供強有力的支持和業務承諾。
+：在中國，由於我們在南京的晶圓廠建設已於 2017 年完成，我們已在 2020 年第三季度完成第一階段的量產，目前 16 納米技術的產能達到每月 25,000 片。
+：從長遠來看，我們預測 28 納米將是我們嵌入式存儲器應用的最佳選擇，我們對 28 納米的結構性需求將得到多種專業技術的大力支持。
+：我們的全球製造擴張戰略基於客戶需求、商機、運營效率和成本經濟考慮。
+：通過採取這些措施，我們相信擴大我們的全球製造足跡將使我們能夠接觸到全球人才，更好地滿足客戶的需求，從我們的投資中獲得適當的回報，並為我們的股東帶來長期的盈利增長。
+：感謝您的關注。
+：Jeff Su - Director of IR
+：謝謝主席。
+：Operator
+：是的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：也許我的第一個問題會集中在半導體供需上。
+：您能否談談您預計供需何時恢復平衡？
+：Jeff Su - Director of IR
+：好的。
+：好的。
+：C. C. Wei - CEO
+：好吧，Gokul，讓我回答你的問題。
+：我們不排除未來庫存調整的可能性，但我們預計我們的產能將在今年全年保持緊張，並至少延續到 2022 年。
+：Jeff Su - Director of IR
+：Gokul，這是否解決了你的第一個問題？
+：好的。
+：Operator
+：是的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：我想問一個關於每個晶體管成本趨勢的問題。
+：對於客戶遷移的動機，在我們的功率性能密度和成本與日益尋求後端系統級集成之間如何轉變？
+：Jeff Su - Director of IR
+：好的。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的，對，在功率性能密度與成本以及後端集成之間。
+：Jeff Su - Director of IR
+：好的。
+：Mark Liu - Chairman
+：蘭迪。
+：所有這些創新相結合，為我們的客戶提供價值，以提高系統性能和系統的電源效率。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：展望明年，如果 3 納米技術在今年晚些時候實現增長，我們是否會看到一個有利的盈利點，因為您擁有更成熟的 5 納米技術，但還沒有新的節點?
+：Wendell Huang - VP & CFO
+：好的。
+：現在我們也預計 N5 和之前的節點一樣能夠達到——利潤率將在大約 7 到 8 個季度內達到公司平均水平。
+：關於 2022 年，現在談論它還為時過早。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：是的。
+：Bruce Lu - Research Analyst
+：我認為您的很多客戶都喜歡不同的供應鏈管理政策。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Bruce Lu - Research Analyst
+：當然。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：好吧，讓我再回答一次。
+：Jeff Su - Director of IR
+：好的。
+：Bruce Lu - Research Analyst
+：我們能以某種方式獲得一些特定的數字嗎？
+：C. C. Wei - CEO
+：我們不能非常準確地預測未來，對吧？
+：Jeff Su - Director of IR
+：謝謝你，布魯斯。
+：Operator
+：下一個問題來自摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：是的，讓我問我的第二個問題。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：好的。
+：如何規劃我們的支持能力？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：所以也許只是一個後續行動。
+：Jeff Su - Director of IR
+：因此，Gokul 詢問我們是否需要 IDM 客戶而不是無晶圓廠客戶提供更長期的保證。
+：C. C. Wei - CEO
+：我們不會專門針對某個客戶發表評論，好嗎？
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位要提問的是來自摩根士丹利的 Charlie Chan。
+：Charlie Chan - Technology Analyst
+：首先感謝台積電向台灣捐贈疫苗。
+：我的問題仍然是你的毛利率趨勢。
+：該公司是否仍然相信 3D 封裝仍能超越晶圓業務，以及它們是否會造成利潤稀釋。
+：Jeff Su - Director of IR
+：好的。
+：然後是與我們的整體業務相比，我們的 3D IC 業務的前景。
+：Wendell Huang - VP & CFO
+：好的，查理。
+：就收入百分比而言，我們預計後端服務將占我們今年總收入的 8% 左右。
+：Jeff Su - Director of IR
+：好的。
+：Charlie Chan - Technology Analyst
+：是的，我願意。
+：如果是，你認為你有壟斷地位，為什麼台積電不能收取更高的晶圓價格來彌補資本支出強度的增加？
+：最後，如果公司需要在利潤率可持續性和市場份額之間做出選擇，你的選擇是什麼？
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：查理，讓我來回答這個問題。
+：而且離你說的還很遠，我們試圖討價還價。
+：展望未來，我們將繼續我們的實踐，盡力傾聽我們的客戶，成長，我們希望獲得適當的回報。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一個提問的人是瑞銀的尼古拉斯·高多伊斯（Nicolas Gaudois）。
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：早些時候，您提到您在南京以每月約 16,000 至 15,000 片晶圓的方式擴展 28 納米的產能。
+：Jeff Su - Director of IR
+：好的，尼克，讓我試著總結一下你的第一個問題。
+：Mark Liu - Chairman
+：好的。
+：我們預計這種結構性需求將持續下去。
+：Jeff Su - Director of IR
+：好的。
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：是的。
+：Mark Liu - Chairman
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一個要提問的是花旗集團的Roland Shu。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：我的第一個問題是關於你們日本研發中心的問題。
+：另外，您是否計劃有一天在日本開始 3D IC 封裝量產？
+：Jeff Su - Director of IR
+：好的。
+：還有，我們是否會在日本建立一個封裝——3D IC封裝集成設施。
+：C. C. Wei - CEO
+：好的。
+：我們有在日本量產 3D IC 的計劃嗎？
+：Jeff Su - Director of IR
+：我們會考慮...
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：晶圓廠怎麼樣，是的。
+：C. C. Wei - CEO
+：晶圓廠，我們是——實際上，讓我說我們是——我們不排除任何可能性。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Mark Liu - Chairman
+：好的。
+：我們 - 兩黨對此的支持是為了為在美國的半導體工廠投資創造一個公平的競爭環境，以便在美國有一個更新的工廠行業當然，它在運營中的表現如何公司把經營做好。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：那麼其他公司的定價呢？
+：Mark Liu - Chairman
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位，我們有來自凱基的 Laura Chen。
+：Laura Chen - Research Analyst
+：你能聽到我嗎？
+：Jeff Su - Director of IR
+：是的，我們可以聽到你的聲音，勞拉。
+：Laura Chen - Research Analyst
+：首先，我只想問一下我們的全球擴張計劃。
+：Jeff Su - Director of IR
+：好的，勞拉，讓我總結一下你的問題。
+：Laura Chen - Research Analyst
+：是的。
+：Mark Liu - Chairman
+：是的。
+：Laura Chen - Research Analyst
+：好的，很清楚。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：好吧，勞拉，讓我來回答這個問題。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位，我們有來自 Arete Research 的 Brett Simpson。
+：Brett Simpson - Senior Analyst
+：我有一個關於毛利率的問題。
+：Jeff Su - Director of IR
+：好的。
+：Brett Simpson - Senior Analyst
+：是的。
+：Wendell Huang - VP & CFO
+：正確的。
+：去年，美元兌新台幣的平均匯率為 29.43 美元。
+：從長遠來看，我們正在進行的投資是為了未來的業務增長。
+：Brett Simpson - Senior Analyst
+：好的。
+：從長遠來看，我們如何看待中國在您的業務中的擴張？
+：Jeff Su - Director of IR
+：好的。
+：然後他問了一個更長遠的問題，那就是我們在未來幾年應該如何看待我們的中國業務？
+：C. C. Wei - CEO
+：好吧，布雷特，讓我總結一下。
+：Jeff Su - Director of IR
+：還有，布雷特關於中國從第一季度的 6% 提高到第二季度的 11% 的問題。
+：Wendell Huang - VP & CFO
+：那是因為主要是 HPC 平台。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位，我們有來自 Needham & Company 的 Charles Shi。
+：Charles Shi - Associate
+：你們能聽到我嗎？
+：Jeff Su - Director of IR
+：是的，我們可以聽到你的聲音，查爾斯。
+：Charles Shi - Associate
+：所以我想問的第一個問題真的是關於你們——採用你們最前沿的節點流程。
+：所以問題真的是關於 3 納米，我們距離量產還有一年左右的時間。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：查爾斯，我是 C.C.魏。
+：Charles Shi - Associate
+：是的是的。
+：您宣布了您在亞利桑那州的晶圓廠，其技術節點將是 5 納米。
+：所以我不會要求具體的計劃，但你有沒有預見到你可能想在不久的將來在亞利桑那州建立一個先進的封裝設施？
+：Jeff Su - Director of IR
+：正確的。
+：Mark Liu - Chairman
+：這是馬克，查爾斯。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位是國金證券的 Andrew Lu。
+：Andrew Lu - Semiconductor Analyst
+：你能聽到我嗎？
+：Jeff Su - Director of IR
+：是的。
+：Andrew Lu - Semiconductor Analyst
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：安德魯，你有一個很好的觀察，你計算出，是的，與 5 納米相比，大約 3 到 4 個月是一個延遲。
+：Jeff Su - Director of IR
+：好的。
+：Andrew Lu - Semiconductor Analyst
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：安德魯，我又是 C. C. Wei。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位是來自 FSSA 的 Martin Lau。
+：Martin Lau - Managing Partner of FSSA Investment Managers
+：第一個問題與政治有關。
+：另外，當台灣發生新冠肺炎，中國不時威脅對台灣開戰時，您的客戶是否擔心？
+：Jeff Su - Director of IR
+：好的。
+：我們的客戶是否對最近的 COVID 增加或來自中國的入侵威脅等問題感到擔憂？
+：Mark Liu - Chairman
+：馬丁，這是馬克。
+：原因——你知道這在一開始可能是政治性的。
+：在全球範圍內，地緣政治的發展仍在繼續。
+：因此，這也促使了我之前的談話——之前考慮到全球製造足跡可能需要為我們的客戶進行調整。
+：至於入侵中國，我告訴你，沒有人——我的意思是，每個人都希望有一個和平的台海。
+：Jeff Su - Director of IR
+：謝謝你。
+：Martin Lau - Managing Partner of FSSA Investment Managers
+：是的是的。
+：當你走向全球製造業時，你能不能談談你是如何改變的，比如你的人才招聘？
+：我的意思是，也許在董事會上，因為當我查看董事會時，它仍然主要是台灣人。
+：Jeff Su - Director of IR
+：好的。
+：他的第二個問題也在董事會上。
+：Mark Liu - Chairman
+：關於天賦的問題。
+：在美國，拜登總統也談到了半導體人力基礎設施，即通過大量的研發投資來培養半導體人才。
+：至於董事會成員，是的，Delta，Yancei 一年前加入了。
+：我們邀請了主席——董事會成員，因為他們對公司治理有非常豐富的知識和經驗。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：是的。
+：Krish Sankar - MD & Senior Research Analyst
+：我有兩個。
+：Jeff Su - Director of IR
+：好的。
+：Mark Liu - Chairman
+：好的，克里斯。
+：Krish Sankar - MD & Senior Research Analyst
+：知道了。
+：Jeff Su - Director of IR
+：所以他想要—— Krish 詢問我們在未來 3 年將在亞利桑那州投資多少。
+：Wendell Huang - VP & CFO
+：是的，120 億美元。
+：Jeff Su - Director of IR
+：接下來 3。
+：Wendell Huang - VP & CFO
+：接下來 3。
+：Mark Liu - Chairman
+：相近。
+：Wendell Huang - VP & CFO
+：嗯，基本上，未來 3 年大約是 80 億美元。
+：Krish Sankar - MD & Senior Research Analyst
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - CEO
+：Krish，我想我已經提到汽車 MCU 是我們擁有的最大的一個，它採用 55 納米、40 納米和 28 納米，其中大多數仍然是 55 和 40 納米。
+：Jeff Su - Director of IR
+：謝謝你，C.C.謝謝你，克里希。
+：在我們結束今天的會議之前，請注意，從現在起 4 小時內將可以看到會議的重播。
+：所以，感謝您今天加入我們。
+：

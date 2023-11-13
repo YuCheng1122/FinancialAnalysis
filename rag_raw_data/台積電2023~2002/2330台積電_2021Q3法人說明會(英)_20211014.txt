@@ -1,0 +1,678 @@
+頁面標題: 	台積電 ADR (TSM) 2021Q3電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Director of IR
+：(foreign language) Good afternoon, everyone, and welcome to TSMC's Third Quarter 2021 Earnings Conference Call.
+：To prevent the spread of COVID-19, TSMC is hosting our earnings conference call via live audio webcast through the company's website at www.tsmc.com, where you can also download the earnings release materials.
+：The format for today's event will be as follows: first, TSMC's Vice President and CFO, Mr. Wendell Huang, will summarize our operations in the third quarter 2021 followed by our guidance for the fourth quarter 2021.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties which could cause actual results to differ materially from those contained in the forward-looking statements.
+：And now I would like to turn the call over to TSMC's CFO, Mr. Wendell Huang, for the summary of operations and the current quarter guidance.
+：Wendell Huang - VP & CFO
+：Thank you, Jeff.
+：Gross margin increased 1.3 percentage points sequentially to 51.3%, mainly due to the improvement in back-end profitability and a more favorable technology mix.
+：Now let's move on to the revenue by technology.
+：Now moving on to revenue contribution by platform.
+：Moving on to the balance sheet.
+：Long-term interest-bearing debt increased by TWD 50 billion mainly as we raised TWD 49 billion corporate bonds during the quarter.
+：On financial ratios, accounts receivable turnover days decreased 2 days to 40 days while days of inventory remained at 85 days.
+：Now let me make a few comments on cash flow and CapEx.
+：I've finished my financial summary.
+：On July 12, we announced we have completed the purchase of 5 million doses of vaccine as part of our efforts to help fight against COVID-19 pandemic in Taiwan.
+：This concludes my financial presentation.
+：Now let me turn to our key messages.
+：Every year, our CapEx is spent in anticipation of the growth that will follow in future years.
+：Next, let me talk about our profitability.
+：The midpoint of our fourth quarter gross margin guidance also implies that our full year 2021 gross margin is expected to be higher than 50%, despite the rapidly rising depreciation cost, the dilution from N5 ramp and the unfavorable foreign exchange rate in 2021 as compared to 2020.
+：As we have discussed before, 6 factors determine TSMC's profitability: leadership technology development and ramp-up; pricing; cost; capacity utilization; technology mix; and foreign exchange rate, which is not controllable.
+：Now let me turn the microphone over to C.C.
+：C. C. Wei - Vice Chairman & CEO
+：Thank you, Wendell.
+：Moving into fourth quarter 2021.
+：On the inventory front, we continue to expect our customers and the supply chain to gradually prepare a higher level of inventory in the second half of this year as compared to the historical seasonal level.
+：In the near term, we continue to observe short-term imbalances due to disruptions in the supply chain brought about by COVID-19.
+：While the short-term imbalances may or may not persist, we believe our technology leadership will enable TSMC to capture the strong demand for our advanced and specialty technologies, and we expect our capacity to remain tight in 2021 and throughout 2022.
+：Next, let me talk about TSMC's long-term growth driver and return.
+：COVID-19 has also fundamentally accelerated the digital transformation, making semiconductors more pervasive and essential in people's lives.
+：To address the structural increase in the long-term market demand profile, TSMC is working closely with our customers to plan our capacity and investing in leading-edge and specialty technologies to support their demand.
+：Our capital investment decisions are based on 4 disciplines: technology leadership, flexible and responsive manufacturing, retaining customer's trust and earning the proper return.
+：As we continue to work closely with our customers to support their growth, our pricing strategy will remain strategic, not opportunistic, to reflect our value creation.
+：Even as we shoulder a greater burden of the investment for the industry, by taking such actions, we believe we can achieve a proper return that enables us to invest to support our customers' growth and deliver long-term profitable growth with 50% and higher gross margin for our shareholders.
+：Now let me talk about our Japan fab plan.
+：Our global manufacturing expansion strategy is based on customers' needs, business opportunities, operating efficiency and cost economic considerations.
+：We have received a strong commitment to support this project from both our customers and the Japanese government.
+：We believe the expansion of our global manufacturing footprint will enable us to better serve our customers' need and reach global talent while earning the proper return from our investments and deliver long-term profitable growth for our shareholders.
+：Finally, I'll talk about the N3 and N3E status.
+：We also introduced N3E as an extension of our N3 family.
+：Our 3-nanometer technology will be the most advanced foundry technology in both PPA and transistor technology when it is introduced.
+：This concludes our key message.
+：Jeff Su - Director of IR
+：Thank you, C.C. This concludes our prepared statements.
+：Operator
+：The first one to ask questions, Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Congrats on the good results.
+：And where does TSMC see itself from a process technology leadership perspective in the next 3 to 5 years?
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：So that's, again, let me conclude in 1 sentence we'll become very competitive and we are confident that our technology leadership will be maintained.
+：Jeff Su - Director of IR
+：Okay.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Yes.
+：And if we see that upside in CapEx, are we still looking at the high end of 10% to 15% growth CAGR?
+：Jeff Su - Director of IR
+：Okay, Gokul.
+：Wendell Huang - VP & CFO
+：Okay, Gokul.
+：Every year, our CapEx is spent in anticipation of the growth that will follow in future years.
+：Now in terms of our revenue CAGR, we're not planning to make any changes at this moment.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask questions, Bruce Lu from Goldman Sachs.
+：Bruce Lu - Research Analyst
+：I think my first question is that 80% of TSMC's CapEx is focused on advanced node capacity expansion.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay.
+：Jeff Su - Director of IR
+：Okay, okay.
+：Bruce Lu - Research Analyst
+：Yes.
+：And can you try to tell the investor what's the discrepancy?
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Okay, Bruce.
+：And even there's a correction to occur, we believe it could be less volatile for TSMC than previous downturn as our underlying structural megatrend of 5G-related and HPC applications, and actually the increasing silicon content, in addition to the unit growth, in the end devices will continue.
+：And again, with our technology leadership, we are better positioned to capture the mid- to long-term growth opportunities.
+：Jeff Su - Director of IR
+：Thank you, Bruce.
+：Operator
+：Next one, Randy Abrams, Credit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：I wanted to ask, probably for Wendell, a few questions on the margins.
+：And then within margin, if you can update us on the inefficiencies you had operating at a high level, if you've worked that out.
+：Jeff Su - Director of IR
+：Okay.
+：And also that last time, we had talked about sort of running at a high level of utilization and certain inefficiencies.
+：Wendell Huang - VP & CFO
+：Okay.
+：For the margin, how many percentage points over 50%?
+：Jeff Su - Director of IR
+：Randy also asking about inefficiencies.
+：Wendell Huang - VP & CFO
+：The utilization continues to be pretty high.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：And then the second question I have is on the capital intensity.
+：And do you see that continuing to accelerate up or actions you're taking to keep it more stable after the increase we've seen in the past few years?
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Well, Randy, I -- what I can share with you is that CapEx per K for advanced -- more and more advanced technology is normally higher.
+：Jeff Su - Director of IR
+：Okay, Randy?
+：Operator
+：Next one to ask questions, Brett Simpson from Arete Research.
+：Brett Simpson - Senior Analyst
+：Yes.
+：And also, just in terms of the cost, there's a lot of talk about cost rising above expectations for N3 as you add more EUV layers.
+：Jeff Su - Director of IR
+：Okay, Brett.
+：Brett Simpson - Senior Analyst
+：That's right.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：But then, the ramp-up is very similar to the previous node.
+：Brett Simpson - Senior Analyst
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：That's right.
+：Jeff Su - Director of IR
+：Yes, Brett.
+：Brett Simpson - Senior Analyst
+：Okay.
+：And then in terms of looking at the 28-nanometer node, there's a lot of capacity being expanded at the moment.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask questions, Roland Shu Citigroup.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：So my first question is, you have a global manufacturing expansion strategy to build more fab overseas going forward.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay, Roland, let me answer these questions first.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay.
+：Jeff Su - Director of IR
+：Okay, Roland.
+：Wendell Huang - VP & CFO
+：Okay.
+：And secondly, we are going to use more green energy, which is the -- which will emit the most part of the carbon.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：No.
+：Jeff Su - Director of IR
+：Right.
+：Wendell Huang - VP & CFO
+：Yes.
+：Jeff Su - Director of IR
+：I think when -- sorry.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask question, Charlie Chan from Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：So my question -- first question is about the chip shortage situation.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Yes.
+：But let me say that TSMC's participation in the global automotive IC market is only about 15%.
+：And we also believe the wafer supply shortage is greatly reduced for our automotive customers, starting probably in third quarter.
+：Charlie Chan - Technology Analyst
+：It's super helpful.
+：And I know you don't want to give the next year guidance, right?
+：Jeff Su - Director of IR
+：Okay.
+：Charlie Chan - Technology Analyst
+：Yes.
+：C. C. Wei - Vice Chairman & CEO
+：Charlie.
+：As for the return, let me emphasize it again.
+：Charlie Chan - Technology Analyst
+：Okay.
+：Wendell Huang - VP & CFO
+：Right.
+：Jeff Su - Director of IR
+：Thank you, Charlie.
+：Operator
+：Right now, we have Nick Gaudois from UBS.
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay, Nick.
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：Right.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：There's a difference.
+：Jeff Su - Director of IR
+：Thank you, Nick.
+：Operator
+：Next one, we have Laura Chen, KGI.
+：Laura Chen - Research Analyst
+：I think we are talking about seeing the solid demand across the board, thanks to TSMC's strong position and technology.
+：And also, do you have any idea or preliminary projection for the 5G smartphone into next year?
+：Jeff Su - Director of IR
+：Okay, Laura.
+：Laura Chen - Research Analyst
+：Yes.
+：Wendell Huang - VP & CFO
+：Okay.
+：Laura Chen - Research Analyst
+：Right.
+：Wendell Huang - VP & CFO
+：We'll update you about the information in January.
+：Laura Chen - Research Analyst
+：And also, my second question is also regarding our CapEx intensity.
+：So can we expect TSMC will start to bear fruit like our previous intensity -- CapEx intensity hike back in 2011, and thus, we will maintain the high CAGR growth going forward?
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay.
+：And we're entering into a higher-growth period because of the industry megatrends of 5G and HPC applications plus the silicon content increase.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Next one to ask questions, Sebastian Hou, Neuberger Berman.
+：Sebastian Hou
+：I only have one.
+：Jeff Su - Director of IR
+：Okay, Sebastian.
+：Wendell Huang - VP & CFO
+：Okay.
+：Sebastian Hou
+：Got it.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Sebastian, this is C.C. Wei.
+：This is a onetime or this is not?
+：Sebastian Hou
+：Got it.
+：C. C. Wei - Vice Chairman & CEO
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：The next one to ask questions, Mehdi Hosseini, Susquehanna International.
+：Mehdi Hosseini - Senior Analyst
+：I want to go back to your comments on N3 and N3 plus.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me answer that question.
+：Mehdi Hosseini - Senior Analyst
+：Okay.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Okay, Mehdi, let me answer these questions.
+：Jeff Su - Director of IR
+：Okay, thank you, Mehdi.
+：Operator
+：The next one will be Rick Hsu from Daiwa Capital Market.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：This is Rick.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Rick, I said we do not rule out the possibility.
+：It's not for the semiconductor industry.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes.
+：Jeff Su - Director of IR
+：Okay.
+：C. C. Wei - Vice Chairman & CEO
+：Well, I don't think that we can have any more information to share with you as we move from N3 to go to the next more advanced node.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Now the one who's going to ask question is Krish Sankar, Cowen and Company.
+：Krish Sankar - MD & Senior Research Analyst
+：I just wanted to follow up.
+：Jeff Su - Director of IR
+：Okay, Krish.
+：C. C. Wei - Vice Chairman & CEO
+：Well, let me answer the question.
+：And we say it will be continued for a period of time.
+：Krish Sankar - MD & Senior Research Analyst
+：Got it.
+：Jeff Su - Director of IR
+：Okay?
+：C. C. Wei - Vice Chairman & CEO
+：Both, actually.
+：Jeff Su - Director of IR
+：And then the second part -- or Krish's second question, I should say, is on the gross margin side and also the improved back-end profitability.
+：Wendell Huang - VP & CFO
+：Right.
+：Jeff Su - Director of IR
+：Okay.
+：Operator
+：Yes.
+：Andrew Lu - Semiconductor Analyst
+：C.C., I want to ask.
+：Jeff Su - Director of IR
+：Okay.
+：Andrew Lu - Semiconductor Analyst
+：Yes, correct.
+：C. C. Wei - Vice Chairman & CEO
+：Andrew, let me answer that.
+：Andrew Lu - Semiconductor Analyst
+：So can we say that in the future, we should have a higher percentage of CapEx in terms of total CapEx compared to the past?
+：Jeff Su - Director of IR
+：So Andrew really wants to know, well -- Andrew wants to know will the CapEx spending portion -- proportion of the mature nodes versus leading edge, will we have a higher proportion for the mature nodes in the future years?
+：C. C. Wei - Vice Chairman & CEO
+：Andrew, not yet because we increased our CapEx, right?
+：Andrew Lu - Semiconductor Analyst
+：Yes, yes.
+：Our price for last 3 years, including this year, about 7% to 9%.
+：Jeff Su - Director of IR
+：Okay.
+：Wendell Huang - VP & CFO
+：Andrew, it's too early to comment on 2022.
+：Jeff Su - Director of IR
+：Okay.
+：So thank you for joining us today.
+：
+：Jeff Su - Director of IR
+：（外語）大家下午好，歡迎來到台積電2021年第三季度財報電話會議。
+：為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 通過現場音頻網絡直播主持我們的收益電話會議，您還可以在該網站下載收益發布材料。
+：今天活動的形式如下：首先，台積電副總裁兼首席財務官黃文德先生將總結我們在 2021 年第三季度的運營情況，然後是我們對 2021 年第四季度的指導。
+：像往常一樣，我想提醒大家，今天的討論可能包含前瞻性陳述，這些陳述受到重大風險和不確定性的影響，可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。
+：現在我想把電話轉給台積電的首席財務官黃文德先生，以獲取運營摘要和當前季度的指導。
+：Wendell Huang - VP & CFO
+：謝謝你，傑夫。
+：毛利率環比增長 1.3 個百分點至 51.3%，主要是由於後端盈利能力的改善和更有利的技術組合。
+：現在讓我們繼續討論技術收入。
+：現在轉向平台的收入貢獻。
+：轉到資產負債表。
+：長期有息債務增加了 500 億新台幣，主要是因為我們在本季度籌集了 490 億新台幣的公司債券。
+：財務比率方面，應收賬款周轉天數減少 2 天至 40 天，而存貨天數仍為 85 天。
+：現在讓我對現金流和資本支出發表一些評論。
+：我已經完成了我的財務摘要。
+：7 月 12 日，我們宣布已完成 500 萬劑疫苗的採購，以幫助台灣抗擊 COVID-19 大流行。
+：我的財務報告到此結束。
+：現在讓我談談我們的關鍵信息。
+：每年，我們的資本支出都用於預期未來幾年的增長。
+：接下來，讓我談談我們的盈利能力。
+：我們第四季度毛利率指引的中點還意味著，儘管折舊成本迅速上升、N5 斜坡的稀釋以及 2021 年不利的匯率，但我們 2021 年全年的毛利率預計將高於 50%。 2020 年。
+：正如我們之前所討論的，6 個因素決定了台積電的盈利能力：領先的技術開發和產能提升；價錢;成本;產能利用率；技術組合；和匯率，這是不可控的。
+：現在讓我把麥克風交給 C.C.
+：C. C. Wei - Vice Chairman & CEO
+：謝謝你，溫德爾。
+：進入 2021 年第四季度。
+：在庫存方面，我們繼續預計我們的客戶和供應鏈將在今年下半年逐步準備比歷史季節性水平更高的庫存水平。
+：在短期內，我們繼續觀察到由於 COVID-19 導致供應鏈中斷而導致的短期失衡。
+：雖然短期的失衡可能會或可能不會持續，但我們相信我們的技術領先地位將使台積電能夠捕捉對我們先進和專業技術的強勁需求，我們預計我們的產能將在 2021 年和整個 2022 年保持緊張。
+：接下來說說台積電的長期增長動力和回報。
+：COVID-19 還從根本上加速了數字化轉型，使半導體在人們的生活中更加普遍和重要。
+：為了應對長期市場需求的結構性增長，台積電正與我們的客戶密切合作，規劃我們的產能並投資於領先和專業技術，以支持他們的需求。
+：我們的資本投資決策基於 4 個原則：技術領先、靈活且響應迅速的製造、保持客戶的信任並獲得適當的回報。
+：隨著我們繼續與客戶密切合作以支持他們的增長，我們的定價策略將保持戰略性而非機會主義，以反映我們的價值創造。
+：儘管我們為行業承擔了更大的投資負擔，但通過採取這樣的行動，我們相信我們可以獲得適當的回報，使我們能夠投資支持客戶的增長並實現 50% 或更高的長期盈利增長我們股東的毛利率。
+：現在讓我談談我們的日本工廠計劃。
+：我們的全球製造擴張戰略基於客戶需求、商機、運營效率和成本經濟考慮。
+：我們已經從我們的客戶和日本政府那裡得到了支持這個項目的堅定承諾。
+：我們相信，我們全球製造業務的擴張將使我們能夠更好地滿足客戶的需求並吸引全球人才，同時從我們的投資中獲得適當的回報，並為我們的股東帶來長期的盈利增長。
+：最後說一下N3和N3E的狀態。
+：我們還引入了 N3E 作為 N3 系列的擴展。
+：我們的 3 納米技術在推出時將成為 PPA 和晶體管技術中最先進的代工技術。
+：我們的關鍵信息到此結束。
+：Jeff Su - Director of IR
+：謝謝你，C.C.我們準備好的陳述到此結束。
+：Operator
+：第一個提問的人是摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：恭喜取得好成績。
+：未來 3 到 5 年，台積電從製程技術領先的角度看自己在哪裡？
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：因此，讓我再次用一句話總結我們將變得非常有競爭力，並且我們有信心保持我們的技術領先地位。
+：Jeff Su - Director of IR
+：好的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：是的。
+：如果我們看到資本支出的上升空間，我們是否還在關注 10% 到 15% 的複合年增長率的高端？
+：Jeff Su - Director of IR
+：好的，高庫爾。
+：Wendell Huang - VP & CFO
+：好的，高庫爾。
+：每年，我們的資本支出都用於預期未來幾年的增長。
+：現在就我們的收入複合年增長率而言，我們目前不打算做出任何改變。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位提問的是高盛的 Bruce Lu。
+：Bruce Lu - Research Analyst
+：我想我的第一個問題是，台積電 80% 的資本支出都集中在先進的節點容量擴展上。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的。
+：Jeff Su - Director of IR
+：好吧好吧。
+：Bruce Lu - Research Analyst
+：是的。
+：你能試著告訴投資者差異是什麼嗎？
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好的，布魯斯。
+：即使出現修正，我們認為台積電的波動性可能比之前的低迷要小，因為我們的 5G 相關和 HPC 應用的潛在結構性大趨勢，實際上除了單位增長外，矽含量的增加最終設備將繼續。
+：同樣，憑藉我們的技術領先地位，我們能夠更好地把握中長期增長機會。
+：Jeff Su - Director of IR
+：謝謝你，布魯斯。
+：Operator
+：下一位，Randy Abrams，瑞士信貸。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：我想問一些邊緣問題，可能是為了溫德爾。
+：然後在保證金範圍內，如果您可以向我們更新您在高水平上運營的低效率，如果您已經解決了這個問題。
+：Jeff Su - Director of IR
+：好的。
+：上次，我們也談到了在高利用率和某些低效率下運行的問題。
+：Wendell Huang - VP & CFO
+：好的。
+：對於利潤率，超過 50% 多少個百分點？
+：Jeff Su - Director of IR
+：蘭迪還詢問了效率低下的問題。
+：Wendell Huang - VP & CFO
+：利用率仍然很高。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：然後我的第二個問題是關於資本密集度。
+：在過去幾年我們看到的增長之後，您是否看到繼續加速或您正在採取行動使其更加穩定？
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好吧，蘭迪，我——我可以和你分享的是，先進技術的每 K 資本支出——越來越先進的技術通常會更高。
+：Jeff Su - Director of IR
+：好的，蘭迪？
+：Operator
+：下一位要提問的是來自 Arete Research 的 Brett Simpson。
+：Brett Simpson - Senior Analyst
+：是的。
+：而且，就成本而言，隨著您添加更多 EUV 層，有很多關於 N3 成本上升超過預期的討論。
+：Jeff Su - Director of IR
+：好的，布雷特。
+：Brett Simpson - Senior Analyst
+：這是正確的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：但是，加速與前一個節點非常相似。
+：Brett Simpson - Senior Analyst
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：這是正確的。
+：Jeff Su - Director of IR
+：是的，布雷特。
+：Brett Simpson - Senior Analyst
+：好的。
+：然後就 28 納米節點而言，目前有很多容量正在擴展。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位要提問的，是羅蘭舒花旗。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：所以我的第一個問題是，你們有一個全球製造擴張戰略，可以在海外建立更多的晶圓廠。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的，羅蘭，我先回答這些問題。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。
+：Jeff Su - Director of IR
+：好的，羅蘭。
+：Wendell Huang - VP & CFO
+：好的。
+：其次，我們將使用更多的綠色能源，這將排放大部分碳。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：不。
+：Jeff Su - Director of IR
+：正確的。
+：Wendell Huang - VP & CFO
+：是的。
+：Jeff Su - Director of IR
+：我想什麼時候——對不起。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位要提問的是來自摩根士丹利的 Charlie Chan。
+：Charlie Chan - Technology Analyst
+：所以我的問題——第一個問題是關於芯片短缺的情況。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：是的。
+：但我說台積電在全球汽車IC市場的參與度只有15%左右。
+：我們還認為，我們的汽車客戶的晶圓供應短缺情況將大大減少，可能從第三季度開始。
+：Charlie Chan - Technology Analyst
+：這非常有幫助。
+：我知道你不想給明年的指導，對吧？
+：Jeff Su - Director of IR
+：好的。
+：Charlie Chan - Technology Analyst
+：是的。
+：C. C. Wei - Vice Chairman & CEO
+：查理。
+：至於回報，我再強調一遍。
+：Charlie Chan - Technology Analyst
+：好的。
+：Wendell Huang - VP & CFO
+：正確的。
+：Jeff Su - Director of IR
+：謝謝你，查理。
+：Operator
+：現在，我們有來自瑞銀的 Nick Gaudois。
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的，尼克。
+：Nicolas Gaudois - Head of APAC Technology Research, APAC Tech Strategist & Global Sector Strategist
+：正確的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：有區別。
+：Jeff Su - Director of IR
+：謝謝你，尼克。
+：Operator
+：下一位，我們有凱基證券的 Laura Chen。
+：Laura Chen - Research Analyst
+：我認為，由於台積電的強大地位和技術，我們正在談論看到全面穩固的需求。
+：另外，您對明年的 5G 智能手機有什麼想法或初步預測嗎？
+：Jeff Su - Director of IR
+：好的，勞拉。
+：Laura Chen - Research Analyst
+：是的。
+：Wendell Huang - VP & CFO
+：好的。
+：Laura Chen - Research Analyst
+：正確的。
+：Wendell Huang - VP & CFO
+：我們將在一月份向您更新有關信息。
+：Laura Chen - Research Analyst
+：而且，我的第二個問題也是關於我們的資本支出強度。
+：那麼我們是否可以期待台積電會像我們之前的強度一樣開始結出果實——2011 年資本支出強度上調，因此我們將保持未來的高 CAGR 增長？
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的。
+：由於 5G 和 HPC 應用的行業大趨勢以及矽含量的增加，我們正在進入更高的增長期。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位要提問的是 Sebastian Hou，Neuberger Berman。
+：Sebastian Hou
+：我只有一個。
+：Jeff Su - Director of IR
+：好的，塞巴斯蒂安。
+：Wendell Huang - VP & CFO
+：好的。
+：Sebastian Hou
+：知道了。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：塞巴斯蒂安，這是 C.C.魏。
+：這是一次性的還是不是？
+：Sebastian Hou
+：知道了。
+：C. C. Wei - Vice Chairman & CEO
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：下一位提問的是 Susquehanna International 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：我想回到您對 N3 和 N3 plus 的評論。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，讓我來回答這個問題。
+：Mehdi Hosseini - Senior Analyst
+：好的。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：好的，Mehdi，讓我來回答這些問題。
+：Jeff Su - Director of IR
+：好的，謝謝你，邁赫迪。
+：Operator
+：下一位將是來自大和資本市場的 Rick Hsu。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：這是瑞克。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：瑞克，我說我們不排除這種可能性。
+：它不適用於半導體行業。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的。
+：Jeff Su - Director of IR
+：好的。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，當我們從 N3 轉移到下一個更高級的節點時，我認為沒有更多信息可以與您分享。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：現在要提出問題的是 Krish Sankar，Cowen and Company。
+：Krish Sankar - MD & Senior Research Analyst
+：我只是想跟進。
+：Jeff Su - Director of IR
+：好的，克里希。
+：C. C. Wei - Vice Chairman & CEO
+：好吧，讓我來回答這個問題。
+：我們說它會持續一段時間。
+：Krish Sankar - MD & Senior Research Analyst
+：知道了。
+：Jeff Su - Director of IR
+：好的？
+：C. C. Wei - Vice Chairman & CEO
+：實際上，兩者都是。
+：Jeff Su - Director of IR
+：然後第二部分 - 或者 Krish 的第二個問題，我應該說，是毛利率方面以及後端盈利能力的提高。
+：Wendell Huang - VP & CFO
+：正確的。
+：Jeff Su - Director of IR
+：好的。
+：Operator
+：是的。
+：Andrew Lu - Semiconductor Analyst
+：C.C.，我想問。
+：Jeff Su - Director of IR
+：好的。
+：Andrew Lu - Semiconductor Analyst
+：是，對的。
+：C. C. Wei - Vice Chairman & CEO
+：安德魯，讓我回答這個問題。
+：Andrew Lu - Semiconductor Analyst
+：那麼我們是否可以說，與過去相比，我們應該在總資本支出中擁有更高的資本支出百分比？
+：Jeff Su - Director of IR
+：所以安德魯真的很想知道，嗯——安德魯想知道資本支出部分——成熟節點與前沿的比例，未來幾年成熟節點的比例會更高嗎？
+：C. C. Wei - Vice Chairman & CEO
+：安德魯，還不是因為我們增加了資本支出，對吧？
+：Andrew Lu - Semiconductor Analyst
+：是的是的。
+：我們過去3年的價格，包括今年，大約在7%到9%之間。
+：Jeff Su - Director of IR
+：好的。
+：Wendell Huang - VP & CFO
+：安德魯，現在評論 2022 年還為時過早。
+：Jeff Su - Director of IR
+：好的。
+：所以，感謝您今天加入我們。
+：

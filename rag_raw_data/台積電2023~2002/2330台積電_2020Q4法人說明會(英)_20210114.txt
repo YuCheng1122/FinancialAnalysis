@@ -1,0 +1,994 @@
+頁面標題: 	台積電 ADR (TSM) 2020Q4電話會議重點和逐字稿 - 財報狗
+
+：Jeff Su - Director of Investor Relations
+：(foreign language) Good afternoon, everyone, and welcome to TSMC's Fourth Quarter 2020 Earnings Conference Call. This is Jeff Su, TSMC's Director of Investor Relations and your host for today.
+：To prevent the spread of COVID-19, TSMC is hosting our earnings conference call via live audio webcast through the company's website at www.tsmc.com, where you can also download the earnings release materials. (Operator Instructions)
+：The format for today's event will be as follows. First, TSMC's Vice President and CFO, Mr. Wendell Huang, will summarize our operations in the fourth quarter 2020, followed by our guidance for the first quarter 2021. Afterwards, Mr. Huang and TSMC's CEO, Dr. C.C. Wei, will jointly provide the company's key messages. Then TSMC's Chairman, Dr. Mark Liu, will host the Q&A session where all 3 executives will entertain your questions.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties which could cause actual results to differ materially from those contained in the forward-looking statements. Please refer to the safe harbor notice that appears in our press release.
+：And now I would like to turn the call over to TSMC's CFO, Mr. Wendell Huang, for the summary of operations and the current quarter guidance.
+：Wendell Huang - VP & CFO
+：Thank you, Jeff. Happy New Year, everyone. Thank you for joining us today. My presentation will start with financial highlights for the fourth quarter and a recap of full year 2020. After that, I will provide the guidance for the first quarter of 2021.
+：Fourth quarter revenue increased 1.4% sequentially in NT terms or 4.4% in U.S. dollar terms as we saw strong demand for our 5-nanometer technology driven by 5G smartphone launches and HPC-related applications. Gross margin increased 0.6 percentage point sequentially to 54%, mainly thanks to cost improvement, partially offset by the margin dilution from 5-nanometer ramp and an unfavorable exchange rate. Our utilization rate in the fourth quarter was at an extremely high level partially due to more production output, of which some of the wafers will be shipped in the first quarter. Total operating expenses slightly decreased by TWD 2.6 billion. Therefore, operating margins increased by 1.4 percentage points sequentially to 43.5%. Overall, our fourth quarter EPS was TWD 5.51, and ROE was 31.4%.
+：Now let's move on to the revenue by technology. 5-nanometer process technology contributed 20% of wafer revenue in the fourth quarter, while 7-nanometer and 16-nanometer contributed 29% and 13%, respectively. Advanced technologies, which are defined as 16-nanometer and below, accounted for 62% of wafer revenue.
+：On a full year basis, 5-nanometer revenue contribution came in at 8% of 2020 wafer revenue, 7-nanometer was 33%, and 16-nanometer was 17%. Advanced technologies accounted for 58% of total wafer revenue, up from 50% in 2019.
+：Now moving on to the revenue contribution by platform. Smartphone increased 13% quarter-over-quarter to account for 51% of our fourth quarter revenue. HPC decreased 14% to account for 31%. IoT decreased 13% to account for 7%. Automotive increased 27% to account for 3%. Digital consumer electronics increased 29% to account for 4%.
+：On a full year basis, smartphone, HPC and IoT saw strong growth of 23%, 39% and 28%, respectively. DCE also increased 2%, while auto decreased 7% in 2020. Overall, smartphone accounted for 48% of our 2020 revenue, HPC accounted for 33%, and IoT accounted for 8%.
+：Moving on to the balance sheet. We ended the fourth quarter with cash and marketable securities of TWD 791 billion. On the liability side, current liabilities increased by TWD 29 billion mainly due to the increase of TWD 57 billion in accounts payable and the increase of TWD 38 billion in accrued liabilities and others, offset by the decrease of TWD 69 billion in short-term loan. Long-term interest-bearing debt increased by TWD 28 billion mainly as we raised TWD 30.5 billion of corporate bonds during the quarter.
+：On financial ratios, accounts receivable turnover days decreased 1 day to 39 days. Days of inventory increased 15 days to 73 days primarily due to the ramp of leading nodes.
+：Now let me make a few comments on cash flow and CapEx. During the fourth quarter, we generated about TWD 259 billion in cash from operations, spent TWD 89 billion in CapEx and distribution TWD 65 billion for first quarter '20 cash dividend. Short-term loans decreased by TWD 67 billion, while bonds payable increased by TWD 30.5 billion due to the bond issuances. Overall, our cash balance increased TWD 56 billion to TWD 660 billion at the end of the quarter. In U.S. dollar terms, our fourth quarter capital expenditures totaled $3.2 billion.
+：Now let's look at the recap of our performance in 2020. We saw a strong growth in 2020 as our technology leadership position enabled us to capture the industry megatrends of 5G and HPC. Our revenue increased 31.4% in U.S. dollar terms and 25.2% in NT dollar terms to reach TWD 1.34 trillion. Gross margin increased 7.1 percentage points to 53.1% primarily due to a high level of capacity utilization and cost improvement. Operating margin increased 7.5 percentage points to 42.3%. Overall, full year EPS increased 50% to TWD 19.97.
+：On cash flow, we spent TWD 507 billion in CapEx, while we generated TWD 823 billion in operating cash flow and TWD 315 billion in free cash flow. We also paid TWD 259 billion in cash dividends in 2020.
+：I have finished my financial summary. Now let's turn to our first quarter guidance. Based on the current business outlook, we expect our first quarter revenue to be between USD 12.7 billion and USD 13 billion, which represents a 1.3% sequential increase at the midpoint. Based on the exchange rate assumption of USD 1 to TWD 27.95, gross margin is expected to be between 50.5% and 52.5%, operating margin between 39.5% and 41.5%. The sequential decline in first quarter gross margin is mainly due to a slightly lower utilization rate in the first quarter, albeit it is still staying at the high level, as well as an unfavorable foreign exchange rate.
+：Now I would like to talk about the tax rate. We expect our [2021] (corrected by company after the call) tax rate to be in the range of 10% to 11%, and this will be equally applied to all 4 quarters of the year.
+：This concludes my financial presentation.
+：Now I would like to start with the key messages for the quarter. I will start by making some comments on our capital budget in 2020 and 2021. Every year, our CapEx is invested in anticipation of the growth that will follow in the next few years. Our capital investment decisions are based on 4 disciplines: technology leadership; flexible and responsive manufacturing; retaining customers' trust; and earning the proper return.
+：In 2020, we spent USD 17.2 billion to capture the strong demand for our advanced technologies and support our customers' capacity needs. In order to meet the increasing demand for our advanced and specialty technologies and further support our customers' capacity needs, our 2021 capital budget is expected to be between USD 25 billion and USD 28 billion. Out of the $25 billion to $28 billion CapEx for 2021, about 80% of the capital budget will be allocated for advanced process technologies, including 3-nanometer, 5-nanometer and 7-nanometer; about 10% will be spent for advanced packaging and mask making; and about 10% will be spent for specialty technologies.
+：Next, let me talk about our capital intensity outlook. As we have said previously, our long-term capital intensity is in the mid-30s percentage range. However, when we enter a period of higher growth, our CapEx needs to be spent ahead of the revenue growth that will follow, so our capital intensity will be higher. For example, during 2010 to 2014, our CapEx spending increased threefold as compared to the previous few years, and our capital intensity ranged between 38% to 50%. Because of the increased investment, we were able to capture the growth opportunities and deliver about 15% growth CAGR from 2010 to 2015.
+：Today, as we enter another period of higher growth, we believe a higher level of capacity -- of capital intensity is appropriate to capture the future growth opportunities. We now expect a higher growth CAGR in the next few years driven by the industry megatrends of 5G and HPC-related applications, which C.C. will discuss in more detail.
+：We also expect this higher level of capital investment to continue to drive our technology leadership, enable flexible and responsive manufacturing and earn customers' trust. While our leading node capital cost continues to increase due to increasing process complexities, it is expected to be compensated by continuing to sell our value, which includes the value of our technology, service, quality and capacity support, and diligently working on cost improvement. With this level of CapEx spending in 2021, we reiterate that TSMC remains committed to a sustainable cash dividends on both an annual and quarterly basis.
+：Now let me turn the microphone over to C.C.
+：C. C. Wei - CEO
+：Thank you, Wendell. Hi, everyone. This is C.C. Wei. Good afternoon. We hope everybody is staying safe and healthy during this time.
+：Now let me start with our near-term demand and inventory. We concluded our fourth quarter with revenue of TWD 361.5 billion or USD 12.7 billion, which was in line with our guidance, mainly due to strong demand for our 5-nanometer technology driven by 5G smartphone launches and HPC-related applications.
+：Concluding 2020, the semiconductor industry, excluding memory growth, was about 10%, while foundry industry increased about 20% year-over-year. TSMC's revenue grew 31.4% year-over-year in U.S. dollar term.
+：Moving into first quarter 2021. Our business continues to be strong, supported by HPC-related demand, recovery in the automotive segment and a milder smartphone seasonality than in recent years.
+：On the inventory front, our fabless customers' overall inventory was digested throughout the fourth quarter. We now expect it to approach the historical season exiting 2020, better than our forecast 3 months ago. We observed that the supply chain are changing their approaches to inventory management amidst the lingering macro uncertainties. Looking ahead, we expect the supply chain and our customer to prepare a higher level of inventory compared to the historical season level for a longer period of time given the industry's continued need to ensure supply security.
+：Next, let me talk about the automotive supply tightness. The automotive market has been soft since 2018. Entering 2020, COVID-19 further impacted the automotive market. The auto supply chain was affected throughout the year, and our customers continued to decrease their demand in the third quarter. We only began to see sudden recovery in the fourth quarter. However, the automotive supply chain is long and complex, while many of our technology nodes have been tight throughout 2020 due to strong demand from our other customers.
+：Therefore, in the near term, as demand from the automotive supply chain is rebounding, the shortage in automotive supply has become more obvious. In TSMC, this is our top priority, and we are working closely with our automotive customers to resolve the capacity support issues.
+：Now I will talk about our 2021 outlook. For the full year of 2021, we forecast the overall semiconductor market, excluding memory, to grow about 8%, while foundry industry growth is forecast to be about 10%. For TSMC, we are confident we can outperform the foundry revenue growth and grow by mid-teens percentage in 2021 in U.S. dollar term. Our 2021 business will be supported by strong demand for our industry-leading advanced and specialty technologies, where we see stronger interest from all 4 growth platforms, which are smartphone, HPC, automotive and IoT.
+：Next, let me talk about TSMC's long-term growth outlook. We are entering a period of higher growth as a multiyear megatrend of 5G and HPC-related applications are expected to fuel strong demand for our advanced technologies in the next several years. We expect global smartphone units to grow 10% year-over-year in 2021. We forecast the penetration rate for 5G smartphone of the total smartphone market to rise from 18% in 2020 to more than 35% in 2021. We expect the silicon content of a 5G smartphone to continue to increase as compared to a 4G smartphone.
+：We continue to expect faster penetration of 5G smartphone as compared to 4G over the next several years as 5G smartphone benefit from the significant performance, bandwidth and latency improvement of 5G networks to drive more AI applications and more cloud services. We believe 5G is a multiyear megatrend that will enable a world where digital computation is increasingly ubiquitous, which will fuel the growth of all 4 of our growth platforms in the next several years.
+：As we enter the 5G era, a smarter and more intelligent world will require massive increases in computation power and greater need for energy-efficient computing and, therefore, require leading-edge technologies. Thus, HPC is an increasingly important driver of TSMC's long-term growth and the largest contributor in terms of our incremental revenue growth.
+：With our technology leadership, we are well positioned to capture the growth from the favorable industry megatrend. We now expect our long-term revenue growth to be 10% to 15% CAGR from 2020 to 2025 in U.S. dollar terms.
+：Now I will talk about our N3 status. N3 will be another full node stride from our N5 with up to 70% logic density gain, up to 15% performance gain and up to 30% power reduction as compared with 5-nanometer. Our N3 technology will use FinFET transistor structure to deliver the best technology maturity, performance and cost for our customers. Our N3 technology development is on track with good progress. We are seeing a much higher level of customer engagement for both HPC and smartphone application at N3 as compared with N5 and N7 at a similar stage. Risk production is scheduled in 2021, and volume production is targeted in the second half of 2022.
+：Our 3-nanometer technology will be the most advanced foundry technology in both PPA and transistor technology when it is introduced. Thus, we are confident our 3-nanometer will be another large and long-lasting node for TSMC.
+：Finally, I will talk about TSMC 3DFabric. TSMC has developed an industry-leading and comprehensive wafer-level 3D IC technology road map to enhance system-level performance. Our differentiated chiplets and heterogeneous integration technology drive better, power-efficient and smaller-form-factor benefit for our customer while shortening their time to market. This technology is including chip-stacking solution such as SoIC as well as advanced packaging solutions such as InFO and CoWoS. We observed chiplets are becoming an industry trend. We are working with several customers on 3DFabric to enable chiplet architecture.
+：SoIC small volume production is targeted 2022. SoIC is expected to be first adopted by HPC applications, where our bandwidth performance, power efficiency and form factor are aggressively pursued. We expect revenue from our back-end services, which are including both advanced packaging and testing, to grow at the rate higher than corporate average in the next few years.
+：This is concluding our key message. Thank you for your attention.
+：Jeff Su - Director of Investor Relations
+：Thank you, C.C. This concludes our prepared statements. (Operator Instructions) Should you wish to raise your question in Chinese, I will translate into English before our management answers your question. (Operator Instructions)
+：Now let's begin the Q&A session. Operator, please proceed with the first caller on the line.
+：Operator
+：The first one to ask question, Gokul Hariharan from JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：So let me ask a question first on 3-nanometer. Dr. Wei, how should we think about the size of 3-nanometer? What we have seen is over the last 2 years, 28-nanometer was a very big node. 7-manometer came out to be roughly 70% bigger if you think about peak revenue compared to 28-nanometer when you had new applications coming in.
+：How is -- given the big CapEx plan that you're also outlining, should we think that 3-nanometer, once it ramps up fully, would be substantially bigger than 7-nanometer in terms of peak revenues? Just wondering how we should kind of think about the size of this process node.
+：And could you also talk a little bit about the opportunities in HPC? Right now, you are already engaged with multiple HPC customers. But could you talk a little bit about CPU, x86 CPU, obviously, which is something on everybody's mind? Could you talk a little bit about how TSMC would be exposed to this market as well as we go into the 3-nanometer era?
+：Jeff Su - Director of Investor Relations
+：Okay. Gokul, sorry, this is Jeff. Let me please summarize your questions, 2 questions. We'll take them in the -- one by one.
+：Gokul's first question is with regards to 3-nanometer and about the size of our 3-nanometer. He notes that in the past, we have had very big nodes such as 28-nanometer and then 7-nanometer. So Gokul wants to know in terms of the peak revenue contribution, do we expect or should N3 be substantially bigger than N7? That's his first question. Correct?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Yes, especially considering the step-up in CapEx as well.
+：C. C. Wei - CEO
+：Well, Gokul, let me answer your question by saying that we do expect the 3-nanometer will be widely used in HPC-related applications in addition to the smartphones. So with this kind of engagement with our customer, we do expect our revenue will be bigger, certainly. There's no doubt about it. So what is the next question?
+：Jeff Su - Director of Investor Relations
+：And then, Gokul, I think the second part of your question is looking at what are our opportunities in high-performance computing. Gokul notes that we have multiple customers engaged, but in particular, he is asking about the progress or the status of CPU opportunity and what do we see as the drivers of HPC.
+：C. C. Wei - CEO
+：Gokul, we don't specifically name one of our HPC applications such as CPU to say that what is the growth rate. But let me tell you that CPU, networking and AI accelerator will be the main growth area in the HPC applications. Did that answer your question?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Could you be a little bit more specific on x86? And then you already had good success in 7-nanometer penetrating the x86 market. Should we think the x86 market share continues to move up a lot as we get into 3-nanometers?
+：Jeff Su - Director of Investor Relations
+：Okay. So Gokul, I guess the -- your question is really on the x86 and looking at 7-nanometer has done well. As we get into 3-nanometer, will our exposure to x86 continue to increase.
+：C. C. Wei - CEO
+：Again, we don't specifically comment on very specific area. We work with our customers continuously and to supply the very good technology to support their business.
+：Operator
+：Next one to ask questions, Randy Abrams, Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. Yes. I got 2 questions to ask. First, on the -- you talked about the automotive, and I assume also your mature nodes are very tight. You traditionally haven't added that much capacity on mature nodes and 8-inch. Could you discuss within that, because you have some mix of that, how you're seeing a strategy to add capacity for those nodes? And could you also look at auto has been only about 3% of revenue. Should we expect a meaningful pickup in this vertical, both the mature applications and also from new areas like EV and ADAS?
+：Jeff Su - Director of Investor Relations
+：Okay. Randy, let me summarize your question. You're asking first on the automotive side. He notes our comments that automotive supply is tight. Do we expect a pickup in the automotive vertical? And then also in looking at the mature nodes, will auto benefit our mature nodes and then ADAS? And other trends in automotive, how do we see?
+：C. C. Wei - CEO
+：Well, let me say that now we see the automotive industry need a lot of semiconductor components, and that's including the leading-edge technology for the ADAS system and also some of the mature technology for a lot of applications like a sensor, like a power management IC. We do see, right now, it's a little bit shortage on the automotive the mature technology supply. And we are working with customer to mitigate the shortage impact.
+：Jeff Su - Director of Investor Relations
+：And then Randy is also asking second part on our mature nodes, given the tightness, will we consider to add capacity for the mature nodes.
+：C. C. Wei - CEO
+：We always work with our customer to plan our technologies, capacity, all those kind of thing. For mature node, we used to convert some of the large capacity into specialties. Right now, the trend stays the same.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. Great. And my second question is, sorry, 2 parts. I just want to ask on gross margin and inventory. The gross margins you've improved 4 points year-over-year. Part of that is utilization, but depreciation also was up 45% NT dollar [against the] 6 points. So could you discuss if you've had a breakthrough on the cost reduction side and if now -- I think last quarter, you said about 50%. But given what you've seen on cost reduction and coming off 54%, if you could have better confidence on margin could continue to do better.
+：And then I just want to ask a quick on inventory, which is up 15 days, historically, you draw down within the fourth quarter, but maybe the trend-wide inventory was rising into early in the year.
+：Jeff Su - Director of Investor Relations
+：Okay. Randy, let me summarize your questions, 2 parts. First is on the gross margin, he notes that our gross margin improved throughout the year. And Randy wants to know if there is a breakthrough on the cost side, and therefore, the long-term outlook for our gross margin is still 50% or not.
+：Wendell Huang - VP & CFO
+：Right. Randy, this is Wendell. You just mentioned that our depreciation increased 45% year-over-year. I think the number should be 15% year-over-year.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. I was looking at Q4-to-Q4, I think of just the fourth quarter over fourth quarter.
+：Wendell Huang - VP & CFO
+：Right. Right. Now in terms of gross margin in the long term, we believe 50% gross margin is reasonable and achievable. There are 6 factors affecting our profitabilities: the ramp of leading-edge technology, price, cost, mix, utilization and foreign exchange rate. Take foreign exchange rate for example. In 2020, the average dollar against NT rate was TWD 29.43. It is now trading between TWD 27.90 to TWD 28. That is already a 5% appreciation of NT. So every 1% of appreciation of NT will affect our gross margin by 40 basis points.
+：The other thing is the -- in the fourth quarter of last year, as we mentioned, the utilization rate was very high, extremely high. And that's the abnormal level of high utilization rate cannot sustain. Therefore, in this quarter, we believe the utilization rate will come down a little bit, albeit it is still at a very high level. Now every point of utilization rate change will impact the gross margin by 40 basis point.
+：A third example will be the ramp in our leading-edge technologies. We mentioned last time that we expect N5 ramp in 2021 to affect our margins by 2 to 3 percentage point, and we still think that will be the case.
+：So if you take all of those into considerations, we believe 50% gross margin is reasonable and achievable in the long term.
+：Jeff Su - Director of Investor Relations
+：And then Randy had also asked about our days of inventory increasing in fourth quarter.
+：Wendell Huang - VP & CFO
+：Right. Right. And that's partially because some -- as we have a very high utilization in the fourth quarter, but some of the wafers will be shipped in the first quarter as opposed to shipped in the fourth quarter.
+：Jeff Su - Director of Investor Relations
+：Okay. Thank you. Thank you, Randy.
+：Operator
+：Next one, we have Sebastian Hou from CLSA.
+：Sebastian Hou - Research Analyst
+：First question is I want to follow up on the gross margin side. So if I look back in the past 2 quarters, the -- your gross margin actual result turned out to be either at the high end or the -- to the upside to your original guidance, while revenue is much on the high end of the guidance, while the Taiwan dollars continued to appreciate in the second half of last year, so which means that the margin turns out to be better than what you originally guided for 2 quarters consecutively. So my question is whether or not the 1Q outlook margin is too conservative again. And second to that is whether our structural profitability will need to revise up just as our 5-year revenue growth CAGR has just been revised up officially.
+：Jeff Su - Director of Investor Relations
+：All right. Sebastian, let me summarize your first question, your observation that in the past 2 quarters, our gross margin has come in at the high end or slightly above the high end of our guidance, revenue at the high end, and the currency appreciation is there. So Sebastian's question is, first, is the first quarter gross margin guidance too conservative. And what about the outlook for our longer-term structural profitability, does it need to be revised up?
+：Wendell Huang - VP & CFO
+：Okay. Sebastian, if we compare fourth quarter to first quarter, 54% in fourth quarter, and the midterm of our guidance for first quarter is 51.5%. The 2.5 percentage point difference actually mainly comes from the utilization as well as the unfavorable foreign exchange rates. So at this moment, we are still sticking to this guidance, although, obviously, we will work hard to continue to improve the gross margins.
+：As for the long-term gross margin, as I just reported earlier that we are maintaining the 50% gross margin to be reasonable, achievable based on the elements, the 6 factors that I just talked about. Each of those factors will affect our growth -- profitability in the long term.
+：Jeff Su - Director of Investor Relations
+：Okay. Sebastian, do you have a second question?
+：Sebastian Hou - Research Analyst
+：Yes, I do. My second question is on your CapEx outlook. Apparently that at least there's a significant upside surprise to me and, I think, also to the concensus estimate. So the last time, in the comment, you raised CapEx from $10 billion to $12 billion level to the like a $15 billion to $17 billion level, then that resulted in the 30% revenue growth in 2020. And then -- so my question is that I think that CapEx we invest for the future growth, so whether or not this -- another step-up of the CapEx to like -- to $25 billion to $30 billion. This year's will represent a reacceleration of the growth in 2022 or '23.
+：Jeff Su - Director of Investor Relations
+：Okay. So Sebastian's question is looking at our CapEx guidance for this year, $25 billion to $28 billion. It is above his expectations. So he's looking at the last time we have the increase in acceleration to CapEx from $10 billion to $12 billion to $15 billion to $17 billion resulted in us growing 30% this year -- 31% this year. So what is the outlook for our growth in 2022 or the future years?
+：Wendell Huang - VP & CFO
+：Okay. Sebastian, it's too early to talk about -- specifically about 2022. But as C.C. mentioned, in the next 5 years, our target CAGR is between 10% to 15%. So that's already higher than the original target of 5% to 10% CAGR that we used to have before the last conference call. And that's also because of the higher capital investment that we are ready to make to capture the higher growth opportunities underpinned by the multiyear megatrends in the industry.
+：C. C. Wei - CEO
+：Well, let me add something. This is C.C. Wei. This 10% to 15% CAGR is based on a very high number of 2020. So we still forecast 10% to 15% CAGR. That will tell you that how much of CapEx that we need to invest.
+：Jeff Su - Director of Investor Relations
+：Okay. Thank you. Thank you, Sebastian.
+：Operator
+：Next one, we have Bruce Lu from Goldman Sachs.
+：Bruce Lu - Research Analyst
+：I think the big difference this time is that you raised the long-term revenue CAGR from 5% to 10% to 10% to 15%. Can you tell us that in terms of this kind of incremental changes, how much of the growth is coming from HPC? And what are the drivers for that?
+：And in terms of the smartphone growth, I mean the 5G penetration is already like 30-something percent in 2021. Moving forward, how much growth for you is coming from the dollar content growth or the shipment growth? Or can you provide more color on the growth?
+：Jeff Su - Director of Investor Relations
+：Okay. Bruce, so your question is really about our long-term growth outlook with our growth target CAGR of 10% to 15%. Your question basically is by the different platforms such as HPC, what is the growth contribution; and in looking at smartphone, how much is dollar content, how much is unit contribution.
+：C. C. Wei - CEO
+：Well, let me answer the question by, actually, the growth rate from the HPC application is higher than the corporate average. And smartphone is very close to the corporate. And also, automotive is higher than the corporate average; IoT, close to that corporate average. Did that answer your question?
+：Bruce Lu - Research Analyst
+：Yes. Okay. My next question is I want to ask about the structural profitability. I understand that -- all these 6 factors for the profitability, but that's based on the assumption that structural profitability remain unchanged. So do we consider to move up the structural profitability because of the current supply -- structural growth for the company or the structural tightness for -- especially with legacy technology nodes?
+：Jeff Su - Director of Investor Relations
+：Okay. Bruce, your second question is on the structural profitability. Given the higher growth outlook and also the tightness in supply at legacy nodes or legacy technologies, would we consider to move up the structural profitability target?
+：Wendell Huang - VP & CFO
+：Bruce, as I just mentioned, we are maintaining the financial objective, i.e., the structural profitability goal of 50% gross margin. And of those 6 factors, every one of them can affect the profitability. For example -- I just used an example in foreign exchange rate, utilization and also the ramp of leading-edge nodes.
+：And for example, the leading-edge technologies, the complexities increases, the CapEx per K, it's more expensive than before. So we are working very hard with the customer to sell our value, the service value, the technology value and also the capacity value and firm up the wafer price. At the same time, we also work very closely with our suppliers to continue to improve our cost so that altogether, we can maintain and earn a proper return in the leading nodes compared to those of the previous few nodes. As a result, we are maintaining our structured profitability goal as 50% of gross margin. Okay?
+：Bruce Lu - Research Analyst
+：So -- understand. Let me clarify that whatever you gain in terms of your cost-saving, you will still return it to your customer and maintain your 50% profitability target.
+：Wendell Huang - VP & CFO
+：It's -- there are 6 factors. So all -- you add all of them together. It's...
+：Bruce Lu - Research Analyst
+：Understand.
+：Wendell Huang - VP & CFO
+：Yes. Yes.
+：Jeff Su - Director of Investor Relations
+：Thank you, Bruce.
+：Operator
+：The next one to ask question, Charlie Chan, Morgan Stanley.
+：Charlie Chan - Technology Analyst
+：So first question is also about the CapEx. So in the past, for you to spend a huge CapEx on leading edge is usually for the smartphone application given that the key user is Apple. So this time, you almost doubled your CapEx level. Does it mean to say there is a significant upside of the Intel CPU outsourcing? This is the first question.
+：Jeff Su - Director of Investor Relations
+：Okay, Charlie. So your question is on our CapEx. Basically, Charlie notes that in the past, our large CapEx on leading edge historically has been for smartphone platform. This year, of course, our CapEx number is much higher. So therefore, he is wondering whether it's intended for a particular customer on the CPU side.
+：C. C. Wei - CEO
+：Well, Charlie, let me answer the question. In fact, we don't comment on specific customer or specific area. Our CapEx guidance is based on the current long-term demand profile underpinned by the industry's megatrend.
+：Jeff Su - Director of Investor Relations
+：Okay, Charlie?
+：Charlie Chan - Technology Analyst
+：Yes. And there's...
+：Jeff Su - Director of Investor Relations
+：Do you have a second question?
+：Charlie Chan - Technology Analyst
+：Yes, I do. So just some feedback to C.C. I think we all understand the megatrend 5G and HPC. So the last question was just to understand whether there is additional kind of growth driver, for example, IDM outsourcing on top of the organic growth.
+：But my next question, I think it should be more related to your strategy because I think your existing customer, Intel, 2 days ago, they also commented about don't rule out the possibility of a licensed foundry process. And actually, 20 years ago, back in 2000, I think you also licensed the largest semi process to National Semi. So I'm not sure if TSMC, after 20 years, do you still kind of consider this kind of option, meaning license your foundry process to your IDM customer or even consider some option like a joint venture for the fab operation with your IDM customer.
+：C. C. Wei - CEO
+：Well, again, we don't comment on a specific topic or a specific customer. But let me tell you that we are working with our customer continuously and to expand the TSMC's business and to support our customers' demand.
+：Charlie Chan - Technology Analyst
+：Okay. Okay. Got you. So I will be back to the queue. I have some follow-up.
+：Jeff Su - Director of Investor Relations
+：Thanks, Charlie.
+：Operator
+：Next to ask question, Brett Simpson from Arete Research.
+：Brett William Simpson - Senior Analyst
+：A question maybe first for Wendell. So on the revenue guide, I guess you're starting the year with a far better than seasonal Q1. But I just wondered, how do you see the year playing out? Should we expect in the second half a typical seasonality this year?
+：And then in terms of the CapEx guide for this year, obviously, there's a big step-up. And spending this year is normally a reflection of how you think about long -- future capacity growth beyond 2021. So can we assume from the big increase in CapEx this year that your implied revenue growth in 2022 will be higher than 2021?
+：Jeff Su - Director of Investor Relations
+：Okay. So Brett has 2 questions. One, on the revenue guidance of -- we guided for mid-teens for the full year growth for 2021. So he wants to know how does it play out throughout the year. Is there -- second half, will we see the typical seasonality, first half, second half split? That's his first question.
+：Wendell Huang - VP & CFO
+：Yes. From what we can see now, second half is still higher than the first half.
+：Jeff Su - Director of Investor Relations
+：And then the second part is also CapEx and growth. Looking at the increase in our CapEx investment in 2021, noting that we typically spend CapEx in advance of the growth that will follow, Brett wants to know then should we expect a big year or a large growth year in 2000 -- 2022, sorry.
+：Wendell Huang - VP & CFO
+：Brett, it's -- as I said, it's a bit too early to discuss 2022 in details. But C.C. just mentioned, over the next 5 years, we're looking at a higher range of CAGR.
+：And also, the CapEx spend this year means future opportunity and growth not just for the next year but also the years after that. So we're looking at multiple years of growth opportunities.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Brett William Simpson - Senior Analyst
+：And maybe just one for C.C. Wei on N3. You mentioned N3 would have the best PPA. And we're seeing a lot of transistor innovation at Intel and Samsung in the next couple of years, but you're planning to stick with FinFET at 3-nanometer. And I'm just wondering how you see the transistor density at 3-nanometer. I think at N5, you've talked about 175 million transistors per mil square is the potential of N5. How should we think about N3 in that regard? And relative to some of the transistor innovation we're seeing at Intel and Samsung, are you happy with the FinFET roadmap?
+：Jeff Su - Director of Investor Relations
+：Okay. Brett, so your second question is regards to our N3 and our decision to continue to use FinFET transistor structure at 3-nanometer. You note that at 5-nanometer, we can deliver about 175 million transistors per millimeter square. So you want to know how this falls out at N3 or maybe in terms of our 3-nanometer in comparison to Samsung or others, how does it compare.
+：C. C. Wei - CEO
+：Well, as I said in my statement that N3 still provide 70% of the logic density gain in addition to all the performance gain and the power reductions. Whether that's at 5-nanometer, you got 175 million transistor per millimeter square, that will depends on what the number in N3. I think that will depend on customers' design. We continue to say that we offer the FinFET because of the technology maturity, the performance and the cost are the best combination for TSMC to serve our customer.
+：Jeff Su - Director of Investor Relations
+：Okay. Thank you, Brett.
+：Operator
+：Next one, we have Roland Shu from Citigroup.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Congrats for the very good results. My first question is also for the CapEx spending, and there are 2 parts of my question. So with this sharply increased CapEx spending, are you considering to sign long-term contracts with customers, especially to those customers who are new to adopt your most leading-edge technology, to ensure a proper return of your investment?
+：And second part of the first question is this means that you have spent ahead in CapEx in EUV because of the lower productivity for EUV when you first ramp EUV. So I would like to know how much CapEx downside you expect after you have improved EUV productivity to the optimized level.
+：Jeff Su - Director of Investor Relations
+：Okay. Roland, we'll take your questions one by one. Both of them relate to CapEx. First one is that with the higher level of CapEx that we have in 2021, Roland wants to know that would we consider signing long-term contracts with customers, especially with customers that are new to TSMC, to ensure that we are making a proper return.
+：C. C. Wei - CEO
+：Roland, signing a contract to guarantee the loading in the future is not our common practice. We always work with our customer and continuous work with customers to serve their demand. And we also put our CapEx or expanding our capacity according to our current long-term demand forecast. All right? And did that answer your question?
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay. Yes. Yes. I take it does.
+：Jeff Su - Director of Investor Relations
+：Okay, Roland. And then your second question is also related to CapEx. Roland, let me summarize. I think you are saying that in our CapEx guidance, your assumption that the lower productivity of EUV is -- means leading to a higher CapEx level for TSMC. So your question is that if the productivity -- as the productivity of EUV improves, then we'll -- how much reduction in CapEx could we see. Is that your question? Am I summarizing that correctly?
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Yes, exactly. Yes, exactly.
+：C. C. Wei - CEO
+：Well, let me answer that. We continue to improve the EUV's productivity because we are working closely with suppliers. And so far, we -- the improvement is obvious but still not up to our expectation yet. As for the CapEx will be decreased because of improved productivity, this is in our CapEx plan already.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay. Yes. So it means going forward, I mean even you have like higher EUV productivity, the CapEx spending or CapEx -- capital intensity probably would be still high next year or in the near future.
+：Jeff Su - Director of Investor Relations
+：Okay. So Roland, his question is that even with EUV productivity and factoring it into our CapEx, that our capital intensity could remain high even into next year.
+：C. C. Wei - CEO
+：Well, whether the CapEx remained high or the CapEx intensity remained high is because of technology complexity. It's actually that N5 is much more complicated than N7, N3 is much more complicated than N5. So most of that CapEx intensity coming from this technology advancement. Of course, EUV is a part of it, but it is not the only one reason.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay. Fair enough.
+：Jeff Su - Director of Investor Relations
+：Okay. Thank you, Roland.
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：Okay. Then my second question -- yes?
+：Jeff Su - Director of Investor Relations
+：Roland, I think that's 2 questions already, sorry. Because we still have several people in the queue, I would kindly ask you to get back into the queue, so we can allow everyone a chance.
+：Operator
+：The next one, we have Sunny Lin from UBS.
+：Sunny Lin - Director & Associate Analyst
+：My first question is that I want to follow up on 3-nanometer. I think just I want to get a bit of color on your current visibility for the customer adoption into second half of next year, how does it compare with the historical ramp of 5-nanometer and 7-nanometer and also the cost per transistor for 3-nanometer versus 5.
+：Jeff Su - Director of Investor Relations
+：Okay. Sunny, so your first question is on 3-nanometer. You want to know the visibility into customer adoption of 3-nanometer into second half 2022 and how does it compare to 5-nanometer or prior nodes; and also, the cost per transistor at 3-nanometer, is it still declining.
+：C. C. Wei - CEO
+：Let me answer that. The cost per transistor actually continue to decrease. But for your question about engagement with the customer, we see a lot of customers, especially from the HPC field, they are increased -- been engaged with their activity with TSMC.
+：Jeff Su - Director of Investor Relations
+：Okay. Sunny, do you have a second question?
+：Sunny Lin - Director & Associate Analyst
+：Right. So just a very quick follow-up to my first question. I wonder if C.C. will be able to provide any color regarding the ramp for 3-nanometer for second half of next year.
+：C. C. Wei - CEO
+：Okay. So early adoption from our customer is both in smartphone and HPC-related applications. That's all I can say.
+：Sunny Lin - Director & Associate Analyst
+：Got it. And then my second question is for your 2021 gross margin. So with CapEx going up significantly, how should we think about your depreciation growth for this year and also the impact on gross margin?
+：Jeff Su - Director of Investor Relations
+：Okay. So Sunny's second question is on the 2021 overall gross margin. With a higher level of CapEx spending, she wants to know what will be the year-on-year increase in depreciation and what's the impact to the overall 2021 gross margin.
+：Wendell Huang - VP & CFO
+：Sunny, the depreciation in 2021 is expected to be between mid- to high-20s percent higher than 2020. And the impact of -- to gross margins, it's too early to talk about the remaining quarters of the 2021. But as a general feeling, if you look at the capacity utilization that I just mentioned, foreign exchange rate unfavorable and also the N5 ramp, negative impact on our profitability, those are the factors that may affect our whole year 2021 gross margin. But as I've said, it's too early to talk about details on the remaining quarters.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Sunny Lin - Director & Associate Analyst
+：Got it. Very helpful.
+：Jeff Su - Director of Investor Relations
+：Sure. Thank you, Sunny.
+：Operator
+：Right now, we're having Laura Chen from KGI.
+：Laura Chen - Research Analyst
+：Congratulations for the good results and outlook. I also have the question about the CapEx and the gross margin trend. I think given your strong position in the most advanced technology node and an extremely high CapEx in recent years, I believe there must be some strong conviction on the order outlook with your major clients.
+：So can you share with us your view that for the N3, first year contribution will be similar to N5, that will have probably more than 10% revenue for the first year on mass production? Can we expect that to happen?
+：And also, on the gross margin side, given there might be some swing factor of your major IDM clients for outsourcing opportunity, how would you manage the utilization rate which may impact your gross margin substantially? That's my first question.
+：Jeff Su - Director of Investor Relations
+：Okay. Laura, I think that's 2 questions. But your first question is on the -- yes, on the N3, sort of noting our strong position in the advanced nodes and also the higher CapEx as an indication of the strong conviction on major clients. Laura wants to know what -- will the revenue contribution of 3-nanometer in its first year be similar to -- or how does it compare to 5-nanometer in the first year.
+：Wendell Huang - VP & CFO
+：Okay. Laura, it's really too early to talk about that at this moment. But as C.C. said, we believe N3, when it's out, is going to be another large and lasting node for TSMC.
+：Laura Chen - Research Analyst
+：Okay. Got it. And also...
+：Wendell Huang - VP & CFO
+：And then -- sorry, go ahead.
+：Laura Chen - Research Analyst
+：Yes. On the -- probably the swing factor of the utilization rate that may impact the gross margin potentially on the -- and particularly for advanced node, how should we look at the trend, how -- your management in that.
+：Jeff Su - Director of Investor Relations
+：Okay. So Laura's second question is looking at our gross margin and then also looking at opportunities, for example, in a particular IDM, if there are swings in utilization, how would we manage that and how would that impact the gross margin. Is that correct, Laura?
+：Laura Chen - Research Analyst
+：Yes.
+：Wendell Huang - VP & CFO
+：We don't -- Laura, we don't comment on specific customers or business outlook. The -- what we can say is we continue to work with our customers closely and to ensure that we provide this proper capacity to them. And we also maintain a good utilization out of it.
+：Jeff Su - Director of Investor Relations
+：And as Wendell -- yes.
+：Mark Liu - Chairman of the Board
+：Laura, let me add some colors. I think our business has been driven traditionally -- in the past few years by smartphones. Starting from this year on, HPC also jumped on the wagons, and therefore, we're looking -- forward looking, we see the traditional seasonality is -- can be moderated with multiple big customers in multiple market segments. So that's our confidence.
+：The other confidence is our CapEx includes 3-nanometer, also 5-nanometer. Our 5-nanometer is also very strong, stronger than we expected 3 months ago. So those 2 combined to give us the confidence to increase our CapEx.
+：Jeff Su - Director of Investor Relations
+：Okay, Laura?
+：Laura Chen - Research Analyst
+：That's very helpful. Yes, that's very helpful.
+：Jeff Su - Director of Investor Relations
+：Great. Thank you, Laura.
+：Operator
+：Next one, we have Robert Sanders from Deutsche Bank.
+：Robert Duncan Cobban Sanders - Director
+：Yes, I just got one question, actually. Just could you please then comment more on the wafer shortage situation and how severe it is at present? Which node are you seeing the shortage most acute? Is it 65-, 90-nanometer, 0.11, 0.13, whatever it is? And how far out are you essentially booked out at some of these nodes? And do you think there's wafer upside to what you're pricing at these nodes?
+：Jeff Su - Director of Investor Relations
+：Okay. So Robert, your question is on the tightness or shortage in the wafer. He is asking, is it at particular node such as 65-nanometer, 90-nanometer, 0.13, how short it is and how long it will last.
+：C. C. Wei - CEO
+：Robert, most of the shortage actually is in the mature node. It's not in the 3-, not in the 5- or 7-nanometer per se, but in all the mature node, especially in 0.13 micron, in 40-nanometer, in 55-nanometer, in those area.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Robert Duncan Cobban Sanders - Director
+：Can I just have one follow-up, which is just you haven't traditionally built capacity there, but they could become part of dependencies for the industry if they are continuing to be short? So would you actually consider building greenfield to help the industry or you think that other foundries will handle that?
+：Jeff Su - Director of Investor Relations
+：So Robert, your follow-up question is then given the shortage or tightness on some of these mature nodes, will we consider to expand, build new capacity at these mature nodes to alleviate any potential bottleneck risk.
+：C. C. Wei - CEO
+：Well, actually, we are working with customer closely and moving some of their mature node to more advanced node, where we have a better capacity to support them. In addition to that, we also try to manage this shortage condition, try to mitigate the impact from this shortage.
+：Jeff Su - Director of Investor Relations
+：Okay? Thank you.
+：Operator
+：Next one, we have Rick Hsu from Daiwa Securities.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes, this is Rick. My first question is I guess you guys mentioned that now your customers are happy living with a higher inventory than the historical pattern because of the macro uncertainties such as COVID-19, so I wonder if your customer would still be happy living with a high inventory than the normal historical patterns if COVID-19 is contained. So this is my first question.
+：Jeff Su - Director of Investor Relations
+：Okay. Thank you, Rick. So your question is our -- the higher level of inventory that we're seeing partly is attributable to COVID-19. What if COVID-19 is no longer -- everyone has vaccine, then it's no longer an issue. Will this continue?
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Yes, that's right.
+：C. C. Wei - CEO
+：Yes, first, let's say that we really hope that the vaccine will work and -- but even if it's working, it takes time. And then also our customers still -- today, they still have a different approach for the inventory management, as we said, because of the securing of the supply is more important than anything you are seeing in today's situation. So we don't think it's really to revert back to the historical level of the inventory.
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Okay. That's helpful. My second question is also regarding your CapEx because the number this year is really high. So about 80% of your high CapEx this year is going to be spent for leading edge, so I wonder how much of that portion is actually for preparation of a capacity build for 2022 and beyond, not for this year. So can you share your idea with us?
+：Jeff Su - Director of Investor Relations
+：Okay. So Rick, your question is on our CapEx. 80% -- about 80% is for the advanced nodes. He wants to know how much of this spending for the advanced nodes is in preparation for capacity for 2000 -- sorry, 2022.
+：Wendell Huang - VP & CFO
+：Rick, we invest this year -- actually, for future year primarily. So it's not only for 2022, it may also be for the years following that. So that's -- I think that's something that I'd like to share with you.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：Okay. That's helpful. Yes.
+：Jeff Su - Director of Investor Relations
+：Yes, no problem. Thank you, Rick.
+：Operator
+：Next one, we have Andrew Lu from Sinolink Securities.
+：Andrew Lu - Semiconductor Analyst
+：Can you hear me?
+：Jeff Su - Director of Investor Relations
+：Yes, we can hear you.
+：Andrew Lu - Semiconductor Analyst
+：Okay. My first question is, if your customer has his own design rule, knows what's the different metal and poly pitch spec for TSMC's one, can this customer use the in-house manufacturing and TSMC foundry based on the same design? Or it needs to redesign the chip based on TSMC 5-nanometer, 3-nanometer design rule?
+：Jeff Su - Director of Investor Relations
+：Okay. Andrew, let me try to summarize your question. Your question is about customers' design rules. If the customer has their own design rules but with different metal and different poly pitch from TSMC's, could this customer use TSMC foundry or use their in-house manufacturing? Or do they need to use TSMC's design rules, basically?
+：Andrew Lu - Semiconductor Analyst
+：That's correct.
+：C. C. Wei - CEO
+：Andrew, we always work closely with our customer to support their design into TSMC's process technologies, so we can manufacture it inside TSMC.
+：Andrew Lu - Semiconductor Analyst
+：So customer doesn't need to change its own design?
+：C. C. Wei - CEO
+：Okay. I cannot answer this question because of -- it is 2 parties' cooperation. And as I said, we work closely with them to support their design.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Andrew Lu - Semiconductor Analyst
+：Understood.
+：Jeff Su - Director of Investor Relations
+：Yes.
+：Andrew Lu - Semiconductor Analyst
+：My second question is, since our 3-nanometer, 4-nanometer nodes will be ramping up next year, what about second half this year, will we have something like a 5-nanometer plus or revision, 5-nanometer process node for second half this year.
+：Jeff Su - Director of Investor Relations
+：Okay. So Andrew's second question is, looking at second half of this year, noting that next year we'll have, for example, N3 and N4, then second half of this year, do we have any new node or continuous improvement, enhancement?
+：C. C. Wei - CEO
+：Andrew, we always continue to improve the technologies. Last year, we introduced our 5-nanometer to the market. This year, we continue to improve it. And next year, we will improve further. So we never stop.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Andrew Lu - Semiconductor Analyst
+：So something like the 5-nanometer plus?
+：C. C. Wei - CEO
+：If that's your naming, yes.
+：Jeff Su - Director of Investor Relations
+：Okay. Thank you, Andrew.
+：Operator
+：Next one, we have Mehdi Hosseini from SIG.
+：Mehdi Hosseini - Senior Analyst
+：Yes. First question has to do with the revenue mix forecast for Q1 by technology and platform. It will be great if you could provide some color, and I have a follow-up.
+：Jeff Su - Director of Investor Relations
+：Okay. So Mehdi wants to know for the first quarter, revenue by technology and revenue by platform.
+：Wendell Huang - VP & CFO
+：Okay. Mehdi, in the first quarter, HPC, automotive and IoT will increase sequentially, while smartphone will experience a milder seasonal decline compared to its recent seasonalities.
+：Jeff Su - Director of Investor Relations
+：And we do not provide a breakdown guidance of revenue by technology, Mehdi, okay? So do you have a second question?
+：Mehdi Hosseini - Senior Analyst
+：Yes. Just a quick follow-up on CapEx. Does your $25 billion to $28 billion CapEx guide include investment for infrastructure in U.S.?
+：Jeff Su - Director of Investor Relations
+：So Mehdi's question is does our CapEx guidance this year include any investment for the U.S. fab infrastructure.
+：Wendell Huang - VP & CFO
+：Yes, it does. The U.S. fab starts construction this year.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Mehdi Hosseini - Senior Analyst
+：Can you elaborate that how much of the CapEx is for the U.S.?
+：Wendell Huang - VP & CFO
+：Not at this point. Right.
+：Jeff Su - Director of Investor Relations
+：Okay? Thank you, Mehdi.
+：Operator
+：Next one, Krish Sankar from Cowen and Company.
+：Krish Sankar - MD & Senior Research Analyst
+：Yes. I also had 2 on CapEx. Number one, pretty nice step-up in CapEx this year from last year. Is it fair to assume your investment in EUV is also up this year relative to last year? And then I had a follow-up.
+：Jeff Su - Director of Investor Relations
+：Okay. So Krish's first question is that with our increase in CapEx guidance -- that we guided for in 2021 versus 2020 being an increase, does that also mean an increase in the CapEx we spend on EUV.
+：Wendell Huang - VP & CFO
+：No, we do not disclose that details.
+：Krish Sankar - MD & Senior Research Analyst
+：Got it. And then as a follow-up, C.C., you mentioned that how capital intensity is going to be high all the way to 3-nanometer. But you also said long-term capital intensity should be in the mid-30s, so I'm just trying to square that by what do you mean by long term? Because it looks like if 3-nanometer is still going to be high for the next few years, capital intensity might be higher than mid-30s. So at what point should we expect it to get to mid-30s?
+：Jeff Su - Director of Investor Relations
+：Okay. So Krish's second question is in terms of capital intensity. With the capital intensity or CapEx per K at 3-nanometer being higher, and then we're having a long-term capital intensity returning to mid-30s, he wants to know when will we return to mid-30s capital intensity level. Is that correct, Krish?
+：Krish Sankar - MD & Senior Research Analyst
+：Yes.
+：Wendell Huang - VP & CFO
+：Yes. Yes. We mean long-term meaning 3 to 5 years. I think 2010 to 2014 can be an example. During that period of time, the capital intensity rose from 38% to 50%, maintaining at high 40s for a couple of years and came down afterwards. Something like that should be a reference. Okay?
+：Jeff Su - Director of Investor Relations
+：All right. Thanks, Krish.
+：Operator
+：Next one, Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Yes. One question on CapEx and depreciation. Do we -- are we having to spend CapEx a little bit ahead of what we used to spend in the past -- in the EUV era? Is that a function of having to spend maybe 6 to 9 months ahead compared to, let's say, in the immersion era? That's one.
+：And how should we think about depreciation with this jump in CapEx? Wendell, can you give us a little bit of guidance in terms of how we should think about depreciation for this year and going ahead as well given the higher level of CapEx?
+：Jeff Su - Director of Investor Relations
+：Okay. Gokul, let me summarize. Your first question is in terms of the CapEx. He wants to know that are we -- with CapEx, are we having to spend CapEx earlier now and is this because of EUV that we need to spend more CapEx earlier.
+：C. C. Wei - CEO
+：Well, let me answer the question. The answer is yes because of, yes, a long lead time for the EUV tools. The tools are very complicated, and the supply chain for the EUV takes a long time to prepare for it. And as a result, TSMC also has to plan in advance. That's longer than the normal tools that we used to have.
+：Jeff Su - Director of Investor Relations
+：Okay. And then Gokul's second question is looking at with the higher CapEx, the depreciation outlook.
+：Wendell Huang - VP & CFO
+：Right. For this year, Gokul, we expect the depreciation to increase by mid-20% to high 20% for 2021 over 2020.
+：Jeff Su - Director of Investor Relations
+：Okay, Gokul?
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：Okay.
+：Jeff Su - Director of Investor Relations
+：Yes.
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：And maybe to just add -- yes. So even with that, we are comfortable with the 50% structural gross margin.
+：Jeff Su - Director of Investor Relations
+：So even with the higher growth and depreciation, Gokul is asking are we still comfortable with a 50% gross margin.
+：Wendell Huang - VP & CFO
+：Yes. 50% gross margin as a long-term target, we think it's reasonable and achievable.
+：Jeff Su - Director of Investor Relations
+：Okay. Operator, in the interest of time, I think we'll take the last 2 callers.
+：Operator
+：Okay. The next caller is Randy Abrams, Crédit Suisse.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. Yes, my first follow-up on U.S. and China, your overseas sites. For the U.S. site, you bought 1,100 acres. Do you have plans to build out a mega fab or potential to build out multi-phase of 20K wafers? And then for the China business post-Huawei, where it's down to single digits, how's your outlook for the China and also expansion of the China from 20K?
+：Jeff Su - Director of Investor Relations
+：Okay. So Randy, your first question is regards to capacity and fab expansion overseas. So Randy is asking in the U.S., in Arizona, we target 20K, do we -- will we continue to build it out into a mega fab type of site. And he also wants to know in China, and I guess you're referring to Nanjing, do we have plans to further expand the capacity in Nanjing. Is that your question, correct, Randy?
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Yes, that's the question, just the outlook to rebound China just post-HiSilicon, where it's down to mid-single-digit contribution.
+：Mark Liu - Chairman of the Board
+：Yes, this is Mark. Let me take your question. Yes, we recently acquired a big piece of land in Phoenix, 1,100 acres. Definitely, that was the long-term plan to have a mega-scale production sites. But currently, our plan is only work on the Phase 1 production and targetting 2024 with 20,000 wafer per month. And we'll -- going forward, we'll see according to the market condition and the cost economics and provided by the government support to mend the cost differences to decide the next steps.
+：On China, yes, we do have plan to continue to expand in China. But of course, the business in China at leading edge will -- does have a reset. But we do expect the demand in China will continue, and we will gradually, accordingly increase our capacity in Nanjing.
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay. Okay. Great. And my second question is if you could give -- I think you gave first quarter, but the full year growth for each of the platforms. And also for the backend, where you're doubling CapEx, what's leading that investment between the InFO, CoWoS, SoIC in growth outlook for backend?
+：Jeff Su - Director of Investor Relations
+：Okay. So Randy is asking about 2021 growth, first, growth outlook by platform and then growth outlook by the backend; and then between the backend, InFO, CoWoS, by segment.
+：Wendell Huang - VP & CFO
+：Okay. Randy, for 2021 by platform, we think HPC and automotive growth will be higher than the corporate average growth. Smartphone and IoT will be similar to the corporate average growth in U.S. dollar terms. In terms of our backend business, we expect it to grow slightly higher than the corporate in 2021. We do not disclose details within the back-end business.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：Okay.
+：Jeff Su - Director of Investor Relations
+：All right. Thanks, Randy.
+：Operator
+：The next one, we have Sebastian Hou from CLSA.
+：Sebastian Hou - Research Analyst
+：Yes. Two follow-up. The first one is to follow on Mark's comments that, yes, I think Mark previously said that the company has noted 5-nanometer demand also stronger than you thought 3 months ago. So I would be curious about if you can give us more details about which applications are you seeing a stronger-than-expected demand.
+：Mark Liu - Chairman of the Board
+：High-performance computing.
+：Sebastian Hou - Research Analyst
+：So for high-performance computing, is it the typical, those consumer electronics or is more typical HPC or blockchain related?
+：Jeff Su - Director of Investor Relations
+：Sorry, I didn't hear the -- we didn't hear the last part, Sebastian.
+：Sebastian Hou - Research Analyst
+：Yes, I'm sorry. I was saying that for the HPC part, is it more related to your existing customers or more related to the blockchain-related products?
+：Mark Liu - Chairman of the Board
+：Let me add a little bit color on this. High-performance computing, as Wendell just said, will be the major growth driver of our business. And this field is currently under exciting changes. As the high-performance computing's architectures, as you know, from different customers, everybody is striving to get the best performance with different architectures. So many, many -- many more players are getting into this field. So we see a stronger innovation is coming our way on N3 as well as on N5, yes.
+：Sebastian Hou - Research Analyst
+：Okay. Okay. That's good.
+：Mark Liu - Chairman of the Board
+：Cryptocurrency -- it's not on cryptocurrency, Sebastian. We don't count on that, but we support that, yes.
+：Sebastian Hou - Research Analyst
+：Okay. Yes, that's fair. And the second follow-up is a follow-up to Wendell's comments on that I think in this year is, based on the guidance, that we will see the CapEx intensity to go up to 50%. So if we calculate -- based on the revenue guidance, if we do some calculations, which means the free cash flow for this year could be -- the growth will likely to be -- will be pretty small or even flat, depends on how things go, but definitely not as strong as past few years. So my question is that is the company still sticking to the dividend policy that is 70% of free cash flow?
+：Jeff Su - Director of Investor Relations
+：Okay. So Sebastian, your question is then in looking at the CapEx, looking at our revenue guidance, the capital intensity this year being about around 50%, then the free cash flow growth may slow this year. So what is the outlook for the dividend? Do we still use 70% of free cash flow as the cash dividend formula?
+：Wendell Huang - VP & CFO
+：Right. Sebastian, our dividend policy has 2 parts, 70% of free cash flow but not to be lower than the previous period. So we remain committed to a sustainable and steadily increasing cash dividend. During the periods of higher investments, the focus will be more on sustainable. And as we harvest the growth, the focus will be on steadily increasing.
+：Sebastian Hou - Research Analyst
+：Okay. So given that you're paying the -- the investor is getting the dividend in this quarter, which is the earnings you made like 3 quarters earlier, so if we do the calculation simulation, which means that in the next 24 months, the investor will probably still getting the TWD 2.50 per quarter. Is that a fair calculation assumption?
+：Wendell Huang - VP & CFO
+：At least. At least.
+：Jeff Su - Director of Investor Relations
+：Okay?
+：Sebastian Hou - Research Analyst
+：Okay.
+：Jeff Su - Director of Investor Relations
+：All right. Thanks, Sebastian. Okay. Thank you, everyone. This concludes our Q&A session.
+：Before we conclude today's conference, please be advised that the replay of the conference will be accessible within 4 hours from now. The transcript will become available 24 hours from now, both of which will be available through TSMC's website at www.tsmc.com.
+：So thank you for joining us today. We hope everyone continues to stay healthy and safe, and we hope you join us again next quarter. Goodbye, and have a great day.
+：
+：Jeff Su - Director of Investor Relations
+：（外語）大家下午好，歡迎來到台積電2020年第四季度財報電話會議。我是台積電投資者關係總監、今天的主持人 Jeff Su。
+：為防止 COVID-19 的傳播，台積電將通過公司網站 www.tsmc.com 通過現場音頻網絡直播主持我們的收益電話會議，您還可以在該網站下載收益發布材料。 （操作員說明）
+：今天的活動形式如下。首先，台積電副總裁兼首席財務官黃文德先生將總結我們在 2020 年第四季度的運營情況，然後是我們對 2021 年第一季度的指導。之後，黃先生和台積電首席執行官 C.C. 博士。魏，將共同提供公司的關鍵信息。隨後台積電董事長劉曉波博士將主持問答環節，三位高管都將回答您的問題。
+：像往常一樣，我想提醒大家，今天的討論可能包含前瞻性陳述，這些陳述受到重大風險和不確定性的影響，可能導致實際結果與前瞻性陳述中包含的結果存在重大差異。請參閱我們新聞稿中的安全港通知。
+：現在我想把電話轉給台積電的首席財務官黃文德先生，以獲取運營摘要和當前季度的指導。
+：Wendell Huang - VP & CFO
+：謝謝你，傑夫。祝大家新年快樂。感謝您今天加入我們。我的演講將從第四季度的財務亮點和 2020 年全年回顧開始。之後，我將提供 2021 年第一季度的指導。
+：第四季度收入按新台幣計算環比增長 1.4%，按美元計算增長 4.4%，因為我們看到 5G 智能手機推出和 HPC 相關應用對我們的 5 納米技術的強勁需求。毛利率環比增長 0.6 個百分點至 54%，主要得益於成本改善，部分被 5 納米斜坡的利潤率稀釋和不利的匯率所抵消。我們第四季度的利用率處於極高水平，部分原因是產量增加，其中部分晶圓將在第一季度發貨。總營運開支輕微減少 26 億元新台幣。因此，營業利潤率環比增長 1.4 個百分點至 43.5%。總體而言，我們第四季度每股收益為 5.51 新台幣，ROE 為 31.4%。
+：現在讓我們繼續討論技術收入。 5 納米工藝技術在第四季度貢獻了 20% 的晶圓收入，而 7 納米和 16 納米分別貢獻了 29% 和 13%。定義為 16 納米及以下的先進技術佔晶圓收入的 62%。
+：全年來看，5 納米的收入貢獻佔 2020 年晶圓收入的 8%，7 納米為 33%，16 納米為 17%。先進技術佔晶圓總收入的 58%，高於 2019 年的 50%。
+：現在繼續討論平台的收入貢獻。智能手機環比增長 13%，占我們第四季度收入的 51%。 HPC 下降 14%，佔 31%。物聯網下降 13% 至 7%。汽車增長 27%，佔 3%。數字消費電子產品增長29%，佔比4%。
+：全年來看，智能手機、高性能計算和物聯網分別強勁增長 23%、39% 和 28%。 DCE 也增長了 2%，而汽車在 2020 年下降了 7%。總體而言，智能手機占我們 2020 年收入的 48%，HPC 佔 33%，IoT 佔 8%。
+：轉到資產負債表。我們在第四季度結束時的現金和有價證券為 7910 億新台幣。負債方面，流動負債增加290億新台幣，主要是應付賬款增加570億新台幣，應計負債及其他增加380億新台幣，被短期貸款減少690億新台幣所抵消.長期有息債務增加了 280 億新台幣，主要是因為我們在本季度籌集了 305 億新台幣的公司債券。
+：財務比率方面，應收賬款周轉天數減少 1 天至 39 天。主要由於領先節點的增加，庫存天數增加了 15 天至 73 天。
+：現在讓我對現金流和資本支出發表一些評論。在第四季度，我們從運營中產生了約 2590 億新台幣的現金，在資本支出中花費了 890 億新台幣，並為 20 年第一季度的現金股息分配了 650 億新台幣。短期貸款減少670億新台幣，應付債券因發行債券增加305億新台幣。總體而言，我們的現金餘額在本季度末增加了 560 億新台幣至 6600 億新台幣。以美元計算，我們第四季度的資本支出總計 32 億美元。
+：現在讓我們回顧一下我們在 2020 年的表現。我們在 2020 年看到了強勁的增長，因為我們的技術領先地位使我們能夠抓住 5G 和 HPC 的行業大趨勢。我們的收入以美元計算增長 31.4%，以新台幣計算增長 25.2%，達到 1.34 萬億新台幣。毛利率增長 7.1 個百分點至 53.1%，主要是由於產能利用率高和成本改善。營業利潤率增長 7.5 個百分點至 42.3%。總體而言，全年每股收益增長 50% 至 19.97 新台幣。
+：在現金流方面，我們在資本支出上花費了 5070 億新台幣，而我們產生了 8230 億新台幣的運營現金流和 3150 億新台幣的自由現金流。 2020年我們還支付了2590億新台幣的現金股息。
+：我已經完成了我的財務摘要。現在讓我們轉向我們的第一季度指導。根據目前的業務前景，我們預計第一季度收入將在 127 億美元至 130 億美元之間，中點環比增長 1.3%。基於1美元兌27.95新台幣的匯率假設，毛利率預計在50.5%至52.5%之間，營業利潤率在39.5%至41.5%之間。一季度毛利率環比下降主要是由於一季度利用率略有下降，但仍處於較高水平，以及不利的外匯匯率。
+：現在我想談談稅率。我們預計我們的 [2021]（由公司在電話會議後更正）稅率將在 10% 至 11% 的範圍內，這將同樣適用於一年中的所有 4 個季度。
+：我的財務報告到此結束。
+：現在我想從本季度的關鍵信息開始。我將首先對我們在 2020 年和 2021 年的資本預算發表一些評論。每年，我們的資本支出都用於預期未來幾年的增長。我們的資本投資決策基於 4 個原則：技術領先；靈活且響應迅速的製造；保持客戶的信任；並獲得適當的回報。
+：2020 年，我們花費了 172 億美元來捕捉對我們先進技術的強勁需求並支持客戶的產能需求。為了滿足對我們先進和專業技術不斷增長的需求，並進一步支持客戶的產能需求，我們 2021 年的資本預算預計在 250 億美元至 280 億美元之間。在 2021 年 250 億至 280 億美元的資本支出中，約 80% 的資本預算將用於先進工藝技術，包括 3 納米、5 納米和 7 納米；約10%將用於先進封裝和口罩製作；大約 10% 將用於專業技術。
+：接下來，讓我談談我們的資本密集度展望。正如我們之前所說，我們的長期資本密集度在 30 年代中期的百分比範圍內。但是，當我們進入高速增長期時，我們的資本支出需要在隨後的收入增長之前花費，因此我們的資本密集度會更高。例如，在 2010 年至 2014 年期間，我們的資本支出比前幾年增加了三倍，我們的資本密集度介於 38% 至 50% 之間。由於投資增加，我們能夠抓住增長機會，並在 2010 年至 2015 年實現約 15% 的複合年增長率。
+：今天，隨著我們進入另一個高速增長時期，我們認為更高水平的產能——資本密集度適合抓住未來的增長機會。我們現在預計，在 5G 和 HPC 相關應用的行業大趨勢的推動下，未來幾年的複合年增長率會更高，C.C.將更詳細地討論。
+：我們還期望這種更高水平的資本投資將繼續推動我們的技術領先地位，實現靈活且響應迅速的製造並贏得客戶的信任。雖然由於工藝複雜性的增加，我們領先的節點資本成本繼續增加，但預計將通過繼續出售我們的價值（包括我們的技術、服務、質量和容量支持的價值）以及努力改進成本來獲得補償。鑑於 2021 年的資本支出水平，我們重申台積電將繼續致力於在年度和季度的基礎上提供可持續的現金紅利。
+：現在讓我把麥克風交給 C.C.
+：C. C. Wei - CEO
+：謝謝你，溫德爾。大家好。這是C.C.魏。下午好。我們希望每個人都在這段時間內保持安全和健康。
+：現在讓我從我們的近期需求和庫存開始。我們第四季度的收入為 3615 億新台幣或 127 億美元，符合我們的預期，主要是由於 5G 智能手機的推出和 HPC 相關應用對我們的 5 納米技術的強勁需求。
+：到 2020 年底，半導體行業（不包括內存增長）約為 10%，而代工行業同比增長約 20%。以美元計，台積電的收入同比增長 31.4%。
+：進入 2021 年第一季度。在 HPC 相關需求、汽車領域的複蘇以及比近年來溫和的智能手機季節性的支持下，我們的業務繼續保持強勁。
+：在庫存方面，我們的無晶圓廠客戶的整體庫存在整個第四季度都得到了消化。我們現在預計它將接近 2020 年的歷史季節，好於我們 3 個月前的預測。我們觀察到，在宏觀不確定性揮之不去的情況下，供應鏈正在改變其庫存管理方法。展望未來，鑑於行業對確保供應安全的持續需求，我們預計供應鍊和我們的客戶將在更長的時間內準備比歷史季節水平更高的庫存水平。
+：接下來，讓我談談汽車供應緊張。自 2018 年以來，汽車市場一直疲軟。進入 2020 年，COVID-19 進一步影響了汽車市場。汽車供應鏈全年受到影響，我們的客戶在第三季度繼續減少需求。我們只是在第四季度才開始看到突然復甦。然而，汽車供應鏈漫長而復雜，而由於其他客戶的強勁需求，我們的許多技術節點在整個 2020 年都處於緊張狀態。
+：因此，近期來看，隨著汽車供應鏈需求回暖，汽車供應短缺的情況更加明顯。在台積電，這是我們的首要任務，我們正在與我們的汽車客戶密切合作，以解決產能支持問題。
+：現在我將談談我們的 2021 年展望。對於 2021 年全年，我們預計整個半導體市場（不包括內存）將增長 8% 左右，而代工行業增長預計在 10% 左右。對於台積電，我們有信心在 2021 年以美元計算，我們的收入增長可以超過代工收入增長並增長 10% 左右。我們 2021 年的業務將受到對我們行業領先的先進和專業技術的強勁需求的支持，我們看到智能手機、HPC、汽車和物聯網這 4 個增長平台的興趣更加濃厚。
+：接下來，讓我談談台積電的長期增長前景。我們正在進入高速增長期，因為 5G 和 HPC 相關應用的多年大趨勢預計將在未來幾年推動對我們先進技術的強勁需求。我們預計 2021 年全球智能手機銷量將同比增長 10%。我們預計 5G 智能手機在整個智能手機市場的滲透率將從 2020 年的 18% 上升到 2021 年的 35% 以上。我們預計矽含量與 4G 智能手機相比，5G 智能手機的佔比將繼續增加。
+：我們繼續預計，與 4G 相比，未來幾年 5G 智能手機的滲透率會更快，因為 5G 智能手機受益於 5G 網絡的顯著性能、帶寬和延遲改進，以推動更多人工智能應用和更多雲服務。我們相信 5G 是一個多年的大趨勢，它將開啟一個數字計算越來越普遍的世界，這將在未來幾年推動我們所有 4 個增長平台的增長。
+：隨著我們進入 5G 時代，一個更智能、更智能的世界將需要大量增加計算能力和對節能計算的更大需求，因此需要領先的技術。因此，HPC 是台積電長期增長的日益重要的驅動力，也是我們增量收入增長的最大貢獻者。
+：憑藉我們的技術領先地位，我們有能力從有利的行業大趨勢中獲得增長。我們現在預計，以美元計算，從 2020 年到 2025 年，我們的長期收入增長將達到 10% 到 15% 的複合年增長率。
+：現在我將談談我們的 N3 狀態。 N3 將是我們 N5 的又一個全節點跨步，與 5 納米相比，邏輯密度增益高達 70%，性能增益高達 15%，功耗降低高達 30%。我們的 N3 技術將使用 FinFET 晶體管結構，為我們的客戶提供最佳的技術成熟度、性能和成本。我們的 N3 技術開發進展順利。與處於相似階段的 N5 和 N7 相比，我們看到 N3 的 HPC 和智能手機應用程序的客戶參與度要高得多。風險生產計劃於2021年進行，量產計劃於2022年下半年進行。
+：我們的 3 納米技術在推出時將成為 PPA 和晶體管技術中最先進的代工技術。因此，我們有信心我們的 3 納米將成為台積電的另一個大型且持久的節點。
+：最後說一下台積電3DFabric。台積電制定了業界領先且全面的晶圓級 3D IC 技術路線圖，以提升系統級性能。我們的差異化小芯片和異構集成技術為我們的客戶帶來了更好、更節能和更小尺寸的優勢，同時縮短了他們的上市時間。該技術包括 SoIC 等芯片堆疊解決方案以及 InFO 和 CoWoS 等先進封裝解決方案。我們觀察到小芯片正在成為一種行業趨勢。我們正在與多個客戶合作開發 3DFabric 以啟用小芯片架構。
+：SoIC 的小批量生產目標是 2022 年。預計 SoIC 將首先被 HPC 應用採用，我們在這些應用中積極追求帶寬性能、功率效率和外形尺寸。我們預計我們的後端服務（包括先進封裝和測試）的收入在未來幾年將以高於公司平均水平的速度增長。
+：這是結束我們的關鍵信息。感謝您的關注。
+：Jeff Su - Director of Investor Relations
+：謝謝你，C.C.我們準備好的陳述到此結束。 （操作員說明）如果您想用中文提出問題，我會在管理層回答您的問題之前翻譯成英文。 （操作員說明）
+：現在讓我們開始問答環節。接線員，請繼續與線路上的第一個呼叫者聯繫。
+：Operator
+：第一個提問的是摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：所以讓我先問一個關於 3 納米的問題。魏博士，我們應該如何看待3納米的大小？我們所看到的是在過去的 2 年中，28 納米是一個非常大的節點。如果考慮到峰值收入，7 納米比 28 納米要大大約 70%，因為當你有新的應用程序進入時。
+：考慮到您還概述的大型資本支出計劃，我們是否應該認為 3 納米一旦完全增長，就峰值收入而言將大大大於 7 納米？只是想知道我們應該如何考慮這個流程節點的大小。
+：您能否也談談 HPC 的機遇？現在，您已經與多個 HPC 客戶進行了接觸。但是你能談談CPU，x86 CPU，很明顯，這是每個人都在想的事情嗎？您能否談談台積電將如何進入這個市場以及我們進入 3 納米時代？
+：Jeff Su - Director of Investor Relations
+：好的。 Gokul，對不起，這是傑夫。讓我總結一下你的問題，2個問題。我們將一一介紹它們。
+：Gokul 的第一個問題是關於 3 納米以及我們的 3 納米的大小。他指出，在過去，我們有非常大的節點，例如 28 納米和 7 納米。所以 Gokul 想知道在峰值收入貢獻方面，我們是否期望或應該 N3 比 N7 大得多？這是他的第一個問題。正確的？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：是的，尤其是考慮到資本支出的增加。
+：C. C. Wei - CEO
+：好吧，Gokul，讓我回答你的問題，說我們確實希望 3 納米除了智能手機之外，還將廣泛用於與 HPC 相關的應用程序中。因此，通過與客戶的這種互動，我們確實希望我們的收入肯定會更大。毫無疑問。那麼下一個問題是什麼？
+：Jeff Su - Director of Investor Relations
+：然後，Gokul，我認為你問題的第二部分是看看我們在高性能計算方面的機會是什麼。 Gokul 指出，我們有多個客戶參與其中，但他特別詢問了 CPU 機會的進展或狀態，以及我們認為 HPC 的驅動因素是什麼。
+：C. C. Wei - CEO
+：Gokul，我們沒有具體命名我們的 HPC 應用程序之一（例如 CPU）來說明增長率是多少。但我告訴你，CPU、網絡和人工智能加速器將是 HPC 應用的主要增長領域。這回答了你的問題嗎？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：你能在 x86 上更具體一點嗎？然後，您已經在 7 納米技術打入 x86 市場方面取得了巨大成功。隨著我們進入 3 納米，我們是否應該認為 x86 的市場份額會繼續大幅上升？
+：Jeff Su - Director of Investor Relations
+：好的。所以 Gokul，我猜你的問題真的是關於 x86 並且看著 7 納米做得很好。隨著我們進入 3 納米，我們對 x86 的了解會繼續增加嗎？
+：C. C. Wei - CEO
+：同樣，我們不會特別評論非常具體的領域。我們不斷與客戶合作，並提供非常好的技術來支持他們的業務。
+：Operator
+：下一位提問者，Randy Abrams，瑞士信貸。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。是的。我有 2 個問題要問。首先，關於 - 你談到了汽車，我假設你的成熟節點也非常緊湊。傳統上，您沒有在成熟節點和 8 英寸節點上增加那麼多容量。您能否在其中討論，因為您有一些混合，您如何看待為這些節點增加容量的策略？你能不能再看看汽車只佔收入的 3% 左右。我們是否應該期待這個垂直領域的有意義的回升，無論是成熟的應用還是來自 EV 和 ADAS 等新領域？
+：Jeff Su - Director of Investor Relations
+：好的。蘭迪，讓我總結一下你的問題。你首先問的是汽車方面的問題。他注意到我們關於汽車供應緊張的評論。我們是否期望汽車垂直市場出現回升？然後在查看成熟節點時，是否會自動使我們的成熟節點受益，然後是 ADAS？和其他汽車趨勢一樣，我們怎麼看？
+：C. C. Wei - CEO
+：好吧，讓我說，現在我們看到汽車行業需要大量的半導體元件，這包括用於 ADAS 系統的前沿技術，以及用於傳感器、電源等許多應用的一些成熟技術管理集成電路。我們確實看到，目前，汽車的成熟技術供應有點短缺。我們正在與客戶合作以減輕短缺的影響。
+：Jeff Su - Director of Investor Relations
+：然後 Randy 也在我們的成熟節點上詢問第二部分，鑑於緊張，我們是否會考慮為成熟節點增加容量。
+：C. C. Wei - CEO
+：我們總是與我們的客戶一起規劃我們的技術、能力，以及所有這些事情。對於成熟的節點，我們曾經將一些大容量轉換成專業。目前，趨勢保持不變。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。偉大的。我的第二個問題是，抱歉，分兩部分。我只想問毛利率和庫存。您的毛利率同比提高了 4 個百分點。其中一部分是利用率，但折舊也上漲了 45% 新台幣 [兌] 6 點。那麼您能否討論一下您是否在降低成本方面取得了突破，如果現在 - 我認為上個季度，您說大約 50%。但考慮到您在成本降低和下降 54% 方面所看到的情況，如果您對利潤率有更好的信心，可能會繼續做得更好。
+：然後我只想問一下庫存，從歷史上看，庫存增加了 15 天，你在第四季度內減少，但可能趨勢範圍內的庫存在年初就上升了。
+：Jeff Su - Director of Investor Relations
+：好的。蘭迪，讓我總結一下你的問題，兩部分。首先是毛利率，他指出我們的毛利率全年都有所提高。而蘭迪想知道在成本方面是否有突破，因此，我們毛利率的長期前景仍然是 50%。
+：Wendell Huang - VP & CFO
+：正確的。蘭迪，這是溫德爾。您剛才提到我們的折舊同比增長了 45%。我認為這個數字應該是每年 15%。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。我在看第四季度到第四季度，我想到的是第四季度而不是第四季度。
+：Wendell Huang - VP & CFO
+：正確的。正確的。現在就長期毛利率而言，我們認為 50% 的毛利率是合理且可實現的。影響我們盈利能力的因素有 6 個：前沿技術、價格、成本、組合、利用率和匯率。以外匯匯率為例。 2020 年，美元兌新台幣的平均匯率為 29.43 新台幣。它現在在 27.90 至 28 新台幣之間交易。這已經是新台幣 5% 的升值。因此，新台幣每升值 1%，就會影響我們的毛利率 40 個基點。
+：另一件事是 - 正如我們提到的，去年第四季度，利用率非常高，非常高。這就是高利用率無法維持的異常水平。因此，我們認為本季度的使用率會有所回落，但仍處於非常高的水平。現在，利用率的每一個變化點都會影響毛利率 40 個基點。
+：第三個例子是我們前沿技術的發展。我們上次提到，我們預計 2021 年 N5 的增長將對我們的利潤率產生 2 到 3 個百分點的影響，我們仍然認為情況會如此。
+：因此，如果您考慮所有這些因素，我們認為 50% 的毛利率在長期內是合理且可實現的。
+：Jeff Su - Director of Investor Relations
+：然後蘭迪還詢問了我們第四季度庫存增加的天數。
+：Wendell Huang - VP & CFO
+：正確的。正確的。這部分是因為一些——因為我們在第四季度的利用率非常高，但一些晶圓將在第一季度發貨，而不是在第四季度發貨。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝你。謝謝你，蘭迪。
+：Operator
+：下一位是里昂證券的 Sebastian Hou。
+：Sebastian Hou - Research Analyst
+：第一個問題是我想跟進毛利率方面的問題。因此，如果我回顧過去兩個季度，你的毛利率實際結果要么處於高端，要么高於你最初的指導，而收入則處於高端指導，而台幣在去年下半年繼續升值，這意味著利潤率連續兩個季度優於您最初的指導。所以我的問題是，第一季度的前景利潤率是否再次過於保守。其次是我們的結構盈利能力是否需要上調，就像我們的 5 年收入增長複合年增長率剛剛正式上調一樣。
+：Jeff Su - Director of Investor Relations
+：好的。塞巴斯蒂安，讓我總結一下你的第一個問題，你觀察到在過去兩個季度，我們的毛利率處於高端或略高於我們指導的高端，收入處於高端，貨幣升值在那裡.所以塞巴斯蒂安的問題是，首先，第一季度毛利率指導是否過於保守。我們的長期結構性盈利前景如何，是否需要上調？
+：Wendell Huang - VP & CFO
+：好的。塞巴斯蒂安，如果我們將第四季度與第一季度進行比較，第四季度為 54%，我們對第一季度的中期指導為 51.5%。 2.5個百分點的差異實際上主要來自於使用以及不利的外匯匯率。因此，目前，我們仍然堅持這一指導方針，但顯然，我們將努力繼續提高毛利率。
+：至於長期毛利率，正如我剛才報導的那樣，我們保持 50% 的毛利率是合理的，基於我剛才談到的 6 個因素可以實現的。這些因素中的每一個都會影響我們的增長——長期的盈利能力。
+：Jeff Su - Director of Investor Relations
+：好的。塞巴斯蒂安，你還有第二個問題嗎？
+：Sebastian Hou - Research Analyst
+：是的，我願意。我的第二個問題是關於您的資本支出前景。顯然，這至少對我來說是一個重大的上行驚喜，我認為，對共識估計也是如此。所以上一次，在評論中，你將資本支出從 100 億美元提高到 120 億美元，提高到 150 億美元到 170 億美元，這導致 2020 年收入增長了 30%。然後——所以我的問題是我認為我們投資的資本支出是為了未來的增長，所以無論這是否——資本支出的另一個提升——達到 250 億至 300 億美元。今年將代表 2022 年或 23 年增長的重新加速。
+：Jeff Su - Director of Investor Relations
+：好的。所以塞巴斯蒂安的問題是看我們今年的資本支出指導，250 億至 280 億美元。這超出了他的預期。因此，他正在研究我們最後一次將資本支出從 100 億美元增加到 120 億美元到 150 億美元到 170 億美元，這導致我們今年增長了 30% - 今年增長了 31%。那麼我們在 2022 年或未來幾年的增長前景如何？
+：Wendell Huang - VP & CFO
+：好的。塞巴斯蒂安，現在談論還為時過早——特別是關於 2022 年。但作為 C.C.提到，未來5年，我們的目標CAGR在10%到15%之間。所以這已經高於我們在上次電話會議之前設定的 5% 到 10% 的複合年增長率的原始目標。這也是因為我們準備進行更高的資本投資，以捕捉行業多年大趨勢所支撐的更高增長機會。
+：C. C. Wei - CEO
+：好吧，讓我補充一點。這是C.C.魏。這個 10% 到 15% 的複合年增長率是基於 2020 年的一個非常高的數字。所以我們仍然預測 10% 到 15% 的複合年增長率。這將告訴您我們需要投資多少資本支出。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝你。謝謝你，塞巴斯蒂安。
+：Operator
+：下一位是高盛的 Bruce Lu。
+：Bruce Lu - Research Analyst
+：我認為這次最大的不同是你將長期收入的複合年增長率從 5% 提高到 10% 到 10% 到 15%。您能否告訴我們，在這種增量變化方面，有多少增長來自 HPC？驅動因素是什麼？
+：就智能手機的增長而言，我的意思是 5G 的普及率在 2021 年已經達到 30% 左右。展望未來，對您而言，有多少增長來自美元含量的增長或出貨量的增長？或者你能提供更多關於增長的顏色嗎？
+：Jeff Su - Director of Investor Relations
+：好的。布魯斯，所以你的問題實際上是關於我們的長期增長前景，我們的增長目標複合年增長率為 10% 到 15%。你的問題基本上是由HPC等不同的平台，增長貢獻是多少；在查看智能手機時，美元含量有多少，單位貢獻有多少。
+：C. C. Wei - CEO
+：好吧，讓我回答這個問題，實際上，HPC 應用程序的增長率高於公司平均水平。智能手機與企業非常接近。而且，汽車行業高於企業平均水平；物聯網，接近企業平均水平。這回答了你的問題嗎？
+：Bruce Lu - Research Analyst
+：是的。好的。我的下一個問題是我想問一下結構性盈利能力。我理解 - 所有這 6 個盈利能力因素，但這是基於結構盈利能力保持不變的假設。那麼，我們是否考慮因為當前的供應——公司的結構性增長或結構性緊張——尤其是傳統技術節點而提高結構性盈利能力？
+：Jeff Su - Director of Investor Relations
+：好的。布魯斯，你的第二個問題是關於結構性盈利能力的。鑑於更高的增長前景以及傳統節點或傳統技術的供應緊張，我們是否會考慮提高結構性盈利目標？
+：Wendell Huang - VP & CFO
+：布魯斯，正如我剛才提到的，我們正在維持財務目標，即 50% 毛利率的結構性盈利目標。在這 6 個因素中，每一個都會影響盈利能力。例如——我只是在外匯匯率、利用率以及前沿節點的斜坡方面舉了一個例子。
+：例如，領先的技術、複雜性的增加、每 K 的資本支出，它比以前更昂貴。所以我們非常努力地與客戶一起銷售我們的價值、服務價值、技術價值以及產能價值，並堅定了晶圓價格。同時，我們也與供應商密切合作，繼續降低成本，使我們能夠在領先的節點上保持和之前的幾個節點相比獲得適當的回報。因此，我們將結構化盈利目標維持在毛利率的 50%。好的？
+：Bruce Lu - Research Analyst
+：所以——明白。讓我澄清一下，無論您在節省成本方面獲得什麼，您仍然會將其返還給您的客戶並保持 50% 的盈利目標。
+：Wendell Huang - VP & CFO
+：這是——有6個因素。所以所有——你把它們加在一起。它的...
+：Bruce Lu - Research Analyst
+：理解。
+：Wendell Huang - VP & CFO
+：是的。是的。
+：Jeff Su - Director of Investor Relations
+：謝謝你，布魯斯。
+：Operator
+：下一個要問的，查理陳，摩根士丹利。
+：Charlie Chan - Technology Analyst
+：所以第一個問題也是關於資本支出的。所以在過去，考慮到關鍵用戶是蘋果，你通常會在智能手機應用程序上花費巨額資本支出。所以這一次，你的資本支出水平幾乎翻了一番。這是否意味著英特爾 CPU 外包有很大的優勢？這是第一個問題。
+：Jeff Su - Director of Investor Relations
+：好的，查理。所以你的問題是關於我們的資本支出。基本上，查理指出，過去，我們領先的大型資本支出一直用於智能手機平台。當然，今年我們的資本支出數字要高得多。因此，他想知道它是否適用於 CPU 端的特定客戶。
+：C. C. Wei - CEO
+：好吧，查理，讓我來回答這個問題。事實上，我們不對特定客戶或特定區域發表評論。我們的資本支出指導基於行業大趨勢所支撐的當前長期需求狀況。
+：Jeff Su - Director of Investor Relations
+：好嗎，查理？
+：Charlie Chan - Technology Analyst
+：是的。還有...
+：Jeff Su - Director of Investor Relations
+：你有第二個問題嗎？
+：Charlie Chan - Technology Analyst
+：是的，我願意。所以只是對 C.C. 的一些反饋。我想我們都了解 5G 和 HPC 的大趨勢。所以最後一個問題是要了解是否還有其他類型的增長動力，例如在有機增長之上的 IDM 外包。
+：但是我的下一個問題，我認為這應該與您的策略更相關，因為我認為您的現有客戶英特爾 2 天前，他們也評論說不排除許可代工工藝的可能性。實際上，20 年前，也就是 2000 年，我想你們也將最大的半導體工藝授權給 National Semi。所以我不確定台積電在 20 年後是否還會考慮這種選擇，這意味著將您的代工工藝授權給您的 IDM 客戶，或者甚至考慮一些選擇，例如與您的 IDM 客戶合資經營晶圓廠.
+：C. C. Wei - CEO
+：好吧，同樣，我們不對特定主題或特定客戶發表評論。但讓我告訴你，我們一直在與客戶合作，擴大台積電的業務，支持客戶的需求。
+：Charlie Chan - Technology Analyst
+：好的。好的。得到你。所以我會回到隊列中。我有一些跟進。
+：Jeff Su - Director of Investor Relations
+：謝謝，查理。
+：Operator
+：接下來提問，來自 Arete Research 的 Brett Simpson。
+：Brett William Simpson - Senior Analyst
+：溫德爾可能首先提出一個問題。所以在收入指南上，我猜你今年的第一季度業績要好得多。但我只是想知道，你如何看待這一年？我們是否應該期待今年下半年出現典型的季節性？
+：然後就今年的資本支出指南而言，顯然有很大的進步。今年的支出通常反映了你對長期未來產能增長的看法——2021 年以後的未來產能增長。那麼，我們能否從今年資本支出的大幅增長中假設，你在 2022 年的隱含收入增長將高於 2021 年？
+：Jeff Su - Director of Investor Relations
+：好的。所以布雷特有兩個問題。一，關於收入指導——我們為 2021 年的全年增長指導了青少年。所以他想知道它在全年的表現如何。有沒有 - 下半年，我們會看到典型的季節性，上半年，下半年分裂嗎？這是他的第一個問題。
+：Wendell Huang - VP & CFO
+：是的。從我們現在看到的情況來看，下半年仍然高於上半年。
+：Jeff Su - Director of Investor Relations
+：然後第二部分也是資本支出和增長。看看我們在 2021 年資本支出投資的增長，注意到我們通常會在隨後的增長之前花費資本支出，布雷特想知道我們應該在 2000 年 - 2022 年期待一個大年還是大增長年，抱歉。
+：Wendell Huang - VP & CFO
+：布雷特，正如我所說，現在詳細討論 2022 年還為時過早。但是C.C.剛才提到，在接下來的 5 年裡，我們正在尋找更高的複合年增長率。
+：此外，今年的資本支出支出意味著未來的機會和增長，不僅是明年，而且是之後的幾年。因此，我們正在尋找多年的增長機會。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Brett William Simpson - Senior Analyst
+：也許只是一個給 C.C.魏在 N3 上。您提到 N3 將擁有最好的 PPA。在接下來的幾年中，我們看到英特爾和三星進行了大量晶體管創新，但您計劃堅持使用 3 納米的 FinFET。我只是想知道您如何看待 3 納米的晶體管密度。我認為在 N5 中，您已經談到每平方毫米 1.75 億個晶體管是 N5 的潛力。在這方面我們應該如何看待 N3？相對於我們在英特爾和三星看到的一些晶體管創新，您對 FinFET 路線圖滿意嗎？
+：Jeff Su - Director of Investor Relations
+：好的。 Brett，所以你的第二個問題是關於我們的 N3 以及我們決定繼續使用 3 納米的 FinFET 晶體管結構。您注意到，在 5 納米上，我們每平方毫米可以提供大約 1.75 億個晶體管。所以你想知道這在 N3 上是如何出現的，或者就我們的 3 納米而言，與三星或其他公司相比，它是如何比較的。
+：C. C. Wei - CEO
+：好吧，正如我在聲明中所說，除了所有性能增益和功耗降低之外，N3 仍然提供 70% 的邏輯密度增益。無論是 5 納米，每平方毫米有 1.75 億個晶體管，這取決於 N3 中的數量。我認為這將取決於客戶的設計。我們繼續說我們提供 FinFET 是因為技術成熟，性能和成本是台積電服務客戶的最佳組合。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝你，布雷特。
+：Operator
+：下一位是花旗集團的 Roland Shu。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：恭喜取得了非常好的結果。我的第一個問題也是關於資本支出的，我的問題分為兩部分。因此，隨著資本支出的急劇增加，您是否正在考慮與客戶簽訂長期合同，尤其是與那些剛開始採用您最前沿技術的客戶簽訂長期合同，以確保您的投資獲得適當的回報？
+：第一個問題的第二部分是這意味著你在 EUV 的資本支出上已經提前花費了，因為當你第一次升級 EUV 時 EUV 的生產力較低。因此，我想知道在您將 EUV 生產力提高到優化水平後，您期望的資本支出下降多少。
+：Jeff Su - Director of Investor Relations
+：好的。羅蘭，我們會一一解答你的問題。它們都與資本支出有關。第一個是我們在 2021 年擁有更高水平的資本支出，Roland 想知道我們是否會考慮與客戶簽訂長期合同，特別是與台積電的新客戶簽訂，以確保我們獲得適當的回報.
+：C. C. Wei - CEO
+：羅蘭，簽訂合同保證未來的裝載，這不是我們的慣例。我們始終與客戶合作，並與客戶持續合作以滿足他們的需求。我們還根據我們當前的長期需求預測投入資本支出或擴大產能。好的？這是否回答了你的問題？
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。是的。是的。我認為確實如此。
+：Jeff Su - Director of Investor Relations
+：好的，羅蘭。然後你的第二個問題也與資本支出有關。羅蘭，讓我總結一下。我認為您的意思是，在我們的資本支出指南中，您假設 EUV 的生產力較低 - 意味著台積電的資本支出水平更高。所以你的問題是，如果生產力 - 隨著 EUV 生產力的提高，那麼我們將 - 我們可以看到資本支出減少多少。那是你的問題嗎？我總結得對嗎？
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：對，就是這樣。對，就是這樣。
+：C. C. Wei - CEO
+：好吧，讓我回答這個問題。由於我們與供應商密切合作，我們將繼續提高 EUV 的生產力。到目前為止，我們 - 改進是顯而易見的，但仍未達到我們的預期。至於由於生產力提高，資本支出將減少，這已經在我們的資本支出計劃中。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。是的。所以這意味著未來，我的意思是即使你有更高的 EUV 生產力、資本支出或資本支出——明年或不久的將來資本密集度可能仍然很高。
+：Jeff Su - Director of Investor Relations
+：好的。所以羅蘭，他的問題是，即使將 EUV 生產力納入我們的資本支出，我們的資本密集度也可能會保持在高水平，甚至到明年。
+：C. C. Wei - CEO
+：好吧，無論是資本支出保持高位還是資本支出強度保持高位，都是因為技術複雜性。實際上N5比N7複雜得多，N3比N5複雜得多。因此，大部分資本支出強度來自這種技術進步。當然，EUV 是其中的一部分，但並不是唯一的原因。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。很公平。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝你，羅蘭。
+：Roland Shu - Director & Head of Regional Semiconductor Research
+：好的。然後我的第二個問題——是嗎？
+：Jeff Su - Director of Investor Relations
+：Roland，我想這已經是 2 個問題了，抱歉。因為我們還有幾個人在排隊，所以請您重新排隊，這樣我們就可以給每個人一個機會。
+：Operator
+：下一位是瑞銀的 Sunny Lin。
+：Sunny Lin - Director & Associate Analyst
+：我的第一個問題是我想跟進 3 納米。我想我只是想了解一下您目前對明年下半年客戶採用的可見性，它與 5 納米和 7 納米的歷史增長以及每個晶體管的成本相比如何 3 -納米與 5。
+：Jeff Su - Director of Investor Relations
+：好的。 Sunny，所以你的第一個問題是關於 3 納米的。您想知道到 2022 年下半年客戶採用 3 納米的可見性，以及它與 5 納米或之前的節點相比如何；而且，3納米的每個晶體管的成本還在下降嗎？
+：C. C. Wei - CEO
+：讓我來回答。每個晶體管的成本實際上繼續下降。但是對於您關於與客戶互動的問題，我們看到很多客戶，尤其是來自 HPC 領域的客戶，他們都在增加 - 與台積電合作。
+：Jeff Su - Director of Investor Relations
+：好的。 Sunny，你還有第二個問題嗎？
+：Sunny Lin - Director & Associate Analyst
+：正確的。所以只是對我的第一個問題的快速跟進。我想知道C.C.明年下半年將能夠提供有關 3 納米坡道的任何顏色。
+：C. C. Wei - CEO
+：好的。因此，我們的客戶早期採用智能手機和 HPC 相關應用程序。這就是我能說的。
+：Sunny Lin - Director & Associate Analyst
+：知道了。然後我的第二個問題是關於您 2021 年的毛利率。那麼隨著資本支出顯著上升，我們應該如何看待今年的折舊增長以及對毛利率的影響？
+：Jeff Su - Director of Investor Relations
+：好的。所以 Sunny 的第二個問題是關於 2021 年的整體毛利率。隨著資本支出水平的提高，她想知道折舊的同比增幅是多少，以及對 2021 年整體毛利率的影響是什麼。
+：Wendell Huang - VP & CFO
+：Sunny，預計 2021 年的折舊率將比 2020 年高出 20% 至 20%。以及對毛利率的影響，現在談論 2021 年剩餘的幾個季度還為時過早。但總體感覺，如果你看我剛才提到的產能利用率，不利的匯率以及 N5 的上升，對我們的盈利能力的負面影響，這些都是可能影響我們 2021 年全年毛利率的因素。但正如我所說，現在談論剩餘季度的細節還為時過早。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Sunny Lin - Director & Associate Analyst
+：知道了。非常有幫助。
+：Jeff Su - Director of Investor Relations
+：當然。謝謝你，桑尼。
+：Operator
+：現在，我們有來自凱基的勞拉·陳。
+：Laura Chen - Research Analyst
+：祝賀良好的結果和前景。我也有關於資本支出和毛利率趨勢的問題。我認為鑑於您在最先進的技術節點中的強勢地位以及近年來極高的資本支出，我相信您對主要客戶的訂單前景必須有一些堅定的信念。
+：那麼您能否與我們分享一下您的看法，對於 N3，第一年的貢獻將與 N5 相似，第一年量產的收入可能會超過 10%？我們可以期待這種情況發生嗎？
+：此外，在毛利率方面，鑑於您的主要 IDM 客戶可能存在一些波動因素以獲得外包機會，您將如何管理可能對您的毛利率產生重大影響的利用率？這是我的第一個問題。
+：Jeff Su - Director of Investor Relations
+：好的。勞拉，我認為這是兩個問題。但你的第一個問題是關於 - 是的，在 N3 上，有點注意到我們在高級節點中的強勢地位以及更高的資本支出，這表明對主要客戶的堅定信念。 Laura 想知道 3 納米在其第一年的收入貢獻會與什麼相似，或者它與第一年的 5 納米相比如何。
+：Wendell Huang - VP & CFO
+：好的。勞拉，現在談這個還為時過早。但作為 C.C.說，我們相信 N3 出來後，將成為台積電另一個大型且持久的節點。
+：Laura Chen - Research Analyst
+：好的。知道了。並且...
+：Wendell Huang - VP & CFO
+：然後——對不起，繼續。
+：Laura Chen - Research Analyst
+：是的。在 - 可能會影響毛利率的利用率的波動因素 - 特別是對於高級節點，我們應該如何看待趨勢，如何 - 你的管理。
+：Jeff Su - Director of Investor Relations
+：好的。因此，Laura 的第二個問題是查看我們的毛利率，然後還要查看機會，例如，在特定 IDM 中，如果利用率出現波動，我們將如何管理以及這將如何影響毛利率。對嗎，勞拉？
+：Laura Chen - Research Analyst
+：是的。
+：Wendell Huang - VP & CFO
+：我們不——勞拉，我們不評論特定客戶或業務前景。 - 我們可以說的是，我們將繼續與我們的客戶密切合作，並確保我們為他們提供這種適當的能力。而且我們還保持了良好的利用率。
+：Jeff Su - Director of Investor Relations
+：作為溫德爾——是的。
+：Mark Liu - Chairman of the Board
+：勞拉，讓我添加一些顏色。我認為我們的業務傳統上是由智能手機驅動的——在過去的幾年裡。從今年開始，HPC 也跳上了馬車，因此，我們期待——展望未來，我們看到傳統的季節性是——可以在多個細分市場中與多個大客戶一起緩和。這就是我們的信心。
+：另一個信心是我們的資本支出包括 3 納米和 5 納米。我們的 5 納米也很強大，比我們 3 個月前預期的要強。所以這兩個結合起來讓我們有信心增加我們的資本支出。
+：Jeff Su - Director of Investor Relations
+：好吧，勞拉？
+：Laura Chen - Research Analyst
+：這很有幫助。是的，這很有幫助。
+：Jeff Su - Director of Investor Relations
+：偉大的。謝謝你，勞拉。
+：Operator
+：下一位是德意志銀行的羅伯特·桑德斯。
+：Robert Duncan Cobban Sanders - Director
+：是的，實際上我只有一個問題。請您再評論一下晶圓短缺的情況以及目前的嚴重程度嗎？您認為哪個節點的短缺最為嚴重？是 65 納米、90 納米、0.11 還是 0.13，不管它是什麼？您在其中一些節點上基本上被預訂了多遠？你認為你在這些節點上的定價有優勢嗎？
+：Jeff Su - Director of Investor Relations
+：好的。所以羅伯特，你的問題是關於晶圓的緊張或短缺。他在問，是在65納米、90納米、0.13等特定節點，它有多短，它會持續多長時間。
+：C. C. Wei - CEO
+：羅伯特，大部分短缺實際上是在成熟的節點上。它不是在 3 納米、5 或 7 納米本身，而是在所有成熟的節點中，特別是在 0.13 微米、40 納米、55 納米，在那些領域。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Robert Duncan Cobban Sanders - Director
+：我是否可以進行一次跟進，即您傳統上沒有在那裡建立產能，但如果它們繼續短缺，它們可能會成為行業依賴的一部分？那麼你真的會考慮建立綠地來幫助這個行業，還是你認為其他代工廠會處理這個問題？
+：Jeff Su - Director of Investor Relations
+：所以羅伯特，你的後續問題是這些成熟節點中的一些短缺或緊張，我們是否會考慮在這些成熟節點上擴展、建立新的容量以緩解任何潛在的瓶頸風險。
+：C. C. Wei - CEO
+：好吧，實際上，我們正在與客戶密切合作，並將他們的一些成熟節點轉移到更高級的節點，我們有更好的能力來支持他們。除此之外，我們還嘗試管理這種短缺狀況，嘗試減輕這種短缺的影響。
+：Jeff Su - Director of Investor Relations
+：好的？謝謝你。
+：Operator
+：下一位，我們有來自大和證券的 Rick Hsu。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的，這是瑞克。我的第一個問題是，我猜你們提到，由於 COVID-19 等宏觀不確定性，現在您的客戶樂於生活在高於歷史模式的庫存中，所以我想知道您的客戶是否仍然樂於生活在高庫存如果包含 COVID-19，則與正常的歷史模式相比。所以這是我的第一個問題。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝你，瑞克。所以你的問題是我們的——我們看到的更高水平的庫存部分歸因於 COVID-19。如果不再有 COVID-19 怎麼辦——每個人都有疫苗，那麼它就不再是問題了。這會繼續嗎？
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：是的，這是對的。
+：C. C. Wei - CEO
+：是的，首先，假設我們真的希望疫苗能起作用，而且——但即使它起作用了，也需要時間。然後我們的客戶仍然 - 今天，正如我們所說，他們仍然有不同的庫存管理方法，因為在今天的情況下，確保供應比你所看到的任何事情都更重要。所以我們不認為真的要恢復到庫存的歷史水平。
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：好的。這很有幫助。我的第二個問題也是關於您的資本支出，因為今年的數字非常高。因此，今年大約 80% 的高資本支出將用於領先優勢，所以我想知道這部分實際上有多少是為 2022 年及以後的產能建設做準備，而不是今年。那麼你能和我們分享你的想法嗎？
+：Jeff Su - Director of Investor Relations
+：好的。所以瑞克，你的問題是關於我們的資本支出。 80% -- 大約 80% 用於高級節點。他想知道這些用於高級節點的支出中有多少是為 2000 年的容量做準備——抱歉，2022 年。
+：Wendell Huang - VP & CFO
+：瑞克，我們今年投資——實際上，主要是為了未來一年。因此，這不僅適用於 2022 年，也可能適用於之後的幾年。這就是——我想這是我想與你們分享的東西。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Rick Hsu - Head of Regional Technology & Head of Taiwan Research
+：好的。這很有幫助。是的。
+：Jeff Su - Director of Investor Relations
+：是沒有問題。謝謝你，瑞克。
+：Operator
+：下一位是國金證券的 Andrew Lu。
+：Andrew Lu - Semiconductor Analyst
+：你能聽到我嗎？
+：Jeff Su - Director of Investor Relations
+：是的，我們可以聽到你的聲音。
+：Andrew Lu - Semiconductor Analyst
+：好的。我的第一個問題是，如果您的客戶有自己的設計規則，知道台積電的不同金屬和多間距規格是什麼，這個客戶可以使用基於相同設計的內部製造和台積電代工嗎？還是需要根據台積電5納米、3納米的設計規則重新設計芯片？
+：Jeff Su - Director of Investor Relations
+：好的。安德魯，讓我試著總結一下你的問題。您的問題是關於客戶的設計規則。如果客戶有自己的設計規則，但與台積電不同的金屬和不同的多晶矽間距，這個客戶可以使用台積電代工還是使用他們的內部製造？還是他們基本上需要使用台積電的設計規則？
+：Andrew Lu - Semiconductor Analyst
+：這是正確的。
+：C. C. Wei - CEO
+：Andrew，我們一直與客戶密切合作，支持他們的設計融入台積電的工藝技術，因此我們可以在台積電內部製造。
+：Andrew Lu - Semiconductor Analyst
+：所以客戶不需要改變自己的設計？
+：C. C. Wei - CEO
+：好的。我無法回答這個問題，因為——這是兩方的合作。正如我所說，我們與他們密切合作以支持他們的設計。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Andrew Lu - Semiconductor Analyst
+：明白了。
+：Jeff Su - Director of Investor Relations
+：是的。
+：Andrew Lu - Semiconductor Analyst
+：我的第二個問題是，既然我們的 3 納米、4 納米節點明年將逐步增加，那麼今年下半年呢，我們是否會在下半年推出類似 5 納米加或修訂版的 5 納米工藝節點？今年。
+：Jeff Su - Director of Investor Relations
+：好的。所以安德魯的第二個問題是，看看今年下半年，注意到明年我們會有，例如N3和N4，那麼今年下半年，我們有沒有新的節點或持續改進、增強？
+：C. C. Wei - CEO
+：安德魯，我們一直在不斷改進技術。去年，我們向市場推出了 5 納米。今年，我們繼續改進它。明年，我們將進一步改進。所以我們從不停止。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Andrew Lu - Semiconductor Analyst
+：那麼像5納米加？
+：C. C. Wei - CEO
+：如果這是你的名字，是的。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝你，安德魯。
+：Operator
+：下一位是來自 SIG 的 Mehdi Hosseini。
+：Mehdi Hosseini - Senior Analyst
+：是的。第一個問題與技術和平台對第一季度的收入組合預測有關。如果您能提供一些顏色，那就太好了，我會跟進。
+：Jeff Su - Director of Investor Relations
+：好的。所以 Mehdi 想知道第一季度的技術收入和平台收入。
+：Wendell Huang - VP & CFO
+：好的。 Mehdi 表示，第一季度，HPC、汽車和物聯網將環比增長，而智能手機的季節性下降將比最近的季節性下降更溫和。
+：Jeff Su - Director of Investor Relations
+：而且我們不提供按技術劃分的收入細分指導，Mehdi，好嗎？那麼你還有第二個問題嗎？
+：Mehdi Hosseini - Senior Analyst
+：是的。只是對資本支出的快速跟進。您的 250 億至 280 億美元資本支出指南是否包括對美國基礎設施的投資？
+：Jeff Su - Director of Investor Relations
+：所以 Mehdi 的問題是，我們今年的資本支出指南是否包括對美國晶圓廠基礎設施的任何投資。
+：Wendell Huang - VP & CFO
+：是的，它確實。美國工廠今年開始建設。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Mehdi Hosseini - Senior Analyst
+：您能否詳細說明美國的資本支出有多少？
+：Wendell Huang - VP & CFO
+：不是在這一點上。正確的。
+：Jeff Su - Director of Investor Relations
+：好的？謝謝你，邁赫迪。
+：Operator
+：下一位，來自 Cowen and Company 的 Krish Sankar。
+：Krish Sankar - MD & Senior Research Analyst
+：是的。我在資本支出上也有 2 個。第一，今年資本支出比去年有了相當不錯的提升。假設今年你對 EUV 的投資也比去年有所增加，這是否公平？然後我進行了跟進。
+：Jeff Su - Director of Investor Relations
+：好的。所以 Krish 的第一個問題是，隨著我們增加資本支出指導——我們在 2021 年與 2020 年的指導是增加，這是否也意味著我們在 EUV 上花費的資本支出增加。
+：Wendell Huang - VP & CFO
+：不，我們不會透露這些細節。
+：Krish Sankar - MD & Senior Research Analyst
+：知道了。然後作為後續行動，C.C.，您提到資本密集度將一路高到 3 納米。但你也說長期資本密集度應該在 30 年代中期，所以我只是想通過你所說的長期來解決這個問題？因為看起來如果未來幾年 3 納米仍然很高，資本密集度可能會高於 30 年代中期。那麼我們應該期望它在什麼時候達到 30 年代中期呢？
+：Jeff Su - Director of Investor Relations
+：好的。所以 Krish 的第二個問題是在資本密集度方面。隨著 3 納米的資本密集度或每 K 的資本支出更高，然後我們的長期資本密集度將回到 30 年代中期，他想知道我們何時會回到 30 年代中期的資本密集度水平。對嗎，克里什？
+：Krish Sankar - MD & Senior Research Analyst
+：是的。
+：Wendell Huang - VP & CFO
+：是的。是的。我們的意思是長期的意思是 3 到 5 年。我認為 2010 年到 2014 年可以是一個例子。在此期間，資本密集度從 38% 上升到 50%，連續幾年維持在 40 多歲的高位，之後又回落。類似的東西應該是參考。好的？
+：Jeff Su - Director of Investor Relations
+：好的。謝謝，克里什。
+：Operator
+：下一位，摩根大通的 Gokul Hariharan。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：是的。關於資本支出和折舊的一個問題。在 EUV 時代，我們是否必須花費比過去多一點的資本支出？與沈浸式時代相比，這是不得不提前 6 到 9 個月的功能嗎？那是一個。
+：我們應該如何考慮隨著資本支出的這種跳躍而出現的折舊？溫德爾，您能否就我們應該如何考慮今年的折舊以及考慮到更高水平的資本支出繼續前進給我們一些指導？
+：Jeff Su - Director of Investor Relations
+：好的。 Gokul，讓我總結一下。您的第一個問題是關於資本支出。他想知道我們是否 - 有了資本支出，我們現在是否必須更早地花費資本支出，這是因為 EUV 我們需要更早地花費更多的資本支出。
+：C. C. Wei - CEO
+：好吧，讓我來回答這個問題。答案是肯定的，因為 EUV 工具的交付週期很長。工具非常複雜，EUV 的供應鏈需要很長時間才能做好準備。而因此，台積電也不得不提前謀劃。這比我們過去擁有的普通工具要長。
+：Jeff Su - Director of Investor Relations
+：好的。然後 Gokul 的第二個問題是考慮更高的資本支出，即折舊前景。
+：Wendell Huang - VP & CFO
+：正確的。對於今年，Gokul，我們預計 2021 年的折舊率將比 2020 年增加 20% 至 20% 中至 20%。
+：Jeff Su - Director of Investor Relations
+：好吧，高庫？
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：好的。
+：Jeff Su - Director of Investor Relations
+：是的。
+：Gokul Hariharan - Head of Taiwan Equity Research and Senior Tech Analyst
+：也許只是添加 - 是的。因此，即便如此，我們對 50% 的結構性毛利率感到滿意。
+：Jeff Su - Director of Investor Relations
+：因此，即使增長和折舊更高，Gokul 仍在詢問我們是否仍然對 50% 的毛利率感到滿意。
+：Wendell Huang - VP & CFO
+：是的。 50%的毛利率作為長期目標，我們認為是合理且可實現的。
+：Jeff Su - Director of Investor Relations
+：好的。接線員，為了節省時間，我想我們會接聽最後兩個來電者。
+：Operator
+：好的。下一位來電者是瑞士信貸的 Randy Abrams。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。是的，我第一次跟進美國和中國，你的海外網站。對於美國站點，您購買了 1,100 英畝。您是否有建造大型晶圓廠的計劃或建造多階段 20K 晶圓的潛力？然後對於華為之後的中國業務，它下降到個位數，您對中國的前景以及中國從 20K 的擴張有何看法？
+：Jeff Su - Director of Investor Relations
+：好的。所以蘭迪，你的第一個問題是關於海外產能和晶圓廠擴張的問題。所以蘭迪在美國問，在亞利桑那州，我們的目標是 20K，我們是否會繼續將其建設成一個大型工廠類型的網站。而且他也想知道在中國，我猜你是指南京，我們有沒有計劃進一步擴大南京的產能。這是你的問題，對嗎，蘭迪？
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：是的，這就是問題所在，只是在海思之後中國反彈的前景，它的貢獻降至中個位數。
+：Mark Liu - Chairman of the Board
+：是的，這是馬克。讓我回答你的問題。是的，我們最近在鳳凰城收購了一塊 1,100 英畝的大地。當然，這是擁有超大規模生產基地的長期計劃。但目前，我們的計劃只是進行第一階段的生產，目標是 2024 年每月生產 20,000 片晶圓。我們將 - 展望未來，我們將根據市場狀況和成本經濟學以及政府提供的支持來彌補成本差異來決定下一步。
+：在中國，是的，我們確實有計劃繼續在中國擴張。但是，當然，處於領先地位的中國業務將——確實有一個重置。但我們確實預計中國的需求將持續，我們將逐步相應地增加我們在南京的產能。
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。好的。偉大的。我的第二個問題是你是否可以給出 - 我認為你給出了第一季度，但每個平台的全年增長。對於後端，您將資本支出翻倍，是什麼導致 InFO、CoWoS、SoIC 對後端增長前景的投資？
+：Jeff Su - Director of Investor Relations
+：好的。所以 Randy 是在詢問 2021 年的增長，首先是平台的增長前景，然後是後端的增長前景；然後在後端、InFO、CoWoS 之間按段進行。
+：Wendell Huang - VP & CFO
+：好的。 Randy，對於 2021 年的平台，我們認為 HPC 和汽車的增長將高於企業平均增長。以美元計算，智能手機和物聯網將與企業平均增長相似。在我們的後端業務方面，我們預計 2021 年它的增長將略高於公司。我們不披露後端業務的細節。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Randy Abrams - MD and Head of Taiwan Research in the Equity Research Department
+：好的。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝，蘭迪。
+：Operator
+：下一位是里昂證券的 Sebastian Hou。
+：Sebastian Hou - Research Analyst
+：是的。兩個跟進。第一個是關注 Mark 的評論，是的，我認為 Mark 之前說過，公司注意到 5 納米的需求也比你 3 個月前想像的要強。因此，我很好奇您是否可以向我們提供更多詳細信息，說明您認為哪些應用程序的需求強於預期。
+：Mark Liu - Chairman of the Board
+：高性能計算。
+：Sebastian Hou - Research Analyst
+：那麼對於高性能計算，是典型的消費電子產品還是更典型的 HPC 或區塊鏈相關？
+：Jeff Su - Director of Investor Relations
+：抱歉，我沒聽到——我們沒聽到最後一部分，塞巴斯蒂安。
+：Sebastian Hou - Research Analyst
+：是的，我很抱歉。我是說 HPC 部分，是和你現有的客戶更相關還是和區塊鏈相關的產品更相關？
+：Mark Liu - Chairman of the Board
+：讓我在這上面加一點顏色。正如溫德爾剛才所說，高性能計算將成為我們業務的主要增長動力。而這個領域目前正在發生令人興奮的變化。正如你所知，作為高性能計算的架構，來自不同的客戶，每個人都在努力通過不同的架構獲得最佳性能。這麼多，很多——更多的玩家正在進入這個領域。因此，我們看到在 N3 和 N5 上出現了更強大的創新，是的。
+：Sebastian Hou - Research Analyst
+：好的。好的。那挺好的。
+：Mark Liu - Chairman of the Board
+：加密貨幣——不是加密貨幣，塞巴斯蒂安。我們不指望這一點，但我們支持這一點，是的。
+：Sebastian Hou - Research Analyst
+：好的。是的，這很公平。第二個後續行動是溫德爾評論的後續行動，我認為今年根據指導，我們將看到資本支出強度上升到 50%。因此，如果我們根據收入指導進行計算，如果我們進行一些計算，這意味著今年的自由現金流可能 - 增長可能 - 將非常小甚至持平，這取決於如何事情過去了，但絕對沒有過去幾年那麼強大。所以我的問題是，公司是否仍然堅持 70% 的自由現金流的股息政策？
+：Jeff Su - Director of Investor Relations
+：好的。所以塞巴斯蒂安，你的問題是看看資本支出，看看我們的收入指導，今年的資本密集度約為 50%，那麼今年的自由現金流增長可能會放緩。那麼股息的前景如何？我們是否仍然使用 70% 的自由現金流作為現金分紅公式？
+：Wendell Huang - VP & CFO
+：正確的。 Sebastian，我們的股息政策有 2 部分，70% 的自由現金流但不會低於上一期。因此，我們仍然致力於可持續且穩步增加的現金股息。在投資較高的時期，重點將更多地放在可持續發展上。隨著我們收穫增長，重點將放在穩步增長上。
+：Sebastian Hou - Research Analyst
+：好的。因此，鑑於您支付 - 投資者在本季度獲得股息，這是您在 3 個季度前獲得的收益，所以如果我們進行計算模擬，這意味著在接下來的 24 個月內，投資者每季度可能仍會獲得 2.50 新台幣。這是一個公平的計算假設嗎？
+：Wendell Huang - VP & CFO
+：至少。至少。
+：Jeff Su - Director of Investor Relations
+：好的？
+：Sebastian Hou - Research Analyst
+：好的。
+：Jeff Su - Director of Investor Relations
+：好的。謝謝，塞巴斯蒂安。好的。謝謝大家。我們的問答環節到此結束。
+：在我們結束今天的會議之前，請注意，從現在起 4 小時內將可以看到會議的重播。成績單將在 24 小時後提供，兩者都將通過台積電的網站 www.tsmc.com 提供。
+：所以，感謝您今天加入我們。我們希望每個人都繼續保持健康和安全，我們希望您在下個季度再次加入我們。再見，祝你有美好的一天。
+：

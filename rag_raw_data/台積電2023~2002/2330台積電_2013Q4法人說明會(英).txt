@@ -1,0 +1,419 @@
+頁面標題: 	台積電 ADR (TSM) 2013Q4電話會議重點和逐字稿 - 財報狗
+
+：Elizabeth Sun - Director, Corporate Communications
+：(Spoken in foreign language) Welcome to TSMC's Fourth Quarter 2013 Earnings Conference and Conference Call.
+：Before we begin, please let me extend our warmest wishes to all of you for a very happy year of the horse.
+：The format for today's event will be as follows.
+：For those participants on the call, if you do not yet have a copy of the press release, you may download it from TSMC's website at www.tsmc.com.
+：As usual, I would remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties, which could cause actual results to differ materially from those contained in the forward-looking statements.
+：And now, I would like to turn the podium to TSMC's CFO, Ms. Lora Ho.
+：Lora Ho - SVP & CFO
+：Thank you, Elizabeth.
+：In the fourth quarter, TSMC's business was negatively impacted by semiconductor supply chain's inventory management.
+：Non-operating items was again of TWD2.6 billion.
+：Let's take a look at revenue by applications.
+：On a full year basis, communication increased 29% and represented 54% of our revenue of 2013.
+：By technology, 28- nanometer contributed 34% of our total wafer revenue in the fourth quarter, up from 32% in the third quarter.
+：Now let's move on to the balance sheet.
+：Let me make few comments on the cash flows.
+：Now I would like to give you a recap of our performance in year 2013.
+：On the profitability side, gross margin declined 1.1 percentage point to 47.1%, due to lower capacity utilization in 2013, while our structural profitability continued to improve.
+：On earnings, income before tax increased by 19% versus 2012.
+：I have finished my report on financial part.
+：As you can see, first quarter gross margin is expected to be better than the fourth quarter, despite a lower revenue.
+：Another thing I want to highlight is the tax rate for 2014.
+：This concludes my remarks.
+：Morris Chang - Chairman
+：Good afternoon, ladies and gentlemen.
+：Next, Dr. C. C. Wei.
+：Mark Liu; Mark has a B.S. from National Taiwan University and a Ph.
+：I am not going to introduce myself.
+：4Q, I think, Lora already discussed it.
+：Now looking at 2014, we expect still another consecutive year of double-digit growth in revenue and I will talk a little more about profit later.
+：For full year 2014, we forecast the following industry numbers.
+：Depreciation expense is expected to increase by about 35% year-to-year.
+：We also plan to have better operating efficiencies.
+：We believe we can maintain and perhaps even improve our structural profitability in 2014 versus last year.
+：I will say a few words about mobile products now and C.C. will, a little later, talk about the technologies, the new technologies.
+：And TSMC's share in the non-memory silicon content of these devices is expected to increase from 45% last year to 47% this year.
+：Now let me ask C.C. to speak to the technology aspects of our growth engine.
+：C.C. Wei - President & Co-CEO
+：Yes, thank you Chairman.
+：Let me add more color to it.
+：Now, furthermore, after the 28HPM, we also offer 28HPC, which is a low-cost version of the 28HPM.
+：Okay, let me give you some information on the competition to explain why we are so confident on this 28 nanometers high-K metal gate business.
+：In addition to that I'll say that because of the better process control and TSMC's manufacturing excellence, we have a much better yield than our competitor, so that our customer will enjoy the lower die cost.
+：Now, let me switch the gear to 20-SoC.
+：Let me add more information to that.
+：Another fact to share with you, we have probably -- at the end of this year, we have more than dozens of tape-out from about a dozen customers that they are producing the 20SoC product, okay?
+：I'm very confident that our 20SoC is the highest gate density in volume production at 20 nanometers node.
+：Morris Chang - Chairman
+：Thank you C.C. Now looking into next year now, 2015, and perhaps even 2016, I think next year this time I will be telling you that our growth engine in technology next year, a year from now is going to be 16-FinFET.
+：Mark Liu - President & Co-CEO
+：Good afternoon, ladies and gentlemen.
+：Our 16-FinFET yield improvement has been ahead of our plan.
+：Let me comment on the Intel's recent graph shown in their investor meetings, showing on the screen.
+：On this view graph, the vertical axis is the chip area on a log scale.
+：We took the approach of significantly using the FinFET transistor to improve the transistor performance on top of the similar back-end technology of our 20 nanometer.
+：And for the 10 nanometer, we haven't announced it, but we did communicate with many of our customers that that will be the aggressive scaling of technology we're doing.
+：However, the real competition is between our customer's product and Intel's product or Samsung's product.
+：We've been actively working with our customer's designer on this since last year.
+：Lastly, I would comment on the mobile products.
+：Morris Chang - Chairman
+：Thank you, Mark.
+：In 2014, the market segment that most strongly fuels our growth is the smartphone and tablet-mobile segment.
+：
+：Operator
+：(Operator Instructions) Roland Shu, Citi Securities.
+：Roland Shu - Analyst
+：Happy New Year, Chairman, Dr. Liu, Dr. Wei and Lora, and very happy to see Chairman to host the analyst meeting today.
+：Morris Chang - Chairman
+：Mark, would you answer that?
+：Mark Liu - President & Co-CEO
+：16 FinFET-plus is a transistor enhancement.
+：Roland Shu - Analyst
+：Okay, thank you.
+：Mark Liu - President & Co-CEO
+：The question again.
+：Roland Shu - Analyst
+：I mean -- actually very happy to hear you are so confident about your 16 and 16-plus [FinFET].
+：Lora Ho - SVP & CFO
+：If you look at free cash flow, when the free cash flow sufficiently cover our current TWD3 per share dividend level, that is the time we will seriously consider to increase cash dividend.
+：Roland Shu - Analyst
+：So, in my model actually my estimate this year 2014, free cash flow probably will reach about [$3.5, $3.6] per share.
+：Lora Ho - SVP & CFO
+：That's the major element.
+：Roland Shu - Analyst
+：Okay, thank you.
+：Morris Chang - Chairman
+：I guess he is asking when we will raise the cash dividend.
+：Operator
+：Dan Heyler, Bank of America Merrill Lynch.
+：Dan Heyler - Analyst
+：Thanks.
+：I've got two questions.
+：Morris Chang - Chairman
+：Mark, will you answer that please?
+：Mark Liu - President & Co-CEO
+：The current process of records, our current execution plan is -- on 10 nanometer do not have EUV, it's all in immersion layers.
+：Dan Heyler - Analyst
+：Okay, and a quick follow-up on that, if we were to draw that curve that you put up earlier, would that look fairly linear, based on our current models, on your cost curve previously that you had showed?
+：Mark Liu - President & Co-CEO
+：That curve is without EUV.
+：Dan Heyler - Analyst
+：Exactly, without -- with the EUV and we imagined a dotted line, do we go through it with a bit of penalty there and then we are back on trend or do you think --?
+：Mark Liu - President & Co-CEO
+：It's the same.
+：Morris Chang - Chairman
+：We're looking at EUV just as a cost reduction.
+：Mark Liu - President & Co-CEO
+：Yes, cost reduction opportunities.
+：Dan Heyler - Analyst
+：Excellent.
+：Morris Chang - Chairman
+：I think that Lora just explained what we have started to do, which is really what the IDMs do all the time, that is they build some inventory when the utilization is slower, they build some inventory and that's what we are doing too.
+：So now we didn't get completely organized.
+：Dan Heyler - Analyst
+：And is at 2 percentage points to 3 percentage points something that you're modeling kind of through the course of the year or is that in a single quarter?
+：Morris Chang - Chairman
+：I don't think it's possible.
+：Dan Heyler - Analyst
+：Or through the course of the cycle or is that just one quarter?
+：Lora Ho - SVP & CFO
+：Yes.
+：Dan Heyler - Analyst
+：I misspoke there.
+：Morris Chang - Chairman
+：The answer is no, but it's -- when we see that we need to use it, we'll do it.
+：Dan Heyler - Analyst
+：Thank you very much.
+：Morris Chang - Chairman
+：We don't model it way in advance, okay?
+：Dan Heyler - Analyst
+：And is there anything else you can do to affect this -- the volatility and improvement in margins?
+：Morris Chang - Chairman
+：Yes.
+：Elizabeth Sun - Director, Corporate Communications
+：All right, we will now take our next question from the call.
+：Operator
+：Randy Abrams, Credit Suisse.
+：Randy Abrams - Analyst
+：Thank you.
+：Morris Chang - Chairman
+：Yes.
+：Now, actually, this is an overseas call, is this correct?
+：Now -- so my role in the future is really to convert these two gentlemen from the Taiwan sense President to the US sense CEO, and it will be a gradual process.
+：Elizabeth Sun - Director, Corporate Communications
+：Randy, do you think Chairman has explained your questions clearly?
+：Randy Abrams - Analyst
+：Yes, that was clear.
+：Morris Chang - Chairman
+：Did you get the question?
+：Elizabeth Sun - Director, Corporate Communications
+：16-nanometer battle in 2015.
+：Mark Liu - President & Co-CEO
+：Right now, we may intend to maintain our position in the foundry business on 16-FinFET as we did on the 28.
+：Morris Chang - Chairman
+：Well, we live on technology.
+：Elizabeth Sun - Director, Corporate Communications
+：Michael Chou, Deutsche Bank.
+：Michael Chou - Analyst
+：Actually, it's a follow-up question on 16-nanometer, because you mentioned you should take the lead in 16-nanometer FinFET.
+：Mark Liu - President & Co-CEO
+：In the transistor design, the speed and power is convertible.
+：Michael Chou - Analyst
+：Second question is, could you update your sales proportion expectation for 20 nanometer this year?
+：Mark Liu - President & Co-CEO
+：I thought I already said around 10% wafer revenue --
+：Morris Chang - Chairman
+：For the year.
+：Mark Liu - President & Co-CEO
+：For the year, yes.
+：Morris Chang - Chairman
+：And so by the fourth quarter, it will be much higher, yes.
+：Michael Chou - Analyst
+：How about the fourth quarter this year?
+：Morris Chang - Chairman
+：Negligible.
+：Michael Chou - Analyst
+：Q4, this year?
+：Mark Liu - President & Co-CEO
+：Q4 this year is very high.
+：Morris Chang - Chairman
+：Q4, 2014 will be very high.
+：Lora Ho - SVP & CFO
+：With 10% for the total year of wafer revenue, we expect fourth quarter alone 20 nanometer will contribute more than 20% of our wafer revenue.
+：Michael Chou - Analyst
+：Thank you.
+：Elizabeth Sun - Director, Corporate Communications
+：Andrew Lu, Barclays.
+：Andrew Lu - Analyst
+：(Foreign language).
+：Morris Chang - Chairman
+：No, I don't want to say that.
+：Andrew Lu - Analyst
+：Switchable?
+：Morris Chang - Chairman
+：Switchable.
+：Andrew Lu - Analyst
+：So we might see a kind of different case.
+：Morris Chang - Chairman
+：No.
+：Andrew Lu - Analyst
+：It's kind of a floating change based on the customer demand.
+：Morris Chang - Chairman
+：I think it flows one way, from 20 to 16.
+：Andrew Lu - Analyst
+：My second question is, since the 14- and 16-nanometer FinFET argument among these top three players so much, why we choose 16-FinFET in the first place?
+：Morris Chang - Chairman
+：Well, the best laid plan by man is sometimes undone by God, okay?
+：Andrew Lu - Analyst
+：Okay, let me ask it in another way.
+：Morris Chang - Chairman
+：Yes, always.
+：Andrew Lu - Analyst
+：So if we want to know the answer, if we invest on 14 instead of 16, what's the equivalent term used for 14-nanometer versus the -- or 16 (multiple speakers)?
+：Morris Chang - Chairman
+：If we invest in 14 -- we are not investing in 14.
+：Andrew Lu - Analyst
+：No, if 20 into 16, 20 and 14, what percentage (multiple speakers) 20 nanometer can be used in 14 nanometer?
+：Morris Chang - Chairman
+：My goodness.
+：Elizabeth Sun - Director, Corporate Communications
+：Steven Pelayo, HSBC.
+：Steven Pelayo - Analyst
+：Great.
+：Morris Chang - Chairman
+：Well, actually, five is pretty normal.
+：Steven Pelayo - Analyst
+：It is my guess.
+：Morris Chang - Chairman
+：Yeah.
+：Lora Ho - SVP & CFO
+：Seven or eight quarter for 28-nanometer, But I can tell you, 20-SoC will be the same as 28-nanometer, will reach corporate average at seven or eight quarters like 28-nanometer.
+：Steven Pelayo - Analyst
+：And then if I could just get a clarification on that.
+：Morris Chang - Chairman
+：No.
+：Lora Ho - SVP & CFO
+：If I can add one more point, the real purpose is not to lose capacity.
+：Elizabeth Sun - Director, Corporate Communications
+：Gokul Hariharan, JPMorgan.
+：Gokul Hariharan - Analyst
+：Hi, thanks for taking my question, Dr. Chang, Dr. Wei and Liu and Lora.
+：Morris Chang - Chairman
+：C.C.?
+：C.C. Wei - President & Co-CEO
+：Do I need to repeat the question?
+：Gokul Hariharan - Analyst
+：Yes.
+：C.C. Wei - President & Co-CEO
+：Okay.
+：Elizabeth Sun - Director, Corporate Communications
+：Donald Lu, Goldman Sachs.
+：Donald Lu - Analyst
+：So Chairman, (spoken in foreign language).
+：Morris Chang - Chairman
+：All right.
+：So now, Donald, your other question is whether they're going to rotate.
+：Donald Lu - Analyst
+：Yes, please.
+：Morris Chang - Chairman
+：That's because they picked on us.
+：Donald Lu - Analyst
+：I understand.
+：Morris Chang - Chairman
+：Well, I think, Donald, we have already given everybody enough information on our 16-FinFET.
+：Donald Lu - Analyst
+：Yes.
+：Elizabeth Sun - Director, Corporate Communications
+：Bill Lu, Morgan Stanley..
+：Bill Lu - Analyst
+：(inaudible - microphone inaccessible).
+：Morris Chang - Chairman
+：Smartphone what?
+：Bill Lu - Analyst
+：(inaudible - microphone inaccessible).
+：Morris Chang - Chairman
+：Yes, right.
+：Bill Lu - Analyst
+：(inaudible - microphone inaccessible).
+：Morris Chang - Chairman
+：No, I'm afraid I'm no expert on that.
+：Bill Lu - Analyst
+：Or just to make sure I understand, so you kind of categorized into high-end, mid-end and low-end, do you see that the semi content is going up for each one of these segments, or what's the--?
+：Morris Chang - Chairman
+：Do we data on that, Lora?
+：Lora Ho - SVP & CFO
+：The high-end content definitely will go up.
+：Morris Chang - Chairman
+：I actually look at more.
+：Bill Lu - Analyst
+：That's very helpful.
+：C.C. Wei - President & Co-CEO
+：In terms of TSMC, I would say greater than 80% of the 28-nanometers loading will be high-K metal gate.
+：Bill Lu - Analyst
+：How about for the industry?
+：C.C. Wei - President & Co-CEO
+：I cannot comment on that.
+：Operator
+：Mehdi Hosseini, SIG.
+：Mehdi Hosseini - Analyst
+：Thank you for taking my question.
+：Morris Chang - Chairman
+：I think it's -- it sounds like C.C., but doesn't -- did you hear the question?
+：C.C. Wei - President & Co-CEO
+：Well, the question is that he asked from the 28-nanometer HPM compared with 28.
+：Morris Chang - Chairman
+：Go ahead and answer that, if you know what the question is.
+：C.C. Wei - President & Co-CEO
+：All right.
+：Mehdi Hosseini - Analyst
+：And what about 28?
+：C.C. Wei - President & Co-CEO
+：I cannot hear you clearly.
+：Elizabeth Sun - Director, Corporate Communications
+：Mehdi, are you still on the line?
+：Mehdi Hosseini - Analyst
+：Yes.
+：Elizabeth Sun - Director, Corporate Communications
+：Okay.
+：Mehdi Hosseini - Analyst
+：Yes.
+：C.C. Wei - President & Co-CEO
+：Okay, 28 to 20 got about 20% improvement in terms of performance.
+：Mehdi Hosseini - Analyst
+：Yes, it does.
+：C.C. Wei - President & Co-CEO
+：Okay.
+：Mehdi Hosseini - Analyst
+：And let me move on to the second question that I have for Dr. Chang.
+：Elizabeth Sun - Director, Corporate Communications
+：So Mehdi, your question is about seasonality of this year, whether we will have a strong rebound in second quarter from first quarter, and then whether we will have a stronger second half than the first half?
+：Mehdi Hosseini - Analyst
+：Yes.
+：Morris Chang - Chairman
+：Our current outlook is very, very anti-normal seasonal.
+：Mehdi Hosseini - Analyst
+：Thank you, that's pretty helpful.
+：Elizabeth Sun - Director, Corporate Communications
+：Eric Chen, Daiwa.
+：Eric Chen - Analyst
+：(spoken in foreign language) Happy New Year.
+：Morris Chang - Chairman
+：We intend to be a significant factor in the China market.
+：Eric Chen - Analyst
+：Okay.
+：C.C. Wei - President & Co-CEO
+：Our 28 HPC is still the high-K metal gate version, so the performance will be much better than 28LP, but yet it is a low cost version.
+：Eric Chen - Analyst
+：How many percent of performance improvement, how many percent the price is lower than (inaudible)?
+：Morris Chang - Chairman
+：From LP to HPC, I think.
+：C.C. Wei - President & Co-CEO
+：Yeah.
+：Morris Chang - Chairman
+：You realize it depends on the guy that designs it too.
+：C.C. Wei - President & Co-CEO
+：You are mentioning about the performance?
+：Morris Chang - Chairman
+：Speed.
+：C.C. Wei - President & Co-CEO
+：Oh the speed.
+：Eric Chen - Analyst
+：So how much percent better?
+：C.C. Wei - President & Co-CEO
+：30% better.
+：Eric Chen - Analyst
+：Okay, that's it.
+：Morris Chang - Chairman
+：We're not talking about wafer price.
+：Eric Chen - Analyst
+：Okay, that's it.
+：Morris Chang - Chairman
+：We'll tell our customers wafer price.
+：Eric Chen - Analyst
+：Thank you.
+：Morris Chang - Chairman
+：No, no, no.
+：Eric Chen - Analyst
+：They'll rise also by several points.
+：Lora Ho - SVP & CFO
+：Actually, Chairman just gave you the answer.
+：Eric Chen - Analyst
+：I would like to know, compared to the last year, (multiple speaker) stronger the confidence on the ASP?
+：Elizabeth Sun - Director, Corporate Communications
+：Well, Eric assume that 2013, our ASP went up by 5%, which we will not comment.
+：Jonah Cheng - Analyst
+：(spoken in foreign language) Just one small question for me.
+：Morris Chang - Chairman
+：Now we have not considered that.
+：Elizabeth Sun - Director, Corporate Communications
+：I think, Jonah, your question is, can TSMC benefit from the benefit of the Chinese companies?
+：Morris Chang - Chairman
+：Well, I don't know about that.
+：Mark Liu - President & Co-CEO
+：Can I add a point?
+：Morris Chang - Chairman
+：Yeah.
+：Mark Liu - President & Co-CEO
+：I think we will benefit.
+：Morris Chang - Chairman
+：Oh, we will?
+：Mark Liu - President & Co-CEO
+：The fabless companies in China are very aggressive approaching leading-edge technologies.
+：Morris Chang - Chairman
+：I don't see how the two are related.
+：Mark Liu - President & Co-CEO
+：Because our technology -- leading-edge technology is not yet available in China.
+：Morris Chang - Chairman
+：Yes, that I know.
+：Mark Liu - President & Co-CEO
+：Their business will be aggressive moving into leading-edge, which will benefit our competitive advantage.
+：Morris Chang - Chairman
+：They will be generally better off after receiving the subsidy, as that allows them to move faster into leading-edge technology.
+：Elizabeth Sun - Director, Corporate Communications
+：All right.
+：Morris Chang - Chairman
+：Thank you very much.
+：

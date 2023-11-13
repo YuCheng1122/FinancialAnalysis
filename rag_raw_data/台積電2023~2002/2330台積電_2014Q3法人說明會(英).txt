@@ -1,0 +1,482 @@
+頁面標題: 	台積電 ADR (TSM) 2014Q3電話會議重點和逐字稿 - 財報狗
+
+：Elizabeth Sun - Director of Corporate Communications
+：Welcome to TSMC's third quarter 2014 earnings conference and conference call.
+：The format for today's event will be as follows.
+：For those participants on the call, if you do not yet have a copy of the press release, you may download it from TSMC's website at www.tsmc.com.
+：As usual, I would like to remind everybody that today's discussions may contain forward-looking statements that are subject to significant risks and uncertainties which could cause the actual results to differ materially from those contained in the forward-looking statements.
+：And now, I would like to turn the podium to TSMC's CFO Ms. Lora Ho for the summary of our operations and current quarter guidance.
+：Lora Ho - SVP & CFO
+：Thank you, Elizabeth.
+：We had a good quarter.
+：Operating margin was 40.4%, up 1.8 percentage points from the second quarter, reflecting an improving operating efficiency for the Company.
+：Overall, the third quarter EPS increased 47% sequentially to TWD2.94.
+：Let's take a look at revenue by application.
+：By technology, after two years of meticulous preparation we began volume shipments of 20-nanometer wafers.
+：In addition, customer demand for 28-nanometer wafers continued to be strong.
+：Accordingly the two advanced technologies, 20-nanometer plus 28-nanometer, represented 43% of our third quarter total wafer revenue, increased from 37% a quarter ago.
+：Now let's move on to the balance sheet.
+：On the financial ratios, accounts receivable turnover days is 44 days which is the normal level of our average days of receivables.
+：Now let me make a few comments on cash flow and CapEx.
+：Free cash flow for the third quarter was an inflow of TWD43b, a big improvement versus previous quarters.
+：In US dollars, our [third] (corrected by company after the call) quarter CapEx was $1.6b.
+：Regarding our capacity, we expect to increase our capacity by 12% from last year.
+：I have finished my report on the financial part.
+：On the margin side, we expect the fourth quarter gross margins to be between 48% and 50% and operating margins to be between 38% and 40%.
+：This concludes my remarks.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Lora Ho - SVP & CFO
+：I will talk about three items, the CapEx, free cash flow and supply chain inventory.
+：Let me start with CapEx.
+：On free cash flow outlook, you may recall in the past four years TSMC has increased CapEx substantially to capture the growth opportunity brought by the mobile computing devices.
+：The sustainably higher free cash flow should enable TSMC to afford paying a higher level of dividend per share going forward.
+：Now, regarding the supply chain inventory, we have noted in our last quarterly conference that we estimate fabless DOI would increase and be 2 days above seasonal at the end of third quarter and then fabless DOI would decrease and be 2 days below seasonal level at the end of this year.
+：You can see from this chart, we estimate 4Q, 2014 fabless DOI will be 2 days below seasonal.
+：With that, I will turn the podium to Mark who will share with you our view on the near-term demand.
+：Mark Liu - Co-CEO
+：Good afternoon.
+：This fourth quarter demand from our customers does not validate the recent forecast by Microchip.
+：On 10-nanometer development, our 10-nanometer development is progressing according to plan.
+：Our goal is to enable our customers' production in 2016.
+：We are working with over 10 customers on their 10-nanometer product design.
+：Then I'll cover the -- say a few words -- I'll clarify next growth momentum of TSMC.
+：That's my comment.
+：C.C. Wei - Co-CEO
+：Thanks, Mark.
+：First the 20-nanometer ramp status.
+：We expect the strength of our 20-nanometer business to continue in year 2015.
+：Next, I'll talk about the 16-nanometer ramp and competitive status.
+：16 FinFET we began the risk production in November last year and since then have passed all the reliability qual early this year.
+：So right now we have more than 1,000 engineers working on ramp up for the FinFET Plus.
+：In addition to the process technologies, our 16 FinFET design ecosystem is ready also.
+：On the performance side, compared with the 20 SOC, 16 FinFET is greater than 40% speed faster than the 20 SOC at the same total power or consumes less than 50% power at the same speed.
+：This kind of a performance will give our customer a lot of flexibility to optimize their design for different market applications.
+：In summary, because of the excellent progress in yield learning and readiness in manufacturing maturity and also to meet customers' demand, we plan to pull in 16-nanometer volume production through the end of Q2 next year or early Q3 year 2015.
+：The yield performance and smooth progress of our 16 FinFET, FinFET Plus further validate our strategy of starting 20 SOC first, quickly follow with the 16 FinFET and FinFET Plus.
+：And I would like to repeat our Chairman stated last time, in combined 20- and 16-nanometer, TSMC will have an overwhelming leading share every year from year 2014.
+：Next, I'll talk about 28-nanometer status.
+：Let me give you an example.
+：In summary, we expect our technology span in 28-nanometer node will enhance TSMC's competitiveness and ensure a good market share.
+：Thank you for your attention.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Our first question comes from the floor, of Deutsche Bank, Michael Chou.
+：Michael Chou - Analyst
+：Hi, thank you.
+：C.C. Wei - Co-CEO
+：Yes.
+：Michael Chou - Analyst
+：Okay.
+：C.C. Wei - Co-CEO
+：Very hard for me to comment on the whole market share but if there's any indication, I would say that we narrow the gap with our competitor.
+：Michael Chou - Analyst
+：Okay.
+：C.C. Wei - Co-CEO
+：Yes.
+：Michael Chou - Analyst
+：Thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Rick Hsu - Analyst
+：Okay, thank you.
+：Lora Ho - SVP & CFO
+：No, it will not.
+：Rick Hsu - Analyst
+：All right.
+：Lora Ho - SVP & CFO
+：Yes, we count the 20 and 16 as one node in terms of ramping and scheduled capacity and so on and so forth.
+：Rick Hsu - Analyst
+：This doesn't count as a second question, does it?
+：Lora Ho - SVP & CFO
+：All right, you can have a second question, yes.
+：Rick Hsu - Analyst
+：Right, okay.
+：So I think my feeling is these guys seem to be aiming for the next growth potential market which is IoT.
+：Mark Liu - Co-CEO
+：Okay, this is a complicated question.
+：And this subsidy may also pro -- bring into a merger position because China government wants the small company bringing into big, to be more competitive.
+：Of course, there will be downsides because on the back of the subsidy maybe some of the companies will under the influence of using local foundries and capacities and that is a threat; may I put it this way.
+：On the IoT, IoT, indeed IoT has been anticipated by many companies including us.
+：On the capacity, yes, we are increasing our mature technology capacities today.
+：In terms of -- further new fab, we don't exclude any possibility, including the fab in China.
+：Rick Hsu - Analyst
+：Thank you so much.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Dan Heyler - Analyst
+：Thanks Elizabeth, thanks.
+：C.C. Wei - Co-CEO
+：We believe the demand on 28-nanometer will continue as I stated in my statement.
+：Dan Heyler - Analyst
+：From where?
+：C.C. Wei - Co-CEO
+：From where?
+：Dan Heyler - Analyst
+：Okay, great.
+：C.C. Wei - Co-CEO
+：You bet.
+：Dan Heyler - Analyst
+：Okay, great.
+：Lora Ho - SVP & CFO
+：Dan, fourth quarter 20% is not equal to whole year 20%.
+：Dan Heyler - Analyst
+：Yes.
+：Mark Liu - Co-CEO
+：Both.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Operator
+：Thank you.
+：Donald Lu - Analyst
+：Good afternoon.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay, Donald.
+：Donald Lu - Analyst
+：Yes.
+：Lora Ho - SVP & CFO
+：Donald, we actually don't count on quarterly basis percentages of smartphone, but I can tell you I can see for the whole year 2014 there will be a little bit more than 50% of our revenue coming from smartphone.
+：Elizabeth Sun - Director of Corporate Communications
+：And revenue per box.
+：Lora Ho - SVP & CFO
+：Revenue per box, the average $8 this year which is an improvement from last year's $7.
+：Donald Lu - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：It's probably too premature to talk about next year, but I would think the percentage will be very similar to this year.
+：Donald Lu - Analyst
+：Okay great.
+：Lora Ho - SVP & CFO
+：We continue to work on productivity and cost reductions.
+：Donald Lu - Analyst
+：Great, thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Randy Abrams - Analyst
+：Yes, thank you.
+：C.C. Wei - Co-CEO
+：Excuse me.
+：Randy Abrams - Analyst
+：For 16 FinFET for next year, when you ramp it up in the second half, percent of revenue.
+：C.C. Wei - Co-CEO
+：Probably too early to comment on the revenue side.
+：Randy Abrams - Analyst
+：Congratulations.
+：Lora Ho - SVP & CFO
+：I would prefer not getting into the first quarter next year.
+：Randy Abrams - Analyst
+：Thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Bill Lu - Analyst
+：Hi, thank you.
+：Lora Ho - SVP & CFO
+：That's our fabless customers.
+：Bill Lu - Analyst
+：Okay, great.
+：Mark Liu - Co-CEO
+：Yes, smartphone revenue next year appears flattening out total.
+：Bill Lu - Analyst
+：Sorry, I thought Lora's comment was as a percentage of total revenue, smartphone is not going up next year versus the last couple of years it's been increasing.
+：C.C. Wei - Co-CEO
+：What Lora said is similar, actually there will be a little bit increase.
+：Bill Lu - Analyst
+：All right, thanks.
+：Lora Ho - SVP & CFO
+：Yes, you forget that we will grow -- we're going to grow next year the Company.
+：Bill Lu - Analyst
+：Sure.
+：Lora Ho - SVP & CFO
+：So it's a growth above the average, yes.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Roland Shu - Analyst
+：Hi, good afternoon.
+：So my question is for your 20-nanometer in 4Q I think the revenue guidance is above 20%.
+：Lora Ho - SVP & CFO
+：Okay, this is a unique way of associating the percentage of revenue to the gross margin.
+：So if you combine these two nodes together and -- well, I cannot say if 20% is a threshold or not.
+：Roland Shu - Analyst
+：But for the volume-wise actually I think it is big enough now.
+：Lora Ho - SVP & CFO
+：It's not possible because with -- the 20-nanometer will be very soon migrate to 16 and 16 will take the momentum from 20.
+：Roland Shu - Analyst
+：Okay, little bit complicated to me.
+：So how about expectation for the next five years, 2015 to 2018 or 2019.
+：Lora Ho - SVP & CFO
+：We believe we will still grow faster than the semiconductor and as you know in the past few years, we have been growing 2X of semiconductor.
+：Roland Shu - Analyst
+：Thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：All right, let's go back to the call.
+：Operator
+：Brett Simpson, Arete Research.
+：Brett Simpson - Analyst
+：Thanks very much.
+：And maybe just to follow up to that, can you maybe just compare and contrast.
+：Elizabeth Sun - Director of Corporate Communications
+：All right, Brett, let me repeat your question.
+：Brett Simpson - Analyst
+：That's right, Elizabeth.
+：Elizabeth Sun - Director of Corporate Communications
+：So you're specific to 2015.
+：Brett Simpson - Analyst
+：That's right.
+：Mark Liu - Co-CEO
+：Well, we certainly hope the ARM-based core can get into PC faster.
+：So it's up to our customers and their customers how we together get into this.
+：Brett Simpson - Analyst
+：Great.
+：Elizabeth Sun - Director of Corporate Communications
+：So your question is looking at our balance sheet, there's a very large item called construction in progress which of course eventually will become capacity.
+：Brett Simpson - Analyst
+：That's right, thanks.
+：Lora Ho - SVP & CFO
+：We are building new facilities to ramp the 20 and 16-nanometer which will be located in our Tainan site.
+：So what I can tell you is the depreciation change.
+：With slightly more CapEx for next year as I was talking about, the depreciation increase will be much smaller than this year versus last year.
+：Brett Simpson - Analyst
+：Thank you very much.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay, now let's come back to the floor and Andrew is eagerly anticipating me.
+：Andrew Lu - Analyst
+：(Spoken in Chinese).
+：Elizabeth Sun - Director of Corporate Communications
+：Okay, I have to translate your questions into English.
+：C.C. Wei - Co-CEO
+：No.
+：Andrew Lu - Analyst
+：(Spoken in Chinese).
+：C.C. Wei - Co-CEO
+：Actually if you look at what we announced this year, early this year we said that the 20 SoC is in production.
+：16 FinFET actually is longer because they have more masking layers.
+：Andrew Lu - Analyst
+：(Spoken in Chinese).
+：C.C. Wei - Co-CEO
+：(Multiple speakers) It's two quarter late, two quarter difference.
+：Elizabeth Sun - Director of Corporate Communications
+：The lead time or the shipments.
+：C.C. Wei - Co-CEO
+：It's one and a half quarter to be exact.
+：Andrew Lu - Analyst
+：(Spoken in Chinese).
+：C.C. Wei - Co-CEO
+：In the fourth quarter we will see a contribution.
+：Andrew Lu - Analyst
+：(Spoken in Chinese).
+：C.C. Wei - Co-CEO
+：High single digit.
+：Andrew Lu - Analyst
+：Okay, thank you.
+：Mark Liu - Co-CEO
+：Okay.
+：Andrew Lu - Analyst
+：Thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：Next question also comes from the floor.
+：Steven Pelayo - Analyst
+：When I look back at 28-nanometer you've had seven quarters of solid absolute dollar growth sequentially.
+：C.C. Wei - Co-CEO
+：Yes, we still see the 20-nanometer continue to grow next year.
+：Steven Pelayo - Analyst
+：So even quarterly in the first quarter, second quarter, with seasonality, you still will see sequential dollar-on-dollar growth (multiple speakers).
+：C.C. Wei - Co-CEO
+：There might have some kind of seasonality but on the average yes, it's still growing.
+：Steven Pelayo - Analyst
+：I understand, yes.
+：Lora Ho - SVP & CFO
+：I think the key input is the sustainability of free cash flow generation, consider the potential CapEx for the future years and the operating cash flow we can generate with that kind of business growth.
+：I probably cannot tell you what's the magnitude because we need to discuss with the Board.
+：Steven Pelayo - Analyst
+：I'm sorry, if I could just sneak in a follow up to that first question to you.
+：C.C. Wei - Co-CEO
+：Very hard to answer your question.
+：Lora Ho - SVP & CFO
+：It's too early to give a guidance (multiple speakers) on margins.
+：Mark Liu - Co-CEO
+：But we think the seasonality -- since last year we have this mechanism of pre-built, work with our customers to smooth out the utilization.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Eric Chen - Analyst
+：Hi.
+：Elizabeth Sun - Director of Corporate Communications
+：So Eric's question is he assumes that we will have a very good yield rate on the 16-nanometer FinFET.
+：Eric Chen - Analyst
+：Or straightforward, like Samsung, Global Foundry, they mention they have around 50,000 wafers at the end of this year.
+：C.C. Wei - Co-CEO
+：Let me answer your question.
+：Yes, we did ramp up the 16 FinFET behind our competitors, yes.
+：Eric Chen - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：2016?
+：Eric Chen - Analyst
+：2016, I'm sorry, the year 2016, the overcapacity (multiple speakers)?
+：C.C. Wei - Co-CEO
+：Overcapacity?
+：Eric Chen - Analyst
+：The yield rate will be the key right?
+：C.C. Wei - Co-CEO
+：Yes.
+：Eric Chen - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：That's the right assumption, yes.
+：Eric Chen - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：I don't know because we only look at the two nodes together.
+：Eric Chen - Analyst
+：Okay and my second question --
+：Elizabeth Sun - Director of Corporate Communications
+：You already had two questions.
+：Eric Chen - Analyst
+：Okay, sure.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Dan Heyler - Analyst
+：Thank you.
+：Lora Ho - SVP & CFO
+：Next year is not decided yet.
+：Dan Heyler - Analyst
+：I imagine front-end loaded.
+：Lora Ho - SVP & CFO
+：Actually I don't have the number with me.
+：Dan Heyler - Analyst
+：Probably kind of similar to this year than prior year in terms of the weighting?
+：Lora Ho - SVP & CFO
+：This year it's not that front-end loaded.
+：Dan Heyler - Analyst
+：Okay, great, thanks.
+：Lora Ho - SVP & CFO
+：I said this year we will grow about 12% in total capacity.
+：Dan Heyler - Analyst
+：Great.
+：Lora Ho - SVP & CFO
+：A couple hundred million is not peanuts.
+：Dan Heyler - Analyst
+：Two million.
+：Lora Ho - SVP & CFO
+：A couple hundred million.
+：Dan Heyler - Analyst
+：A couple hundred million capacity.
+：Lora Ho - SVP & CFO
+：A couple hundred million US dollars.
+：Dan Heyler - Analyst
+：Okay.
+：Mark Liu - Co-CEO
+：Taking out 20 it's down, is down.
+：Dan Heyler - Analyst
+：Down low single-digit is what it looks like?
+：Mark Liu - Co-CEO
+：We don't know.
+：Dan Heyler - Analyst
+：Double-digit decline for non-20.
+：Mark Liu - Co-CEO
+：For non-20 yes.
+：Dan Heyler - Analyst
+：Great.
+：Elizabeth Sun - Director of Corporate Communications
+：Right.
+：Randy Abrams - Analyst
+：This one might be more for CC.
+：C.C. Wei - Co-CEO
+：It takes time for the customers really to adopt the new packaging because that effect their design, architecture and also everything.
+：Randy Abrams - Analyst
+：So it's probably more the following year.
+：C.C. Wei - Co-CEO
+：The significant volume will be in 2016.
+：Randy Abrams - Analyst
+：Okay.
+：Mark Liu - Co-CEO
+：We have a fab in China today with 8-inch and we are expanding that capacity also.
+：Randy Abrams - Analyst
+：Thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：So now we are going back to Eric for his follow-up questions.
+：Eric Chen - Analyst
+：Elizabeth, thank you very much.
+：Mark Liu - Co-CEO
+：On EUV you mean the question?
+：Eric Chen - Analyst
+：Yes, in terms of the 10-nano?
+：Mark Liu - Co-CEO
+：Our current 10-nanometer it does not using EUV.
+：Eric Chen - Analyst
+：I thought you use two, right, EUV and the one you mentioned?
+：Mark Liu - Co-CEO
+：We are working with ASML to develop EUV tools and the opportunity is to have a follow-on process simplification, using EUV, the masking layer simplification.
+：Eric Chen - Analyst
+：Okay.
+：Mark Liu - Co-CEO
+：In terms of not using EUV?
+：Eric Chen - Analyst
+：Yes, in terms (multiple speakers).
+：Mark Liu - Co-CEO
+：Yes, Intel appears -- announced they don't use the EUV on their 10.
+：Eric Chen - Analyst
+：So it's a different way, right?
+：Mark Liu - Co-CEO
+：I'm sorry I don't know Intel technology that well.
+：Eric Chen - Analyst
+：Okay.
+：Mark Liu - Co-CEO
+：That's our plan.
+：Eric Chen - Analyst
+：Okay, very clear.
+：Elizabeth Sun - Director of Corporate Communications
+：Follow-on questions from Andrew Lu.
+：Andrew Lu - Analyst
+：Very quick two questions.
+：C.C. Wei - Co-CEO
+：Probably 70 to 30.
+：Andrew Lu - Analyst
+：For both quarters?
+：Mark Liu - Co-CEO
+：In Q3, it's probably more than 20 -- more than 80% High-K Metal Gate and less than 20% Poly/SiON.
+：Andrew Lu - Analyst
+：Because of the customers, right?
+：Mark Liu - Co-CEO
+：Because of the customers.
+：Andrew Lu - Analyst
+：Okay.
+：Lora Ho - SVP & CFO
+：I don't think I said last time that next year will be higher than this year.
+：Andrew Lu - Analyst
+：The Chairman said that.
+：Lora Ho - SVP & CFO
+：It will be lower than last year that's probably I have said.
+：Andrew Lu - Analyst
+：Thank you.
+：Elizabeth Sun - Director of Corporate Communications
+：All right.
+：Rick Hsu - Analyst
+：Hi.
+：Lora Ho - SVP & CFO
+：Well, Q1 normally is a low season.
+：Mark Liu - Co-CEO
+：Let me add some color for that if you want.
+：Rick Hsu - Analyst
+：Yes, sure.
+：Mark Liu - Co-CEO
+：We don't expect strong inventory adjustment more than what we see in Q4.
+：Elizabeth Sun - Director of Corporate Communications
+：A follow-up question from HSBC, Steven Pelayo.
+：Steven Pelayo - Analyst
+：Just a little bit, thinking about the next three years or so, the last three years you guys have clearly benefited, 28-nanometer dominance, smartphone industry growing at 40% compounded growth rates.
+：When you think about the next three years I think people are forecasting smartphone CAGRs may be more in the under 15% type range.
+：Lora Ho - SVP & CFO
+：You cannot expect 20% growth for every year.
+：Elizabeth Sun - Director of Corporate Communications
+：Short follow-up questions from Dan Heyler.
+：Dan Heyler - Analyst
+：That last one that you wouldn't let me sneak in there, I didn't forget it.
+：C.C. Wei - Co-CEO
+：Good question.
+：Dan Heyler - Analyst
+：Yes, it does.
+：Elizabeth Sun - Director of Corporate Communications
+：Okay, I think pretty much we have answered the most critical questions in your mind and we would like to conclude our conference and conference call right now.
+：Before we conclude, please be advised the replay will be available within three hours from now.
+：Thank you for joining us today.
+：

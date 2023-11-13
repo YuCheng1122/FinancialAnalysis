@@ -1,0 +1,237 @@
+Welcome everyone to XinKong Financial Holdings Company's 2020 First Quarter Earnings Conference
+Call.
+All lines have been placed on mute to prevent background noise.
+After the presentation, there will be a question and answer session.
+Please follow the instructions given at that time if you would like to ask a question.
+For your information, this conference call is now being broadcasted live over the Internet.
+Webcast replay will be available within an hour after the conference has finished.
+Please visit www.skfh.com.tw under the Investor Relations section.
+And now, I would like to introduce Mr. Stan Lee, the Senior Vice President of XinKong
+Financial Holdings Company.
+Mr. Lee, please begin.
+Thank you, Moderator.
+Good afternoon, ladies and gentlemen.
+Welcome again for joining the XinKong Financial Holdings 2020 First Quarter Analysts' Call.
+Before we start, I would like to introduce my colleagues who are with me today.
+We are happy to have Ming-Yi Huang, President of the Financial Holdings Company, to review
+the first quarter results with us.
+Also in the room are Sunny Hsu, Executive Senior Vice President of the Financial Holdings
+Company, James Yuan, Chief Investment Officer of XinKong Live, Han Wei-Lin, Chief Actuary
+of XinKong Live, Isabella and Christine, members of the IR team.
+We are also joined by Ophelia Ouyang, Partner of Deloitte Actuarial Insurance Solutions.
+Ophelia has been working closely with us over the past few months in reviewing our EV work,
+and she's here to help us answer any questions you may have.
+The presentation we are about to go through was sent out two hours ago.
+You may also download it from our website or participate through the webcast.
+If you do not have the presentation, please let us know now.
+Your lines will be muted when we are presenting.
+If you are called off, please dial back in or call Christine at 886-968-929-230 for assistance.
+Now please turn to page 4.
+SKFH recorded a consolidated after-tax profit of $6.67 billion for the first quarter 2020.
+Earnings per share was $0.53.
+Consolidated shareholders' equity was $149.72 billion, and book value per share at the end
+of the first quarter was $11.81.
+Life insurance EV per share of SKFH was $23.3.
+EV auctioned on life increased 19% year-on-year to $292.7 billion in 2019, driven by an optimized
+product mix, V1MV grew 3% to $24.9 billion.
+Core business of each subsidiary remained stable in the first quarter, which will be
+covered later in the presentation.
+I would also like to highlight that the company completed a capital raising of around $3.3
+billion through its issuance of common shares in May.
+The funds will be injected to Shingon Life in June to strengthen its capital position.
+The company plans to issue preferred shares B in the second half of the year to invest
+in Shingon Life and Shingon Bank to support their business development.
+FYP decreased 32.2% year-on-year to $20.52 billion, primarily due to adjustments in product
+mix.
+As the share of regular premium increased to 65.5% for the first quarter, FYPE over
+FYP was 35.8%.
+Also, foreign currency policies remained the sales focus this year.
+FYP of such policies amounted to $14.36 billion, accounting for 70% of total FYP.
+With new business and lower declare rate, hostilities declined two basis points year-to-date
+to 3.95%, in line with our guidance.
+Page 13 presents the overall view of Shingon Life's investment portfolio.
+Annualized investment return for the first quarter 2020 was 4.41%.
+Breakdown of investment returns of different asset classes were real estate 3.3%, mortgage
+and corporate loans 1.9%, policy loans 5.5%, overseas investments 4.6%, domestic securities
+4.7% and cash 0.5%.
+Page 14 shows the portfolio of overseas fixed incomes.
+At the end of first quarter, overseas fixed incomes amounted to $1.74 trillion.
+Corporate bonds accounted for the largest share, representing 47.6% of the total, followed
+by international bonds at 29.8%.
+Emerging market government bonds accounted for 21.8%.
+About 90% of the overseas fixed incomes position was deployed in USD denominated bonds.
+As for overseas fixed incomes portfolio by region, North America and Europe accounted
+for the majority of overseas fixed incomes, with a combined share 59.7%.
+Page 16.
+The pie chart on the left-hand side shows the mix of hedging instruments.
+At the end of first quarter, hedging ratio was 75.2%, including CS, NDF and naturally
+hedged foreign currency policies.
+CS and NDF accounted for 63% and 37% respectively of traditional hedges.
+Annualized hedging cost was 1.54%, slightly lower than the level of the first quarter
+2019.
+Foreign currency volatility reserve was $1.5 billion.
+I will now hand over to Isabella, who will take you through the results of Xinkong Bank
+and Masterlink Securities.
+Thank you, Stan.
+Please turn to page 20.
+Xinkong Bank delivered a stable performance for the first quarter, driven by the substantial
+growth in wealth management income and investment income.
+Pre-provision operating profit reached $1.91 billion, which was 5.1% higher from a year
+earlier.
+Consolidated net income increased 12% year-on-year to $1.33 billion.
+Page 21.
+The bank's loan balance rose 1.5% year-to-date to around $615 billion.
+Consumer lending continued an upward trend with mortgage and unsecured loans increasing
+1.6% and 2.1% year-to-date respectively.
+As for corporate lending, the momentum mainly came from domestic large corporates and SME
+loans.
+The loan growth target for 2020 is 6%.
+Page 22.
+Due to fierce competition in the market and rate cuts, the interest margin and the interest
+break for the first quarter came down to 1.38% and 1.75% respectively.
+Given the ongoing low-yield environment and competitive pressure from peers, the four-year
+figures will fall below the level of 2019.
+Page 24.
+Wealth management income for the first quarter increased 9.3% year-on-year to $612 million
+thanks to strong sales momentum in mutual funds and overseas securities.
+The fee income from these two categories accounted for 61.4% of the total.
+In the second half of the year, Shengong Bank will actively attract new funds and expand
+its client base by promoting online marketing campaigns.
+Page 25.
+Asset quality was stable with NPO ratio at 0.19% and coverage ratio at 663.43%.
+Both ratios were better than the level of 2019.
+Page 27.
+Masterlink Securities generated a brokerage income of $920 million for the first quarter,
+which was 45.9% higher year-on-year.
+Brokerage market share was 3.54%, remaining top six in the industry.
+However, due to sharp volatility in the financial market, Masterlink Securities suffered unrealized
+market-to-market losses in its prop trading business and posted a consolidated after-tax
+loss of $350 million.
+I will now turn over to Hanwei to talk about the update on EBMAV.
+Thank you, Isabella.
+Please turn to page 29.
+For 2019 embedded value, the earning rate of VIF goes from 3.30% to 4.62% in 30 years
+for Taiwan dollar products and 4.59% to 5.09% for U.S. dollar products.
+The equivalent investment yield is 4.19%.
+For VMB, it goes from 3.12% to 4.47% and 4.13% to 5.00% in 30 years for Taiwan dollar and
+U.S. dollar products, respectively.
+The adjusted NAV increased 30%, VIF increased 6%, and COC increased 11%.
+As a result, at the end of 2019, EV of Xinguang Life increased 19% year-on-year to $292.7
+billion.
+Although FYP was down 8% in 2019, we were able to sell more regular premium products
+and health products with higher margins.
+Therefore, VMB increased 3% to $24.9 billion and VMB margin increased to 21.3%.
+AV for five years of new business and 20 years of new business were $390.7 billion and $508.2
+billion, respectively.
+Page 30.
+Under the base case scenario, risk discount rate remains at 10.5%.
+We also provide the sensitivity test of investment return and the risk discount rate for your
+reference.
+Page 31.
+Statutory net worth increased from $69.8 billion to $114.4 billion in 2019.
+The main impact came from the realized gains on financial assets, which added $29 billion
+to statutory net worth.
+Page 32.
+Study from the net worth, realized gains on property contributed to an increase of $74.8
+billion in the adjusted NAV.
+We also added special reserves of realized gains on property of $5.6 billion and foreign
+exchange volatility reserve of $2.1 billion.
+Total adjusted NAV increased 30% to $196.9 billion.
+Page 33.
+VIF grew 6% from $176.2 billion to $186.4 billion in 2019.
+The main impact came from the new business issue, which added $31 billion to VIF.
+Assumption changes caused a decrease of $40 billion total, mainly from the change in
+economic.
+Page 34.
+VMD increased 3% from $24.1 billion to $24.9 billion in 2019.
+The improved product mix was the most important factor that helped add $5.6 billion to VMD.
+That wraps up our results presentation.
+Moderator, please start the Q&A session.
+Yes, thank you.
+And ladies and gentlemen, we will now begin our question and answer session.
+If you wish to ask a question, please press 01 on your telephone keypad and you will enter
+the queue.
+After you are announced, please ask your question.
+Should you wish to cancel your question, you may press 02.
+Thank you.
+Now, please press 01 to ask a question.
+Thank you.
+The first question is coming from Jamie Huan of JP Morgan.
+Go ahead, please.
+Yeah, hi.
+Thanks for the presentation.
+Two questions from me.
+Beginning on Xinguang Life, first thing is, do you still have any hidden value, which
+means can you still further do property revaluation if you want, either from your existing portfolio
+perspective or from the regulatory perspective, or everything will already be pretty much
+mark-to-market now?
+And second question is on FX Reserve.
+I think $1.5 billion at the end of first quarter is pretty much the historical low.
+And likely, I think in April, you will down further.
+So just wonder, do we have any plan to do one-time injection into the FX Reserve?
+Or there will be some risk that you may not be able to use the FX Reserve sometime this
+year?
+Thank you, Jamie, for the questions.
+Let me answer your first question first, and I'll leave the second to James Yuan, the CIO.
+For life insurance, your question is about whether there's any more left for the market.
+First of all, I have to reemphasize that what we announced as May 22nd is still
+subjected to the approval of the Life Insurance Bureau.
+If they approve to adopt the market value appraisals of the investment purposes real
+estates, then for the first date of January this year, what we will be able to market
+to the shares equity will be in amount of $47 billion if they allow us to adopt the
+new regulation.
+Is there anything left?
+Well, as far as the amount to market to the balance sheet, both to the asset or to the
+shares equity, this is the number for us to start the accounting rules of this year.
+The followings will be subjected to the changes of discount rates, second, the rental yield,
+and using the DCF method, we will generate different market value gain or losses in the
+following month and quarters.
+But for the EV perspective, yes, there are residuals because now we only mark to market
+the investment purpose, self-occupied portfolios.
+If we mark to market everything as of the end of last year and also be presented by
+our chief actuary, then the number will be approaching to $75 billion.
+That will be the number.
+And for RBCs, currently we're still unsure of what the rules will be after the adoptions
+of the market.
+We're not 100% sure.
+But if we refer to the original rules, the number will be somehow different from what
+we recorded in the net worth, somehow different because the methodology is different.
+We used to use market comparisons, DCFs, replacement costs, and relying on the results of the
+appraisal firms to mark to market.
+And recognize the unrealized gains into the RBCs.
+And now what's been recognized in the shareholder equity is expected to be only by DCFs.
+Those properties that have not generated enough yield to be legitimate to use in the DCFs
+will be replaced.
+The appraisal will be replaced by the cost, by the replacement cost.
+And that is a simplified methodology and also give us a slightly lower number.
+That is why you used to know that there are $55 billion or plus that can be recognized
+in the RBCs denominator.
+Now you can only recognize a part of that.
+As far as we announced, the number is $47 billion into the share.
+Sounds different.
+But again, if we only look at shareholder equity, if we only look at the P&Ls, the $47
+billion will be recognized after the approval of the regulatory authorities starting from
+the first date of this year.
+Jamie, it's James.
+As for the FX Reserve, other than the statutory reserve increase required about $300 million
+per month, right now, as of today, we don't have a plan to do the one-time FX Reserve
+increase.
+Okay, thank you.
+Thank you, Jamie.
+As a reminder, please press 01 to ask a question.
+Thank you.
+Please press 01 if you would like to ask a question.
+Thank you.
+We are now in question and answer session.
+If you would like to ask a question, please press 01 on your telephone keypad.
+Thank you.
+Well, if there are no further questions, then I would like to close the meeting now.
+Yes, thank you, Mr. Stanley.
+And ladies and gentlemen, thank you for your participation in Xinkong Financial Holding
+Company's conference call.
+There will be a webcast replay within an hour.
+Please visit www.skfh.com.tw under the Investor Relations section.
+Should you have further questions, please don't hesitate to contact the IR team of
+SKFH by phone or by email.
+You may now disconnect.
+Goodbye.
